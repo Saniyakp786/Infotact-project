@@ -1,0 +1,263 @@
+shipment_id,transport_mode,recorded_date,recorded_time,temperature_celsius,humidity_percentage,vibration_level,spoilage_status,cargo_type,origin_location,destination_location,exposure_duration_hours,spoilage_risk_percent,remaining_shelf_life_days,pressure_kpa,door_open_count,salinity_ppt,thermal_leakage_score
+AIR1001,Air Freight,2026-06-25,05:40,,34.2,2.5,At Risk,Meat,Kolkata Airport,Dubai Airport,42.6,27.3,5.0,91.1,0,0.0,0.0
+AIR0283,Air Freight,2026-06-23,11:10,3.2,24.6,0.9,Fresh,Seafood,Bengaluru Airport,Doha Airport,28.4,17.4,3.6,86.6,0,0.0,0.0
+AIR0237,Air Freight,2026-03-19,17:05,3.6,35.5,3.0,Fresh,Meat,Mumbai Airport,Frankfurt Airport,37.3,22.9,4.5,87.7,0,0.0,0.0
+AIR0829,Air Freight,2025-03-15,12:35,1.6,39.4,0.7,Fresh,Meat,Hyderabad Airport,Amsterdam Airport,29.1,13.9,5.2,84.4,0,0.0,0.0
+AIR0976,Air Freight,2026-01-20,03:15,4.1,35.7,5.6,Fresh,Fruits,Chennai Airport,Dubai Airport,35.0,16.2,10.9,77.3,0,0.0,0.0
+AIR0666,Air Freight,2025-03-20,08:15,7.4,33.5,0.7,Spoiled,Flowers,Mumbai Airport,Doha Airport,35.8,85.3,2.9,84.7,0,0.0,0.0
+AIR0561,Air Freight,2025-12-25,07:25,4.7,38.9,1.5,Fresh,Meat,Mumbai Airport,Hong Kong Airport,34.3,21.6,5.0,90.6,0,0.0,0.0
+AIR0801,Air Freight,2024-06-21,13:25,3.9,37.8,0.7,Fresh,Meat,Chennai Airport,London Heathrow Airport,25.1,13.5,5.5,90.6,0,0.0,0.0
+AIR0967,Air Freight,2026-06-28,17:45,4.3,23.5,0.3,Fresh,Flowers,Mumbai Airport,Amsterdam Airport,34.2,20.9,4.2,85.5,0,0.0,0.0
+AIR0437,Air Freight,2026-05-26,03:50,9.9,31.6,0.7,Fresh,Fruits,Chennai Airport,Hong Kong Airport,41.0,20.3,10.6,76.8,0,0.0,0.0
+AIR1000,Air Freight,2026-01-20,03:15,999.0,35.7,5.6,Fresh,Fruits,Chennai Airport,Dubai Airport,35.0,16.2,10.9,77.3,0,0.0,0.0
+AIR0886,Air Freight,2025-03-16,01:00,8.6,41.2,1.3,Fresh,Pharmaceuticals,Bengaluru Airport,Hong Kong Airport,45.1,21.3,26.4,81.6,0,0.0,0.0
+AIR0841,Air Freight,2025-07-03,20:30,-6.8,17.9,1.5,Fresh,Meat,Mumbai Airport,Frankfurt Airport,27.5,15.8,5.5,83.2,0,0.0,0.0
+AIR0335,Air Freight,2025-02-02,13:00,3.9,30.9,5.2,Fresh,Vegetables,Hyderabad Airport,Singapore Airport,36.2,16.5,8.6,90.4,0,0.0,0.0
+AIR0240,Air Freight,2025-04-05,07:05,7.5,24.8,1.0,Spoiled,Flowers,Chennai Airport,Doha Airport,34.4,83.1,2.7,63.2,0,0.0,0.0
+AIR0317,Air Freight,2026-06-07,04:50,2.5,31.3,0.1,Fresh,Meat,Chennai Airport,Amsterdam Airport,35.2,12.9,6.0,92.8,0,0.0,0.0
+AIR0107,Air Freight,2025-02-13,10:40,5.8,29.0,4.9,Fresh,Dairy,Bengaluru Airport,Frankfurt Airport,42.6,24.6,5.7,84.6,0,0.0,0.0
+AIR0090,Air Freight,2025-12-09,08:00,4.7,14.0,3.3,Fresh,Dairy,Bengaluru Airport,Frankfurt Airport,47.6,15.5,6.2,89.6,0,0.0,0.0
+AIR0127,Air Freight,2025-11-18,08:30,3.1,43.3,0.3,Fresh,Pharmaceuticals,Mumbai Airport,Dubai Airport,31.6,6.5,29.2,89.4,0,0.0,0.0
+AIR0294,Air Freight,2026-04-27,09:30,-3.1,18.3,0.7,Fresh,Flowers,Delhi Airport,London Heathrow Airport,42.0,21.3,4.4,80.8,0,0.0,0.0
+AIR0495,Air Freight,2025-08-02,03:30,10.6,33.3,4.0,Fresh,Fruits,Mumbai Airport,Singapore Airport,31.9,8.8,11.5,96.0,0,0.0,0.0
+AIR0573,Air Freight,2025-09-14,09:45,2.5,29.8,2.9,At Risk,Meat,Chennai Airport,Doha Airport,37.1,25.1,5.4,80.1,0,0.0,0.0
+AIR0318,Air Freight,2026-08-29,10:00,3.3,36.2,0.6,Fresh,Pharmaceuticals,Bengaluru Airport,Hong Kong Airport,44.9,15.5,27.3,83.4,0,0.0,0.0
+AIR0583,Air Freight,2024-01-14,14:25,2.4,15.8,4.2,Fresh,Vegetables,Delhi Airport,Doha Airport,44.0,12.1,9.0,96.1,0,0.0,0.0
+AIR0664,Air Freight,2024-02-23,15:45,1.9,32.9,1.1,Spoiled,Meat,Hyderabad Airport,Frankfurt Airport,45.0,85.8,3.1,83.2,0,0.0,0.0
+AIR0887,Air Freight,2026-05-06,22:50,6.1,34.7,3.0,Fresh,Dairy,Mumbai Airport,Frankfurt Airport,38.3,19.7,6.3,95.0,0,0.0,0.0
+AIR0616,Air Freight,2025-02-02,19:50,8.6,32.2,1.3,Fresh,Pharmaceuticals,Hyderabad Airport,Doha Airport,43.9,20.1,27.1,88.4,0,0.0,0.0
+AIR0060,Air Freight,2025-04-03,19:10,3.3,18.3,0.3,Fresh,Pharmaceuticals,Bengaluru Airport,Amsterdam Airport,37.9,19.5,26.7,82.7,0,0.0,0.0
+AIR0637,Air Freight,2026-01-21,23:35,9.9,44.7,1.0,Fresh,Vegetables,Bengaluru Airport,Frankfurt Airport,25.9,15.6,8.6,90.0,0,0.0,0.0
+AIR0201,Air Freight,2025-10-10,08:00,1.9,16.8,1.5,Fresh,Seafood,Mumbai Airport,Dubai Airport,32.1,11.7,3.5,86.2,0,0.0,0.0
+AIR1004,Air Freight,2024-05-21,07:40,8.9,39.3,0.9,Fresh,unknown,Delhi Airport,Singapore Airport,37.5,21.1,8.8,86.7,0,0.0,0.0
+AIR0787,Air Freight,2024-08-05,14:00,6.8,17.1,1.2,Fresh,Vegetables,Mumbai Airport,Amsterdam Airport,24.3,15.9,8.6,84.5,0,0.0,0.0
+AIR0355,Air Freight,2024-06-13,03:40,9.1,21.7,1.0,Fresh,Fruits,Hyderabad Airport,Amsterdam Airport,26.0,15.9,11.1,93.3,0,0.0,0.0
+AIR0970,Air Freight,2026-08-06,11:20,2.6,12.2,4.2,Fresh,Vegetables,Kolkata Airport,Doha Airport,45.2,18.6,8.9,88.2,0,0.0,0.0
+AIR0962,Air Freight,2025-02-03,14:20,0.3,15.3,1.1,Fresh,null,Hyderabad Airport,Dubai Airport,46.0,15.8,9.0,83.2,0,0.0,0.0
+AIR0367,Air Freight,2025-01-07,19:40,3.1,-27.5,0.5,Fresh,Flowers,Bengaluru Airport,Doha Airport,46.3,21.9,4.4,89.5,0,0.0,0.0
+AIR0359,Air Freight,2024-05-20,17:40,-0.6,44.3,1.1,Fresh,Meat,Kolkata Airport,Doha Airport,33.2,18.1,5.6,85.8,0,0.0,0.0
+AIR0311,Air Freight,2024-12-14,17:05,2.8,33.3,0.4,Fresh,Seafood,Mumbai Airport,Doha Airport,31.0,18.7,3.8,84.1,0,0.0,0.0
+AIR0004,Air Freight,2024-12-03,05:40,8.4,10.2,1.4,Fresh,Fruits,Delhi Airport,Frankfurt Airport,46.5,14.5,11.5,91.8,0,0.0,0.0
+AIR0325,Air Freight,2025-07-27,18:40,-1.5,35.6,0.3,Fresh,Flowers,Kolkata Airport,Amsterdam Airport,28.2,12.7,4.6,83.9,0,0.0,0.0
+AIR0230,Air Freight,2025-03-26,11:10,1.2,33.1,1.2,Fresh,Pharmaceuticals,Kolkata Airport,Amsterdam Airport,26.8,10.4,28.4,70.5,0,0.0,0.0
+AIR0822,Air Freight,2024-01-03,21:10,-3.6,31.1,0.7,Fresh,Vegetables,Hyderabad Airport,Hong Kong Airport,27.0,13.3,9.8,90.6,0,0.0,0.0
+AIR0563,Air Freight,2024-07-13,19:10,0.8,39.8,0.6,At Risk,Meat,Delhi Airport,Hong Kong Airport,42.1,25.0,4.9,82.6,0,0.0,0.0
+AIR0952,Air Freight,2024-02-09,11:15,-2.1,23.4,1.4,Fresh,Seafood,Kolkata Airport,Doha Airport,30.6,18.4,4.0,78.7,0,0.0,0.0
+AIR0689,Air Freight,2025-07-04,13:25,1.3,34.7,1.2,Fresh,Dairy,Hyderabad Airport,Hong Kong Airport,36.1,14.8,6.6,82.8,0,0.0,0.0
+AIR0257,Air Freight,2026-07-11,20:40,3.9,36.6,0.5,Fresh,Seafood,Kolkata Airport,Dubai Airport,40.8,17.0,3.4,94.1,0,0.0,0.0
+AIR0899,Air Freight,2024-03-20,19:15,7.2,28.3,4.5,Fresh,Fruits,Chennai Airport,Doha Airport,37.9,15.3,10.4,85.4,0,0.0,0.0
+AIR0784,Air Freight,2024-03-19,09:40,-0.1,29.1,0.8,Fresh,Meat,Hyderabad Airport,Singapore Airport,45.3,24.9,5.4,85.2,0,0.0,0.0
+AIR0624,Air Freight,2025-05-13,17:25,-2.3,35.5,0.4,Fresh,Meat,Delhi Airport,Amsterdam Airport,33.6,15.4,5.8,99.0,0,0.0,0.0
+AIR0509,Air Freight,2024-07-11,17:55,3.3,34.0,0.5,Fresh,Fruits,Hyderabad Airport,Doha Airport,43.8,16.9,11.0,89.9,0,0.0,0.0
+AIR0955,Air Freight,2025-02-15,08:45,4.2,32.4,1.4,Fresh,Fruits,Delhi Airport,Doha Airport,38.4,16.9,11.0,96.0,0,0.0,0.0
+AIR0141,Air Freight,2025-06-27,22:35,5.4,19.8,1.2,Fresh,Vegetables,Bengaluru Airport,Frankfurt Airport,44.4,20.1,9.0,82.6,0,0.0,0.0
+AIR0988,Air Freight,2025-08-02,15:20,2.8,29.4,0.1,At Risk,Dairy,Kolkata Airport,Singapore Airport,47.5,28.6,6.0,79.0,0,0.0,0.0
+AIR0989,Air Freight,2026-06-06,23:10,3.1,26.2,0.2,Fresh,Vegetables,Delhi Airport,Singapore Airport,47.5,15.9,8.7,89.5,0,0.0,0.0
+AIR0083,Air Freight,2025-12-22,06:45,-5.2,33.1,0.5,Fresh,Pharmaceuticals,Mumbai Airport,Frankfurt Airport,32.8,12.8,28.2,84.0,0,0.0,0.0
+AIR0965,Air Freight,2024-08-12,14:00,-2.5,29.1,4.4,Fresh,Pharmaceuticals,Chennai Airport,Frankfurt Airport,47.7,13.8,27.2,84.0,0,0.0,0.0
+AIR0200,Air Freight,2025-12-11,21:40,1.1,43.9,1.0,Spoiled,Dairy,Chennai Airport,Amsterdam Airport,46.2,79.6,4.2,73.1,0,0.0,0.0
+AIR0651,Air Freight,2025-05-19,12:00,11.9,44.5,1.0,Fresh,Fruits,Bengaluru Airport,Doha Airport,24.9,10.9,11.3,86.0,0,0.0,0.0
+AIR0635,Air Freight,2024-12-10,18:40,5.6,28.7,0.9,Fresh,Flowers,Delhi Airport,Amsterdam Airport,24.5,17.1,4.7,93.8,0,0.0,0.0
+AIR0856,Air Freight,2025-01-05,11:05,5.3,30.1,0.5,Fresh,Vegetables,Hyderabad Airport,London Heathrow Airport,41.2,22.7,8.7,81.0,0,0.0,0.0
+AIR0163,Air Freight,2024-03-13,10:30,3.5,28.1,0.8,Fresh,Vegetables,Bengaluru Airport,Frankfurt Airport,38.8,19.5,8.7,85.0,0,0.0,0.0
+AIR0073,Air Freight,2026-06-18,15:00,-3.1,25.9,0.4,Fresh,Meat,Delhi Airport,Doha Airport,28.3,12.9,5.4,91.5,0,0.0,0.0
+AIR0700,Air Freight,2025-10-12,23:05,11.2,31.1,0.7,Fresh,Fruits,Delhi Airport,Singapore Airport,46.9,22.7,10.8,89.9,0,0.0,0.0
+AIR0947,Air Freight,2025-11-07,05:55,1.7,38.5,2.9,Fresh,Pharmaceuticals,Delhi Airport,Dubai Airport,24.9,9.5,29.2,93.8,0,0.0,0.0
+AIR0183,Air Freight,2024-10-18,16:00,0.3,27.8,0.5,Fresh,Meat,Kolkata Airport,Hong Kong Airport,35.2,16.5,5.8,85.7,0,0.0,0.0
+AIR1003,Air Freight,10/02/2025,11:50,2.8,23.8,4.4,Fresh,Dairy,Bengaluru Airport,Amsterdam Airport,28.7,6.3,6.4,93.8,0,0.0,0.0
+AIR0312,Air Freight,2024-08-15,05:35,1.7,24.3,0.5,Fresh,Dairy,Hyderabad Airport,Frankfurt Airport,35.1,19.8,6.1,82.6,0,0.0,0.0
+AIR0413,Air Freight,2026-01-26,17:40,3.2,32.5,0.5,At Risk,Vegetables,Hyderabad Airport,London Heathrow Airport,46.8,26.0,8.5,79.0,0,0.0,0.0
+AIR0630,Air Freight,2026-06-01,17:25,4.0,34.8,4.7,Fresh,Pharmaceuticals,Bengaluru Airport,Singapore Airport,33.6,19.6,27.2,90.1,0,0.0,0.0
+AIR1002,Air Freight,2024-07-19,19:50,1.8,122.5,0.6,Fresh,Dairy,Hyderabad Airport,Frankfurt Airport,33.0,16.2,6.2,73.6,0,0.0,0.0
+AIR0105,Air Freight,2024-10-23,06:45,2.8,24.2,0.4,Fresh,Seafood,Hyderabad Airport,Amsterdam Airport,37.4,23.8,3.2,75.7,0,0.0,0.0
+AIR0717,Air Freight,2025-06-28,05:50,-7.8,41.7,1.3,AT RISK,Flowers,Mumbai Airport,Hong Kong Airport,40.6,28.1,4.8,80.1,0,0.0,0.0
+AIR0902,Air Freight,2026-04-23,15:30,3.9,,2.9,Fresh,Fruits,Hyderabad Airport,Dubai Airport,37.3,15.0,10.4,89.8,0,0.0,0.0
+AIR0397,Air Freight,2024-01-09,08:35,4.0,32.3,0.1,Fresh,Dairy,Mumbai Airport,Dubai Airport,37.0,20.3,6.0,91.2,0,0.0,0.0
+AIR0637,Air Freight,2026-01-21,23:35,9.9,44.7,1.0,Fresh,Vegetables,Bengaluru Airport,Frankfurt Airport,25.9,15.6,8.6,90.0,0,0.0,0.0
+AIR0133,Air Freight,2024-08-19,16:15,3.2,22.5,4.5,Fresh,Dairy,Kolkata Airport,Hong Kong Airport,47.0,19.0,6.4,89.9,0,0.0,0.0
+AIR0044,Air Freight,2025-11-23,21:45,1.7,29.1,0.2,Fresh,Dairy,Mumbai Airport,Amsterdam Airport,37.1,12.2,6.0,89.9,0,0.0,0.0
+AIR0067,Air Freight,2024-04-25,07:55,1.9,25.5,1.0,Fresh,Pharmaceuticals,Hyderabad Airport,Dubai Airport,45.3,17.9,27.0,84.2,0,0.0,0.0
+AIR0887,Air Freight,2026-05-06,22:50,6.1,34.7,3.0,Fresh,Dairy,Mumbai Airport,Frankfurt Airport,38.3,19.7,6.3,95.0,0,0.0,0.0
+AIR0013,Air Freight,2025-09-12,06:05,10.5,35.8,0.9,Fresh,Vegetables,Kolkata Airport,London Heathrow Airport,29.6,16.3,9.1,87.6,0,0.0,0.0
+AIR0716,Air Freight,2026-04-23,04:15,1.1,30.1,0.7,Fresh,Dairy,Mumbai Airport,Amsterdam Airport,30.2,17.8,6.5,85.9,0,0.0,0.0
+AIR0140,Air Freight,2024-04-02,09:05,0.8,34.0,1.0,Fresh,Flowers,Mumbai Airport,Hong Kong Airport,32.5,23.1,4.4,70.1,0,0.0,0.0
+AIR0334,Air Freight,2025-01-10,17:05,2.7,26.1,0.9,Fresh,Seafood,Hyderabad Airport,Singapore Airport,26.1,11.3,4.0,84.7,0,0.0,0.0
+AIR0479,Air Freight,2024-11-26,16:05,5.0,33.6,5.1,Fresh,Pharmaceuticals,Mumbai Airport,Dubai Airport,31.3,16.4,27.1,81.3,0,0.0,0.0
+AIR0321,Air Freight,2024-01-02,16:50,11.6,18.3,0.8,Fresh,Fruits,Chennai Airport,Dubai Airport,29.2,15.6,10.9,84.8,0,0.0,0.0
+AIR0077,Air Freight,2025-01-04,20:45,9.0,23.2,0.8,Fresh,Vegetables,Kolkata Airport,Hong Kong Airport,33.7,17.3,9.2,85.8,0,0.0,0.0
+AIR0531,Air Freight,2025-08-01,07:50,1.4,8.0,1.5,Fresh,Vegetables,Delhi Airport,Frankfurt Airport,44.7,17.9,8.9,91.1,0,0.0,0.0
+AIR0506,Air Freight,2024-11-26,02:15,3.0,8.0,1.2,Fresh,Seafood,Bengaluru Airport,London Heathrow Airport,43.2,19.0,3.8,92.2,0,0.0,0.0
+AIR0088,Air Freight,2024-07-05,03:25,10.7,31.1,0.2,Fresh,Fruits,Delhi Airport,Dubai Airport,27.5,16.0,10.6,88.3,0,0.0,0.0
+AIR0390,Air Freight,2024-11-02,08:15,9.8,21.6,1.3,Fresh,Fruits,Chennai Airport,Singapore Airport,38.8,18.0,11.0,81.3,0,0.0,0.0
+AIR0035,Air Freight,2025-10-12,22:50,5.3,22.7,0.3,Fresh,Dairy,Chennai Airport,London Heathrow Airport,42.0,22.2,6.4,89.0,0,0.0,0.0
+AIR0884,Air Freight,2025-08-09,11:40,4.9,13.7,0.8,Fresh,Pharmaceuticals,Chennai Airport,Frankfurt Airport,44.9,14.4,27.1,89.8,0,0.0,0.0
+AIR0314,Air Freight,2024-02-07,11:25,4.0,16.5,1.0,Fresh,Vegetables,Hyderabad Airport,London Heathrow Airport,26.5,6.0,9.8,91.9,0,0.0,0.0
+AIR0043,Air Freight,2024-09-22,02:45,7.7,40.5,1.1,Fresh,Flowers,Bengaluru Airport,Dubai Airport,29.8,23.4,4.3,82.4,0,0.0,0.0
+AIR0123,Air Freight,2025-05-01,01:00,6.2,34.3,1.4,Fresh,Vegetables,Mumbai Airport,Dubai Airport,32.3,12.5,9.0,88.4,0,0.0,0.0
+AIR0423,Air Freight,2024-06-17,16:30,10.8,15.2,0.8,Fresh,Vegetables,Chennai Airport,Dubai Airport,41.8,18.5,9.3,84.2,0,0.0,0.0
+AIR0145,Air Freight,2024-12-08,13:35,2.8,29.8,0.9,Fresh,Pharmaceuticals,Kolkata Airport,Amsterdam Airport,39.0,14.1,27.8,84.3,0,0.0,0.0
+AIR0395,Air Freight,2024-08-20,03:35,-5.1,26.5,0.7,Fresh,Seafood,Kolkata Airport,Hong Kong Airport,35.8,17.2,3.7,94.7,0,0.0,0.0
+AIR0547,Air Freight,2024-06-26,13:50,7.0,14.3,0.1,Fresh,Dairy,Hyderabad Airport,Dubai Airport,40.2,16.0,6.1,92.2,0,0.0,0.0
+AIR0743,Air Freight,2025-12-05,09:20,5.5,39.0,0.7,Fresh,Vegetables,Delhi Airport,Amsterdam Airport,32.9,14.0,9.1,96.6,0,0.0,0.0
+AIR0480,Air Freight,2024-06-26,19:15,2.5,22.3,1.2,Fresh,Flowers,Mumbai Airport,London Heathrow Airport,41.4,23.6,4.7,73.8,0,0.0,0.0
+AIR0627,Air Freight,2024-08-04,12:30,-5.8,42.2,0.5,Fresh,Vegetables,Mumbai Airport,Singapore Airport,30.3,14.7,8.9,86.7,0,0.0,0.0
+AIR0358,Air Freight,2025-07-12,09:25,4.3,8.5,0.6,Fresh,Seafood,Kolkata Airport,Hong Kong Airport,26.3,16.2,3.8,82.2,0,0.0,0.0
+AIR0655,Air Freight,2024-10-07,16:05,6.3,31.2,0.8,Fresh,Pharmaceuticals,Hyderabad Airport,Hong Kong Airport,35.9,17.0,26.9,68.8,0,0.0,0.0
+AIR0985,Air Freight,2024-08-13,00:00,6.7,38.3,0.7,Fresh,Dairy,Bengaluru Airport,Hong Kong Airport,31.6,23.9,6.5,75.5,0,0.0,0.0
+AIR0330,Air Freight,2025-02-08,08:30,1.0,16.1,0.8,Fresh,Seafood,Hyderabad Airport,Doha Airport,44.9,23.9,4.0,86.0,0,0.0,0.0
+AIR0386,Air Freight,2025-01-02,11:35,5.5,8.0,0.3,Fresh,Pharmaceuticals,Delhi Airport,Dubai Airport,33.6,5.6,29.2,83.8,0,0.0,0.0
+AIR0524,Air Freight,2025-04-01,08:30,2.9,24.7,0.7,At Risk,Seafood,Hyderabad Airport,London Heathrow Airport,45.6,25.9,3.4,86.8,0,0.0,0.0
+AIR0074,Air Freight,2026-06-19,12:30,8.5,25.9,0.2,Fresh,Pharmaceuticals,Delhi Airport,Hong Kong Airport,39.6,13.9,27.7,95.9,0,0.0,0.0
+AIR0377,Air Freight,2025-12-07,17:20,-2.5,33.3,3.9,Fresh,Flowers,Bengaluru Airport,Doha Airport,47.9,21.3,4.3,86.9,0,0.0,0.0
+AIR0695,Air Freight,2025-12-23,01:05,5.5,36.5,1.3,Fresh,Pharmaceuticals,Chennai Airport,London Heathrow Airport,35.8,11.3,28.0,99.1,0,0.0,0.0
+AIR0999,Airr Freight,2024-02-23,15:45,1.9,32.9,1.1,Spoiled,Meat,Hyderabad Airport,Frankfurt Airport,45.0,85.8,3.1,83.2,0,0.0,0.0
+AIR0174,Air Freight,2024-10-14,21:35,2.7,19.5,0.3,Fresh,Flowers,Hyderabad Airport,Dubai Airport,31.2,15.4,4.5,89.4,0,0.0,0.0
+AIR0519,Air Freight,2026-05-07,08:00,-3.4,27.2,1.1,Fresh,Pharmaceuticals,Mumbai Airport,Singapore Airport,42.3,7.5,28.4,84.2,0,0.0,0.0
+AIR0414,Air Freight,2024-01-16,03:15,4.6,34.1,1.1,At Risk,Flowers,Hyderabad Airport,Singapore Airport,39.5,28.9,4.7,82.2,0,0.0,0.0
+AIR0946,Air Freight,2025-03-09,12:45,2.8,36.7,1.4,Fresh,Dairy,Kolkata Airport,Doha Airport,39.1,20.3,6.6,86.0,0,0.0,0.0
+AIR0146,Air Freight,2025-01-28,12:50,3.4,18.3,5.4,Fresh,Pharmaceuticals,Bengaluru Airport,Amsterdam Airport,25.2,4.6,29.2,76.8,0,0.0,0.0
+AIR0104,Air Freight,2025-12-23,09:00,8.1,35.9,0.5,Fresh,Vegetables,Hyderabad Airport,Frankfurt Airport,41.4,18.6,8.7,92.7,0,0.0,0.0
+AIR0025,Air Freight,2026-01-07,22:40,0.8,28.3,0.9,Fresh,Fruits,Hyderabad Airport,Frankfurt Airport,27.3,12.5,11.1,74.7,0,0.0,0.0
+AIR0405,Air Freight,2025-09-08,04:45,-0.8,23.8,0.6,Fresh,Meat,Delhi Airport,London Heathrow Airport,28.9,20.0,5.7,72.6,0,0.0,0.0
+AIR0745,Air Freight,2026-08-29,14:15,5.8,32.6,0.2,At Risk,Dairy,Mumbai Airport,Hong Kong Airport,38.5,26.1,5.8,75.7,0,0.0,0.0
+AIR0614,Air Freight,2025-01-04,18:20,3.7,44.3,1.1,Fresh,Pharmaceuticals,Chennai Airport,Frankfurt Airport,30.0,21.1,26.5,87.7,0,0.0,0.0
+AIR0827,Air Freight,2025-09-16,13:35,-0.7,24.3,4.5,Fresh,Meat,Kolkata Airport,London Heathrow Airport,36.9,16.4,5.3,90.4,0,0.0,0.0
+AIR0818,Air Freight,2025-12-24,05:35,4.8,47.3,4.4,Fresh,Pharmaceuticals,Kolkata Airport,Doha Airport,29.1,11.4,28.1,85.4,0,0.0,0.0
+AIR0842,Air Freight,2025-11-17,20:10,-3.0,21.5,1.0,Fresh,Vegetables,Bengaluru Airport,Amsterdam Airport,32.1,9.8,9.4,72.6,0,0.0,0.0
+AIR0981,Air Freight,2025-08-09,15:25,1.3,22.2,0.9,Fresh,Meat,Hyderabad Airport,London Heathrow Airport,41.9,20.4,5.7,83.5,0,0.0,0.0
+AIR0184,Air Freight,2026-06-07,08:05,6.0,33.2,-1.7,Fresh,Pharmaceuticals,Delhi Airport,London Heathrow Airport,27.0,11.5,27.7,87.3,0,0.0,0.0
+AIR0328,Air Freight,2025-05-16,14:45,-3.5,20.5,0.7,Fresh,Pharmaceuticals,Bengaluru Airport,Singapore Airport,46.8,11.8,27.9,90.0,0,0.0,0.0
+AIR0196,Air Freight,2025-08-30,01:15,9.1,27.0,1.3,Fresh,Vegetables,Bengaluru Airport,Amsterdam Airport,24.7,13.4,8.5,85.6,0,0.0,0.0
+AIR0736,Air Freight,2025-07-07,04:05,-8.2,22.9,4.2,Fresh,Meat,Bengaluru Airport,Hong Kong Airport,37.5,19.1,5.9,98.3,0,0.0,0.0
+AIR0118,Air Freight,2025-06-01,20:05,5.7,39.1,1.5,Fresh,Vegetables,Bengaluru Airport,Hong Kong Airport,28.5,7.1,9.6,93.6,0,0.0,0.0
+AIR0983,Air Freight,2026-03-01,09:35,1.1,10.6,1.0,Fresh,Seafood,Hyderabad Airport,Hong Kong Airport,30.2,13.0,3.4,91.5,0,0.0,0.0
+AIR0722,Air Freight,2024-04-21,01:50,3.1,28.4,0.8,Fresh,Pharmaceuticals,Delhi Airport,Hong Kong Airport,40.3,13.8,27.6,87.4,0,0.0,0.0
+AIR0909,Air Freight,2025-09-08,09:25,5.7,21.9,1.0,Fresh,Pharmaceuticals,Chennai Airport,Hong Kong Airport,45.1,20.4,26.7,82.1,0,0.0,0.0
+AIR0071,Air Freight,2024-07-14,10:10,1.2,21.0,0.8,Fresh,Seafood,Chennai Airport,Amsterdam Airport,36.6,14.1,4.0,87.0,0,0.0,0.0
+AIR0878,Air Freight,2025-06-07,01:55,4.4,44.0,0.6,Fresh,Pharmaceuticals,Delhi Airport,Doha Airport,29.2,16.0,27.1,75.5,0,0.0,0.0
+AIR0011,Air Freight,2024-05-23,21:20,1.5,40.8,1.4,Fresh,Seafood,Hyderabad Airport,Hong Kong Airport,36.3,20.7,4.0,90.8,0,0.0,0.0
+AIR0369,Air Freight,2026-07-10,13:35,3.1,27.8,6.1,Fresh,Pharmaceuticals,Hyderabad Airport,Singapore Airport,41.5,15.0,27.9,95.1,0,0.0,0.0
+AIR0968,Air Freight,2024-06-30,19:45,-7.9,27.9,1.4,Spoiled,Seafood,Chennai Airport,Frankfurt Airport,47.9,96.9,2.0,80.1,0,0.0,0.0
+AIR0302,Air Freight,2025-09-02,05:30,-4.7,40.7,1.4,Fresh,Dairy,Mumbai Airport,Dubai Airport,29.8,21.2,5.8,83.3,0,0.0,0.0
+AIR0121,Air Freight,2026-01-25,04:50,6.4,32.8,1.2,Fresh,Vegetables,Chennai Airport,London Heathrow Airport,37.3,15.3,8.9,86.6,0,0.0,0.0
+AIR0182,Air Freight,2025-12-29,08:25,9.1,24.4,0.7,At Risk,Vegetables,Delhi Airport,Singapore Airport,45.9,27.9,8.1,67.1,0,0.0,0.0
+AIR0515,Air Freight,2026-08-28,05:35,9.7,28.0,0.6,Fresh,Vegetables,Bengaluru Airport,Hong Kong Airport,41.9,17.3,8.9,86.6,0,0.0,0.0
+AIR0725,Air Freight,2025-07-26,15:35,7.6,37.6,0.8,Fresh,Fruits,Mumbai Airport,Amsterdam Airport,26.1,17.2,11.3,81.4,0,0.0,0.0
+AIR0816,Air Freight,2025-08-18,04:50,-0.7,36.9,4.5,Fresh,Meat,Hyderabad Airport,Dubai Airport,36.2,20.5,5.5,88.7,0,0.0,0.0
+AIR0986,Air Freight,2024-09-08,04:25,8.2,42.9,1.1,Fresh,Fruits,Bengaluru Airport,London Heathrow Airport,40.5,23.8,9.9,79.7,0,0.0,0.0
+AIR0995,Air Freight,2024-05-07,08:40,3.3,26.8,0.7,Fresh,Pharmaceuticals,Kolkata Airport,Singapore Airport,37.5,15.4,27.6,62.0,0,0.0,0.0
+AIR0681,Air Freight,2025-06-15,13:25,3.8,16.4,0.1,Fresh,Pharmaceuticals,Kolkata Airport,Doha Airport,41.5,10.0,28.0,90.4,0,0.0,0.0
+AIR0193,Air Freight,2025-07-28,10:10,-5.5,41.6,1.1,Fresh,Flowers,Chennai Airport,Dubai Airport,27.0,21.1,4.3,86.2,0,0.0,0.0
+AIR0800,Air Freight,2024-07-08,11:30,4.9,28.4,0.3,Fresh,Flowers,Mumbai Airport,Doha Airport,35.8,12.2,4.5,92.6,0,0.0,0.0
+AIR0686,Air Freight,2025-11-08,05:10,1.6,37.2,0.3,Fresh,Meat,Chennai Airport,London Heathrow Airport,43.6,24.3,4.7,90.1,0,0.0,0.0
+AIR0958,Air Freight,2025-06-28,00:15,12.9,44.6,1.0,Fresh,Fruits,Hyderabad Airport,Singapore Airport,34.9,20.5,10.3,88.9,0,0.0,0.0
+AIR0345,Air Freight,2025-05-02,05:15,4.8,23.5,3.8,Fresh,Dairy,Delhi Airport,Hong Kong Airport,43.9,23.4,6.2,90.0,0,0.0,0.0
+AIR0569,Air Freight,2025-10-11,11:05,3.8,9.0,0.9,Fresh,Vegetables,Bengaluru Airport,Frankfurt Airport,32.9,9.3,9.2,85.4,0,0.0,0.0
+AIR0082,Air Freight,2026-07-30,02:55,5.3,33.1,1.0,Fresh,Dairy,Mumbai Airport,Dubai Airport,29.9,12.3,6.6,96.9,0,0.0,0.0
+AIR0741,Air Freight,2026-06-04,07:40,0.7,32.8,0.6,Fresh,Seafood,Kolkata Airport,Dubai Airport,31.6,20.4,3.8,85.6,0,0.0,0.0
+AIR0434,Air Freight,2024-03-03,09:15,-2.7,25.6,3.4,Fresh,Pharmaceuticals,Hyderabad Airport,Dubai Airport,28.6,10.3,28.2,84.2,0,0.0,0.0
+AIR0339,Air Freight,2025-12-13,05:50,3.9,28.7,0.6,Fresh,Flowers,Kolkata Airport,Amsterdam Airport,37.8,19.1,4.1,86.5,0,0.0,0.0
+AIR0073,Air Freight,2026-06-18,15:00,-3.1,25.9,0.4,Fresh,Meat,Delhi Airport,Doha Airport,28.3,12.9,5.4,91.5,0,0.0,0.0
+AIR0224,Air Freight,2026-02-02,03:00,-5.0,39.4,0.4,Fresh,Dairy,Hyderabad Airport,Amsterdam Airport,27.6,14.0,6.2,94.4,0,0.0,0.0
+AIR0456,Air Freight,2026-05-29,10:15,-0.6,8.1,1.1,Fresh,Flowers,Chennai Airport,London Heathrow Airport,46.6,13.0,5.0,89.8,0,0.0,0.0
+AIR0544,Air Freight,2025-10-03,15:20,4.0,25.4,0.1,Fresh,Pharmaceuticals,Delhi Airport,London Heathrow Airport,24.7,11.5,28.5,70.3,0,0.0,0.0
+AIR0525,Air Freight,2026-04-06,04:45,-0.8,20.9,1.3,Fresh,Meat,Chennai Airport,London Heathrow Airport,29.9,9.4,5.2,86.5,0,0.0,0.0
+AIR0486,Air Freight,2024-05-21,07:40,8.9,39.3,0.9,Fresh,Vegetables,Delhi Airport,Singapore Airport,37.5,21.1,8.8,86.7,0,0.0,0.0
+AIR0951,Air Freight,2024-02-29,04:40,-1.8,23.6,0.7,Fresh,Vegetables,Chennai Airport,Doha Airport,37.8,19.0,8.9,90.1,0,0.0,0.0
+AIR0239,Air Freight,2024-08-25,04:15,1.7,30.2,0.9,Fresh,Seafood,Chennai Airport,Frankfurt Airport,32.3,20.8,3.5,87.0,0,0.0,0.0
+AIR0718,Air Freight,2024-02-17,03:05,7.3,30.3,0.5,At Risk,Vegetables,Hyderabad Airport,Frankfurt Airport,34.4,25.3,8.6,68.5,0,0.0,0.0
+AIR0943,Air Freight,2024-01-07,23:40,3.3,25.0,0.5,Fresh,Dairy,Kolkata Airport,Doha Airport,29.3,5.4,6.4,94.6,0,0.0,0.0
+AIR0733,air freight  ,2026-08-09,20:45,3.1,29.5,1.1,Fresh,Seafood,Mumbai Airport,Amsterdam Airport,43.0,20.9,3.4,89.3,0,0.0,0.0
+AIR0520,Air Freight,2026-03-29,17:15,10.4,32.4,0.9,Fresh,Fruits,Chennai Airport,Dubai Airport,29.5,16.1,10.5,76.5,0,0.0,0.0
+AIR0179,Air Freight,2026-03-25,14:20,1.9,31.1,0.3,Fresh,Meat,Hyderabad Airport,Amsterdam Airport,28.7,17.5,5.4,90.8,0,0.0,0.0
+AIR0527,Air Freight,2024-07-25,16:40,8.3,34.2,1.0,At Risk,Flowers,Chennai Airport,London Heathrow Airport,31.9,26.3,4.6,76.5,0,0.0,0.0
+AIR0685,Air Freight,2025-07-22,11:00,-0.7,24.5,0.5,Fresh,Meat,Kolkata Airport,Dubai Airport,24.3,3.2,5.8,98.4,0,0.0,0.0
+AIR0795,Air Freight,2026-02-08,12:55,2.1,24.0,0.6,Fresh,Seafood,Kolkata Airport,Doha Airport,36.5,16.0,3.8,95.2,0,0.0,0.0
+AIR0559,Air Freight,2024-10-30,23:20,-4.6,23.2,0.7,Fresh,Flowers,Delhi Airport,Doha Airport,33.0,17.5,4.5,80.6,0,0.0,0.0
+AIR0728,Air Freight,2024-02-12,05:40,2.3,29.0,0.8,Fresh,Pharmaceuticals,Delhi Airport,Hong Kong Airport,42.6,12.0,28.5,89.1,0,0.0,0.0
+AIR0636,Air Freight,2024-01-12,07:00,0.4,25.2,1.0,Fresh,Seafood,Bengaluru Airport,Singapore Airport,27.9,18.2,3.6,79.2,0,0.0,0.0
+AIR0269,Air Freight,2024-09-05,23:35,0.5,16.5,0.6,Fresh,Flowers,Kolkata Airport,Hong Kong Airport,30.4,18.0,4.4,73.6,0,0.0,0.0
+AIR0249,Air Freight,2025-07-24,20:00,3.2,22.3,0.4,Fresh,Dairy,Kolkata Airport,Doha Airport,25.4,4.7,6.8,88.5,0,0.0,0.0
+AIR0977,Air Freight,2024-02-13,22:45,1.4,37.5,1.0,Fresh,Flowers,Delhi Airport,Dubai Airport,41.1,16.7,4.5,97.8,0,0.0,0.0
+AIR0333,Air Freight,2024-01-22,06:50,9.7,20.0,0.9,Fresh,Vegetables,Hyderabad Airport,Doha Airport,31.0,14.0,8.9,85.8,0,0.0,0.0
+AIR0172,Air Freight,2025-10-07,20:15,1.8,25.2,0.9,Fresh,Dairy,Chennai Airport,London Heathrow Airport,36.0,14.6,6.1,79.9,0,0.0,0.0
+AIR0790,Air Freight,2025-02-26,06:30,7.1,31.4,0.4,Fresh,Flowers,Bengaluru Airport,Frankfurt Airport,25.7,17.4,4.7,89.7,0,0.0,0.0
+AIR0092,Air Freight,2024-11-27,00:35,9.2,29.4,1.0,At Risk,Fruits,Bengaluru Airport,Hong Kong Airport,37.0,27.3,10.2,73.0,0,0.0,0.0
+AIR0665,Air Freight,2025-04-07,09:20,3.0,8.0,0.2,Fresh,Seafood,Bengaluru Airport,Frankfurt Airport,33.7,15.1,3.5,84.4,0,0.0,0.0
+AIR0883,Air Freight,2024-01-30,22:05,-5.3,31.3,0.7,At Risk,Flowers,Kolkata Airport,Singapore Airport,30.6,25.2,4.4,73.4,0,0.0,0.0
+AIR0268,Air Freight,2024-04-02,20:10,7.2,8.0,0.3,Fresh,Flowers,Kolkata Airport,Doha Airport,41.4,21.7,4.6,87.1,0,0.0,0.0
+AIR0820,Air Freight,2025-04-30,22:35,2.2,11.2,5.3,Fresh,Dairy,Bengaluru Airport,Doha Airport,38.9,11.4,6.3,88.8,0,0.0,0.0
+AIR0373,Air Freight,2026-07-10,14:35,1.1,40.7,5.1,At Risk,Meat,Delhi Airport,Frankfurt Airport,46.7,27.3,4.7,87.4,0,0.0,0.0
+AIR0078,Air Freight,2025-06-06,19:10,-2.1,40.5,0.6,Fresh,Flowers,Delhi Airport,Amsterdam Airport,33.8,17.5,4.6,81.7,0,0.0,0.0
+AIR0032,Air Freight,2024-04-22,18:00,3.1,8.0,1.0,Fresh,Vegetables,Hyderabad Airport,Doha Airport,42.9,16.1,9.4,79.6,0,0.0,0.0
+AIR0128,Air Freight,2024-08-09,16:30,3.7,18.0,6.0,Fresh,Dairy,Chennai Airport,Singapore Airport,44.0,19.8,6.3,80.1,0,0.0,0.0
+AIR0872,Air Freight,2024-02-09,01:35,1.0,32.2,1.1,At Risk,Meat,Bengaluru Airport,Doha Airport,45.5,25.0,5.1,84.0,0,0.0,0.0
+AIR0658,Air Freight,2025-07-13,15:05,12.1,24.0,0.8,Fresh,Fruits,Hyderabad Airport,Doha Airport,40.9,21.3,10.2,81.9,0,0.0,0.0
+AIR0650,Air Freight,2024-07-18,13:40,0.0,34.3,0.3,Fresh,Flowers,Hyderabad Airport,Dubai Airport,30.2,12.0,4.7,93.0,0,0.0,0.0
+AIR0229,Air Freight,2025-01-05,16:00,-10.1,43.5,1.0,Spoiled,Meat,Delhi Airport,Frankfurt Airport,42.5,91.5,3.3,81.1,0,0.0,0.0
+AIR0938,Air Freight,2025-03-20,16:50,1.2,45.7,0.8,Fresh,Meat,Chennai Airport,London Heathrow Airport,27.0,14.8,5.5,84.5,0,0.0,0.0
+AIR0730,Air Freight,2026-07-20,12:05,14.9,12.6,0.8,At Risk,Fruits,Hyderabad Airport,Amsterdam Airport,44.8,27.0,10.2,73.1,0,0.0,0.0
+AIR0836,Air Freight,2025-03-25,20:55,6.3,27.8,4.6,Fresh,Flowers,Chennai Airport,Singapore Airport,46.3,23.4,4.8,91.2,0,0.0,0.0
+AIR0879,Air Freight,2026-04-02,08:30,10.8,8.0,0.9,Fresh,Vegetables,Kolkata Airport,Frankfurt Airport,30.7,19.4,8.7,78.5,0,0.0,0.0
+AIR0473,Air Freight,2024-10-05,12:35,6.5,18.0,0.1,Fresh,Pharmaceuticals,Delhi Airport,Singapore Airport,43.0,18.3,27.4,86.3,0,0.0,0.0
+AIR0478,Air Freight,2025-01-02,10:25,3.6,25.7,0.2,Fresh,Pharmaceuticals,Mumbai Airport,Frankfurt Airport,35.7,7.5,28.9,88.7,0,0.0,0.0
+AIR0053,Air Freight,2026-04-25,02:45,-4.4,24.7,0.1,Spoiled,Seafood,Hyderabad Airport,Doha Airport,42.0,93.2,2.3,78.3,0,0.0,0.0
+AIR0798,Air Freight,2025-04-12,15:45,2.4,15.0,0.8,Fresh,Seafood,Delhi Airport,Frankfurt Airport,29.1,7.4,4.0,86.4,0,0.0,0.0
+AIR0475,Air Freight,2026-08-26,16:40,12.6,8.0,3.4,Fresh,Fruits,Chennai Airport,Amsterdam Airport,35.8,19.1,11.0,86.7,0,0.0,0.0
+AIR0826,Air Freight,2024-09-07,20:50,5.2,37.6,0.5,Fresh,Flowers,Hyderabad Airport,Doha Airport,36.3,16.5,4.8,89.0,0,0.0,0.0
+AIR0677,Air Freight,2025-02-03,12:30,4.7,20.4,1.2,Fresh,Pharmaceuticals,Hyderabad Airport,Singapore Airport,36.9,10.7,28.4,86.0,0,0.0,0.0
+AIR0274,Air Freight,2024-01-04,00:35,-6.0,19.7,0.6,Fresh,Vegetables,Hyderabad Airport,Doha Airport,45.0,21.2,8.5,87.4,0,0.0,0.0
+AIR0040,Air Freight,2024-11-02,19:25,1.0,20.1,0.5,Fresh,Pharmaceuticals,Bengaluru Airport,London Heathrow Airport,35.6,5.5,29.6,89.4,0,0.0,0.0
+AIR0891,Air Freight,2026-02-26,22:05,1.2,40.3,0.1,At Risk,Flowers,Bengaluru Airport,Singapore Airport,42.9,27.4,4.3,80.1,0,0.0,0.0
+AIR0717,Air Freight,2025-06-28,05:50,-7.8,41.7,1.3,AT RISK,Flowers,Mumbai Airport,Hong Kong Airport,40.6,28.1,4.8,80.1,0,0.0,0.0
+AIR0245,Air Freight,2025-08-17,19:00,10.4,8.0,0.9,Fresh,Fruits,Chennai Airport,Frankfurt Airport,33.5,20.4,10.6,83.5,0,0.0,0.0
+AIR0410,Air Freight,2024-05-05,21:30,6.5,23.2,1.1,Fresh,Dairy,Hyderabad Airport,Frankfurt Airport,47.9,23.4,6.3,84.6,0,0.0,0.0
+AIR0840,Air Freight,2025-10-18,20:30,3.2,18.9,0.9,Fresh,Meat,Bengaluru Airport,Amsterdam Airport,40.1,16.9,4.9,91.2,0,0.0,0.0
+AIR0502,Air Freight,2024-12-14,14:25,-7.0,27.8,0.3,Fresh,Seafood,Bengaluru Airport,London Heathrow Airport,34.3,21.3,3.0,93.4,0,0.0,0.0
+AIR0802,Air Freight,2024-05-15,01:10,6.9,26.9,0.7,At Risk,Dairy,Kolkata Airport,Singapore Airport,46.2,29.0,5.8,80.5,0,0.0,0.0
+AIR0705,Air Freight,2024-03-14,18:45,2.8,35.3,0.1,Fresh,Dairy,Chennai Airport,London Heathrow Airport,32.9,14.9,6.5,79.5,0,0.0,0.0
+AIR0381,Air Freight,2024-02-12,14:00,-6.0,10.8,1.1,Fresh,Dairy,Delhi Airport,Hong Kong Airport,35.5,14.9,7.0,90.0,0,0.0,0.0
+AIR0349,Air Freight,2024-04-07,11:15,-11.9,25.3,1.3,Fresh,Meat,Chennai Airport,Amsterdam Airport,25.0,17.5,6.0,100.4,0,0.0,0.0
+AIR0057,Air Freight,2026-06-04,06:00,5.7,34.5,0.9,At Risk,Vegetables,Hyderabad Airport,Amsterdam Airport,35.2,27.9,8.5,69.9,0,0.0,0.0
+AIR0463,Air Freight,2026-04-24,17:30,9.1,17.1,1.3,Fresh,Fruits,Mumbai Airport,Singapore Airport,31.3,15.0,10.2,86.3,0,0.0,0.0
+AIR0759,Air Freight,2025-12-11,19:00,-1.3,17.5,1.5,Fresh,Pharmaceuticals,Kolkata Airport,Dubai Airport,24.1,3.3,29.7,87.3,0,0.0,0.0
+AIR0683,Air Freight,2024-09-03,14:55,3.1,26.3,1.0,Fresh,Seafood,Delhi Airport,Hong Kong Airport,44.6,21.1,3.4,86.1,0,0.0,0.0
+AIR0817,Air Freight,2024-04-05,22:40,3.8,20.7,0.2,Fresh,Meat,Kolkata Airport,Hong Kong Airport,29.3,10.9,5.8,85.1,0,0.0,0.0
+AIR0484,Air Freight,2025-05-10,01:55,4.2,16.0,0.3,Fresh,Flowers,Bengaluru Airport,Hong Kong Airport,34.3,14.4,4.5,91.7,0,0.0,0.0
+AIR0319,Air Freight,2025-09-14,01:15,9.9,26.8,1.2,Fresh,Vegetables,Chennai Airport,Doha Airport,32.9,18.0,9.0,79.2,0,0.0,0.0
+AIR0906,Air Freight,2024-03-18,06:05,-0.5,22.6,0.6,Fresh,Seafood,Chennai Airport,Hong Kong Airport,41.4,14.3,3.7,95.2,0,0.0,0.0
+AIR0360,Air Freight,2024-10-22,01:35,5.8,18.8,0.9,Fresh,Dairy,Delhi Airport,Doha Airport,39.5,21.0,5.6,90.1,0,0.0,0.0
+AIR0801,Air Freight,2024-06-21,13:25,3.9,37.8,0.7,Fresh,Meat,Chennai Airport,London Heathrow Airport,25.1,13.5,5.5,90.6,0,0.0,0.0
+AIR0086,Air Freight,2026-08-16,03:35,-2.6,36.3,1.2,Fresh,Meat,Bengaluru Airport,Hong Kong Airport,33.3,20.4,4.9,79.2,0,0.0,0.0
+AIR0710,Air Freight,2024-05-30,07:40,1.4,23.0,0.8,Fresh,Meat,Hyderabad Airport,Doha Airport,47.4,18.4,5.6,85.2,0,0.0,0.0
+AIR0843,Air Freight,2026-06-25,05:40,4.7,34.2,2.5,At Risk,Meat,Kolkata Airport,Dubai Airport,42.6,27.3,5.0,91.1,0,0.0,0.0
+AIR0724,Air Freight,2025-05-17,05:25,2.5,19.4,0.8,Fresh,Dairy,Mumbai Airport,Doha Airport,39.1,20.0,6.5,82.8,0,0.0,0.0
+AIR0485,Air Freight,2026-02-17,15:15,2.1,32.5,0.6,Fresh,Pharmaceuticals,Delhi Airport,Dubai Airport,24.1,14.8,27.6,70.0,0,0.0,0.0
+AIR0793,Air Freight,2024-11-20,17:55,8.5,28.5,0.4,Fresh,Pharmaceuticals,Hyderabad Airport,Dubai Airport,42.9,14.2,27.9,88.6,0,0.0,0.0
+AIR0290,Air Freight,2024-09-27,22:55,1.2,37.1,1.1,Fresh,Meat,Hyderabad Airport,Hong Kong Airport,29.4,16.7,5.4,79.1,0,0.0,0.0
+AIR0192,Air Freight,2025-06-25,16:15,-2.9,14.2,0.6,Fresh,Seafood,Chennai Airport,Singapore Airport,33.2,24.4,3.5,84.1,0,0.0,0.0
+AIR0131,Air Freight,2024-11-04,15:15,1.3,27.8,0.1,Fresh,Meat,Delhi Airport,Dubai Airport,26.7,22.6,5.5,70.2,0,0.0,0.0
+AIR0440,Air Freight,2026-07-06,22:40,8.0,32.7,0.6,Fresh,Pharmaceuticals,Mumbai Airport,Doha Airport,28.0,8.6,28.7,88.2,0,0.0,0.0
+AIR0309,Air Freight,2026-05-14,19:40,4.9,25.3,0.9,Fresh,Pharmaceuticals,Kolkata Airport,Hong Kong Airport,33.1,11.3,28.0,76.8,0,0.0,0.0
+AIR0555,Air Freight,2025-03-14,22:55,-8.3,34.9,0.8,Spoiled,Meat,Kolkata Airport,Singapore Airport,42.7,82.4,3.5,87.4,0,0.0,0.0
+AIR0432,Air Freight,2024-09-01,07:40,2.5,15.7,0.3,Fresh,Dairy,Delhi Airport,Doha Airport,40.9,19.2,6.0,92.2,0,0.0,0.0
+AIR0542,Air Freight,2025-02-10,11:50,2.8,23.8,4.4,Fresh,Dairy,Bengaluru Airport,Amsterdam Airport,28.7,6.3,6.4,93.8,0,0.0,0.0
+AIR0997,Air Freight,2026-01-05,17:55,9.6,34.0,0.7,Fresh,Vegetables,Chennai Airport,Dubai Airport,40.5,18.3,9.0,91.4,0,0.0,0.0
+AIR0731,Air Freight,2026-06-08,12:15,7.5,24.4,0.5,At Risk,Fruits,Kolkata Airport,Doha Airport,38.4,26.5,9.8,67.9,0,0.0,0.0
+AIR0346,Air Freight,2024-07-19,19:50,1.8,36.0,0.6,Fresh,Dairy,Hyderabad Airport,Frankfurt Airport,33.0,16.2,6.2,73.6,0,0.0,0.0
+AIR0307,Air Freight,2024-12-10,00:50,,10.5,1.1,Fresh,Pharmaceuticals,Chennai Airport,Doha Airport,31.0,8.8,28.3,81.9,0,0.0,0.0
+AIR0155,Air Freight,2024-07-29,00:15,7.3,26.4,1.1,At Risk,Vegetables,Delhi Airport,Dubai Airport,46.6,27.3,8.5,80.4,0,0.0,0.0
+AIR0150,Air Freight,2024-03-13,00:25,-8.7,16.1,0.5,Fresh,Meat,Delhi Airport,Dubai Airport,39.2,20.1,5.2,86.2,0,0.0,0.0
+AIR0949,Air Freight,2025-03-02,03:00,7.7,42.3,1.2,At Risk,Vegetables,Delhi Airport,London Heathrow Airport,42.6,28.6,8.3,67.2,0,0.0,0.0
+AIR0956,Air Freight,2024-08-26,04:05,3.8,13.6,0.8,Fresh,,Chennai Airport,Amsterdam Airport,30.4,11.0,4.2,88.6,0,0.0,0.0
+AIR0002,Air Freight,2024-07-20,13:25,3.8,33.4,0.9,Fresh,Flowers,Kolkata Airport,Frankfurt Airport,42.7,23.6,4.1,85.3,0,0.0,0.0
+AIR0937,Air Freight,2024-06-05,13:40,-9.1,14.3,0.8,Fresh,Meat,Chennai Airport,Amsterdam Airport,45.3,24.7,5.7,82.8,0,0.0,0.0
+AIR0391,Air Freight,2026-03-21,21:15,3.9,40.9,0.9,At Risk,Seafood,Hyderabad Airport,Dubai Airport,34.9,25.1,3.3,78.8,0,0.0,0.0
+AIR0585,Air Freight,2025-09-11,19:35,2.3,44.5,0.1,Fresh,Meat,Chennai Airport,London Heathrow Airport,39.8,18.2,5.4,93.4,0,0.0,0.0
+AIR0114,Air Freight,2024-05-09,13:30,8.7,18.7,0.5,Fresh,Flowers,Mumbai Airport,London Heathrow Airport,44.1,24.4,4.4,88.7,0,0.0,0.0
+AIR0603,Air Freight,2025-07-06,16:00,4.4,49.5,0.7,At Risk,Dairy,Bengaluru Airport,Dubai Airport,41.4,25.1,6.2,79.1,0,0.0,0.0
+AIR0954,Air Freight,2024-02-08,04:20,4.2,48.8,0.4,Fresh,Vegetables,Chennai Airport,Dubai Airport,37.4,17.1,9.3,83.8,0,0.0,0.0
+AIR0998,Air Freight,2024-07-11,17:55,37.9,34.0,0.5,Fresh,Fruits,Hyderabad Airport,Doha Airport,43.8,16.9,11.0,89.9,0,0.0,0.0
+AIR0263,Air Freight,2024-09-14,00:30,2.8,33.7,0.7,Fresh,Meat,Chennai Airport,Amsterdam Airport,28.8,19.6,5.7,76.9,0,0.0,0.0
+AIR0510,Air Freight,2026-04-18,17:05,1.6,35.3,1.2,Fresh,Seafood,Chennai Airport,Doha Airport,31.4,20.0,3.5,79.4,0,0.0,0.0
+AIR0846,Air Freight,2025-01-02,01:30,2.4,15.8,0.5,Fresh,Pharmaceuticals,Bengaluru Airport,Singapore Airport,44.0,8.5,28.3,92.7,0,0.0,0.0
