@@ -1,0 +1,258 @@
+shipment_id	transport_mode	recorded_date	recorded_time	temperature_celsius	humidity_percentage	vibration_level	spoilage_status	cargo_type	origin_location	destination_location	exposure_duration_hours	spoilage_risk_percent	remaining_shelf_life_days	pressure_kpa	door_open_count	salinity_ppt	thermal_leakage_score
+TRK1001	Cold-Chain Road Truck	11/12/2024	22:25	6.9	89.3	3.3	At Risk	Vegetables	Bengaluru	Chennai	28.5	26	8.4	0	4	0	0
+TRK0951	Cold-Chain Road Truck	23/09/2025	7:20	11.8	74.5	5.9	At Risk	Dairy	Ahmedabad	Lucknow	67.2	53.8	4.8	0	9	0	0
+TRK0666	Cold-Chain Road Truck	28/01/2025	2:50	3.3	54.4	4.9	Fresh	Pharmaceuticals	Bhopal	Mumbai	26.7	8.6	28.4	0	3	0	0
+TRK0718	Cold-Chain Road Truck	11/02/2025	19:55	4.5	63.5	3.8	At Risk	Dairy	Kolkata	Nashik	32.4	25.9	5.8	0	4	0	0
+TRK0090	Cold-Chain Road Truck	09/06/2024	18:45	7.7	72.1	1	Fresh	Flowers	Jaipur	Mumbai	4.7	20.7	4.3	0	1	0	0
+TRK0906	Cold-Chain Road Truck	12/04/2024	8:05	6.8	45.7	4.2	Fresh	Pharmaceuticals	Indore	Surat	27.9	12.6	27.7	0	4	0	0
+TRK0817	Cold-Chain Road Truck	10/12/2025	18:00	3.2	84.2	3.3	Fresh	Vegetables	Surat	Nashik	28.1	21.1	8.7	0	4	0	0
+TRK0004	Cold-Chain Road Truck	03/05/2024	22:50	6.2	66.3	3.2	Fresh	Dairy	Ahmedabad	Nashik	13.4	17.9	6.2	0	1	0	0
+TRK0822	Cold-Chain Road Truck	26/07/2026	16:25	1.1	52	4.3	Fresh	Dairy	Indore	Udaipur	36	18.1	6.2	0	6	0	0
+TRK0636	Cold-Chain Road Truck	25/04/2025	4:45	7.2	67.2	3.2	Fresh	Meat	Kolkata	Mumbai	5.1	22.8	4.9	0	1	0	0
+TRK1000	Cold-Chain Road Truck	26/01/2025	7:45	6.9	40.2	5.9	At Risk	Vegetables	Delhi	Mumbai	46.1	25.3	8.4	0	8	0	0
+TRK0827	Cold-Chain Road Truck	02/03/2024	6:50	2.2	69.8	3.5	Fresh	Meat	Chennai	Kolkata	18.1	16.6	5.4	0	2	0	0
+TRK0140	Cold-Chain Road Truck	11/12/2024	22:25	9	89.3	3.3	At Risk	Vegetables	Bengaluru	Chennai	28.5	26	8.4	0	4	0	0
+TRK0846	Cold-Chain Road Truck	10/07/2024	19:20	5.7	75.1	5.2	At Risk	Flowers	Udaipur	Jaipur	24.9	29.9	4.1	0	5	0	0
+TRK0515	Cold-Chain Road Truck	29/12/2024	21:45	10.7	58.4	2.7	At Risk	Vegetables	Nashik	Indore	44.4	26.1	8.3	0	8	0	0
+TRK0321	Cold-Chain Road Truck	20/07/2024	14:20	5.3	34.9	3.5	Fresh	Meat	Delhi	Mumbai	29.2	21.4	5.1	0	3	0	0
+TRK0146	Cold-Chain Road Truck	01/07/2026	18:40	2.4	86.1	3.1	At Risk	Meat	Delhi	Ahmedabad	3.1	25.5	5.1	0	1	0	0
+TRK0519	Cold-Chain Road Truck	20/10/2025	9:05	10.3	45.7	2.3	Fresh	Vegetables	Mumbai	Indore	4	11.6	9.2	0	1	0	0
+TRK0542	Cold-Chain Road Truck	05/11/2024	3:10	0.7	42.7	3.4	Fresh	Vegetables	Hyderabad	Mumbai	33.8	20.4	7.9	0	4	0	0
+TRK0695	Cold-Chain Road Truck	23/01/2026	8:25	0.2	31.9	3.7	Fresh	Meat	Bhopal	Mumbai	38.4	17.2	5.4	0	5	0	0
+TRK0795	Cold-Chain Road Truck	04/12/2024	6:20	4.6	64.1	6.7	At Risk	Dairy	Chennai	Bengaluru	69.2	49.4	4.9	0	8	0	0
+TRK0958	Cold-Chain Road Truck	21/04/2024	22:10	18.6	64.5	6.9	At Risk	Pharmaceuticals	Jaipur	Udaipur	67.4	42.4	21.5	0	9	0	0
+TRK0801	Cold-Chain Road Truck	06/07/2024	22:30	5.9	56.4	6.1	Fresh	Pharmaceuticals	Bhopal	Indore	59.9	21.8	26	0	7	0	0
+TRK0724	Cold-Chain Road Truck	20/11/2025	10:30	8.9	64.5	5.4	Fresh	Pharmaceuticals	Delhi	Bhopal	49.7	21.6	25.9	0	9	0	0
+TRK0842	Cold-Chain Road Truck	04/11/2024	15:10	9.8	78.8	5.1	At Risk	Fruits	Ahmedabad	Nashik	38.8	32.4	9.6	0	6	0	0
+TRK0583	Cold-Chain Road Truck	01/05/2026	7:15	4	91.6	5.6	At Risk	Vegetables	Udaipur	Indore	51.7	34.4	7.9	0	6	0	0
+TRK0456	Cold-Chain Road Truck	08/07/2024	14:25	2.4	55.2	7	At Risk	Dairy	Surat	Indore	66.9	44.6	5.1	0	13	0	0
+TRK0229	Cold-Chain Road Truck	14/01/2024	19:40	-0.2	82.5	6.4	Spoiled	Seafood	Nashik	Bhopal	68	55.4	3.2	0	8	0	0
+TRK0077	Cold-Chain Road Truck	30/10/2025	2:10	4.8	89.1	4	At Risk	Vegetables	Indore	Lucknow	31.9	28.9	8.2	0	5	0	0
+TRK1004	Cold-Chain Road Truck	20/07/2024	0:35	12.1	99	3	Fresh	Unknown	Nashik	Bhopal	16	24.7	10.2	0	3	0	0
+TRK0655	Cold-Chain Road Truck	04/08/2025	23:40	11.1	91.5	6.2	At Risk	Fruits	Indore	Bengaluru	65.7	50	8.3	0	10	0	0
+TRK0369	Cold-Chain Road Truck	20/04/2024	4:10	5.3	47.4	3	Fresh	Pharmaceuticals	Delhi	Pune	40.4	22.9	25.7	0	7	0	0
+TRK0040	Cold-Chain Road Truck	04/03/2024	19:10	1.6	75.2	6.8	At Risk	Meat	Nashik	Kolkata	61.5	46.9	4.7	0	10	0	0
+TRK0335	Cold-Chain Road Truck	05/02/2025	19:25	2.7	80.9	5.1	At Risk	Meat	Chennai	Bhopal	65.4	48.5	4.8	0	11	0	0
+TRK0133	Cold-Chain Road Truck	21/09/2025	21:45	2.1	72.2	3.3	Fresh	Seafood	Kolkata	Lucknow	11.8	15.8	3.6	0	1	0	0
+TRK0784	Cold-Chain Road Truck	20/10/2025	18:15	6.1	83	4.6	At Risk	Vegetables	Delhi	Nashik	43.3	33.8	7.9	0	6	0	0
+TRK0887	Cold-Chain Road Truck	03/12/2025	15:20	4.1	78.2	4.3	At Risk	Flowers	Bhopal	Bengaluru	52.6	39.2	4.1	0	7	0	0
+TRK0878	Cold-Chain Road Truck	28/01/2026	10:00	3.9	79.8	2	Fresh	Vegetables	Udaipur	Lucknow	6.9	10.7	9.4	0	1	0	0
+TRK0722	Cold-Chain Road Truck	15/11/2025	4:45	1.7	87.4	6.8	At Risk	Fruits	Chennai	Pune	63	41.3	8	0	9	0	0
+TRK0302	Cold-Chain Road Truck	03/04/2024	6:15	12.8	86.7	8.3	At Risk	Vegetables	Delhi	Indore	67.2	48.3	6.8	0	8	0	0
+TRK0733	Cold-Chain Road Truck	04/07/2026	20:15	10.5	86.65	4.9	At Risk	Vegetables	Jaipur	Indore	47.5	36.7	7.7	0	7	0	0
+TRK0317	Cold-Chain Road Truck	03/04/2024	6:50	12.1	88.7	6	Spoiled	Seafood	Pune	Nashik	70.7	96.9	1.4	0	10	0	0
+TRK0627	Cold-Chain Road Truck	15/08/2024	17:10	1.3	83.6	5.1	At Risk	Meat	Lucknow	Jaipur	42.4	40.1	4.5	0	6	0	0
+TRK0938	Cold-Chain Road Truck	01/01/2024	22:10	10.8	89.9	3.9	At Risk	Vegetables	Indore	Nashik	23.5	30.7	8.1	0	3	0	0
+TRK0473	Cold-Chain Road Truck	19/11/2024	11:05	13.6	82.6	4.6	At Risk	Meat	Delhi	Mumbai	32.3	45.8	4	0	5	0	0
+TRK0988	Cold-Chain Road Truck	19/02/2025	6:45	11.9	95.8	5.6	At Risk	Fruits	Lucknow	Hyderabad	44.4	34.1	9.5	0	7	0	0
+TRK0793	Cold-Chain Road Truck	04/05/2025	20:35	3.8	65.6	5	At Risk	Dairy	Pune	Udaipur	41.5	30.3	5.7	0	7	0	0
+TRK0527	Cold-Chain Road Truck	27/08/2026	5:25	13.3	90.4	5.6	At Risk	Flowers	Indore	Ahmedabad	30	45.6	3.7	0	5	0	0
+TRK0141	Cold-Chain Road Truck	13/10/2025	6:25	14.5	81	3.9	At Risk	Fruits	Nashik	Delhi	33.3	36.4	9.3	0	6	0	0
+TRK0339	Cold-Chain Road Truck	29/08/2026	17:10	1.5	72.8	4.3	At Risk	Meat	Surat	Kolkata	44.4	33.3	4.7	0	7	0	0
+TRK0355	Cold-Chain Road Truck	06/05/2025	15:30	14.3	62.8	4.6	At Risk	Pharmaceuticals	Udaipur	Bengaluru	36.7	27.1	24.6	0	5	0	0
+TRK0561	Cold-Chain Road Truck	09/05/2024	7:05	4.5	64.6	4.1	Fresh	Meat	Bengaluru	Bhopal	20	21.4	5.2	0	3	0	0
+TRK0283	Cold-Chain Road Truck	16/06/2025	7:40	7.8	49.5	5.6	At Risk	Vegetables	Chennai	Udaipur	38.6	28.8	8.2	0	7	0	0
+TRK0314	Cold-Chain Road Truck	21/01/2025	17:55	4.8	97.6	3.3	At Risk	Seafood	Delhi	Nashik	8.6	31	3.1	0	1	0	0
+TRK0665	Cold-Chain Road Truck	27/01/2026	19:40	6.6	85.4	5.2	Fresh	Vegetables	Jaipur	Nashik	28.8	23.8	8.5	0	4	0	0
+TRK0060	Cold-Chain Road Truck	30/12/2025	7:50	9.1	84.9	4.8	At Risk	Fruits	Surat	Jaipur	49.2	36.3	9.3	0	6	0	0
+TRK0128	Cold-Chain Road Truck	14/01/2026	5:20	14.1	81.9	6.4	Spoiled	Seafood	Surat	Udaipur	53.9	55.2	2.3	0	9	0	0
+TRK0179	Cold-Chain Road Truck	30/01/2026	8:20	7.5	79.4	5.4	Spoiled	Flowers	Lucknow	Surat	55.8	78.8	2.5	0	7	0	0
+TRK0585	Cold-Chain Road Truck	01/07/2024	7:00	12.2	99	2.2	Fresh	Fruits	Hyderabad	Jaipur	4.4	18.6	10.6	0	1	0	0
+TRK0989	Cold-Chain Road Truck	03/09/2025	2:45	12.3	95.3	5.7	At Risk	Fruits	Indore	Udaipur	22.6	32.8	9.5	0	4	0	0
+TRK0440	Cold-Chain Road Truck	22/05/2025	21:45	14.8	26	5.5	At Risk	Pharmaceuticals	Jaipur	Bengaluru	55.7	29.1	24.2	0	9	0	0
+TRK0743	Cold-Chain Road Truck	10/09/2025	9:50	5.6	75.1	3.5	At Risk	Dairy	Surat	Delhi	30.8	26.8	5.9	0	4	0	0
+TRK0201	Cold-Chain Road Truck	07/09/2025	13:00	5.1	79.8	6.3	At Risk	Dairy	Indore	Ahmedabad	33.7	34.5	5.5	0	5	0	0
+TRK0174	Cold-Chain Road Truck	08/05/2024	10:10	9.4	22.6	3.5	Fresh	Vegetables	Hyderabad	Bhopal	22.2	17	8.9	0	3	0	0
+TRK1003	Cold-Chain Road Truck	04/02/2025	5:35	6.6	81.1	6.8	Spoiled	Meat	Kolkata	Udaipur	65.4	83.6	3.3	0	11	0	0
+TRK0057	Cold-Chain Road Truck	11/06/2025	23:25	5.1	77.1	3.9	At Risk	Flowers	Nashik	Lucknow	43.1	42.8	3.7	0	6	0	0
+TRK0078	Cold-Chain Road Truck	01/11/2025	21:30	22.1	89.7	2.1	At Risk	Fruits	Lucknow	Delhi	10.6	28	9.4	0	1	0	0
+TRK0946	Cold-Chain Road Truck	29/10/2025	22:30	10.8	84	4	At Risk	Seafood	Pune	Nashik	21.5	38.9	3	0	3	0	0
+TRK1002	Cold-Chain Road Truck	08/11/2025	11:50	0.7	86.65	4.9	At Risk	Vegetables	Ahmedabad	Nashik	40.6	27.2	7.9	0	7	0	0
+TRK0509	Cold-Chain Road Truck	19/04/2026	13:00	5.7	65.6	4.3	Fresh	Dairy	Nashik	Jaipur	33.6	23.9	6	0	6	0	0
+TRK0114	Cold-Chain Road Truck	08/07/2026	8:10	4.2	94.4	4.3	At Risk	Vegetables	Chennai	Surat	41.5	34.4	7.8	0	5	0	0
+TRK0131	Cold-Chain Road Truck	16/10/2024	10:10	8.7	91.9	3	At Risk	Flowers	Bengaluru	Nashik	9.5	35	3.9	0	2	0	0
+TRK0614	Cold-Chain Road Truck	20/05/2026	11:10	4.4	81.5	7.5	At Risk	Meat	Indore	Udaipur	67.2	51.7	4.6	0	9	0	0
+TRK0976	Cold-Chain Road Truck	04/11/2025	5:35	8.2	81.5	6.4	Spoiled	Seafood	Bhopal	Bengaluru	61.3	82.8	2.1	0	9	0	0
+TRK0475	Cold-Chain Road Truck	14/12/2024	7:50	3.3	80.8	4.1	Fresh	Seafood	Pune	Hyderabad	7.5	22.2	3.5	0	1	0	0
+TRK0192	Cold-Chain Road Truck	21/02/2025	12:15	-0.3	70.1	5.1	At Risk	Meat	Indore	Nashik	38.7	25.8	5	0	5	0	0
+TRK0043	Cold-Chain Road Truck	09/01/2025	22:20	10.9	92.3	5.9	At Risk	Fruits	Chennai	Ahmedabad	57.5	35.8	9.4	0	11	0	0
+TRK0311	Cold-Chain Road Truck	26/02/2025	7:50	13.2	72.4	3	At Risk	Meat	Nashik	Kolkata	14.8	27.7	4.1	0	2	0	0
+TRK0947	Cold-Chain Road Truck	26/02/2026	18:30	8.3	73	5.7	At Risk	Flowers	Pune	Hyderabad	41.9	41.1	3.6	0	6	0	0
+TRK0360	Cold-Chain Road Truck	29/07/2026	21:40	5.8	57.5	4.4	Fresh	Pharmaceuticals	Lucknow	Jaipur	24	9.8	28.2	0	3	0	0
+TRK0082	Cold-Chain Road Truck	01/09/2024	12:35	3.4	54.6	5.9	Fresh	Vegetables	Delhi	Mumbai	44.5	23.7	8.5	0	5	0	0
+TRK0349	Cold-Chain Road Truck	22/09/2024	11:00	2.4	64.5	3.3	Fresh	Meat	Bengaluru	Mumbai	14.5	18.8	5.3	0	2	0	0
+TRK0759	Cold-Chain Road Truck	10/11/2024	17:00	6.7	73.4	2.4	Fresh	Seafood	Chennai	Bhopal	9.2	24.4	3.2	0	1	0	0
+TRK0952	Cold-Chain Road Truck	23/09/2025	12:35	7	66.7	5.1	At Risk	Pharmaceuticals	Kolkata	Nashik	56.1	26.4	25.1	0	8	0	0
+TRK0965	Cold-Chain Road Truck	09/08/2025	16:20	9.4	47.6	4.1	At Risk	Meat	Delhi	Kolkata	52	44.2	4.5	0	6	0	0
+TRK0731	Cold-Chain Road Truck	01/11/2025	4:25	15.8	87.6	3	At Risk	Fruits	Jaipur	Lucknow	26.8	29.7	9.6	0	5	0	0
+TRK0637	Cold-Chain Road Truck	10/09/2025	11:35	2.9	63.9	4.7	At Risk	Dairy	Pune	Nashik	25.2	26.4	5.9	0	3	0	0
+TRK0172	Cold-Chain Road Truck	07/08/2024	14:10	3.5	49.9	4.3	At Risk	Dairy	Delhi	Jaipur	46.5	31.8	5.7	0	6	0	0
+TRK0506	Cold-Chain Road Truck	11/08/2024	17:55	15.5	94.3	3.5	At Risk	Dairy	Chennai	Jaipur	14.7	38.6	4.5	0	3	0	0
+TRK0386	Cold-Chain Road Truck	30/06/2025	1:25	11.1	21.8	7.1	At Risk	Flowers	Delhi	Surat	48	38.3	4.1	0	7	0	0
+TRK0658	Cold-Chain Road Truck	15/05/2025	20:05	3	80.1	4.5	At Risk	Vegetables	Lucknow	Chennai	40.1	35.4	7.7	0	5	0	0
+TRK0155	Cold-Chain Road Truck	21/02/2024	2:40	17.4	36.2	6.4	At Risk	Pharmaceuticals	Udaipur	Chennai	59.5	35.8	22.8	0	8	0	0
+TRK0381	Cold-Chain Road Truck	22/08/2024	18:40	1.2	81	5.5	At Risk	Seafood	Bhopal	Kolkata	38.9	30.6	3.3	0	7	0	0
+TRK0274	Cold-Chain Road Truck	08/11/2025	11:50	0.7	89.3	4.9	At Risk	Vegetables	Ahmedabad	Nashik	40.6	27.2	7.9	0	7	0	0
+TRK0787	Cold-Chain Road Truck	24/03/2026	7:40	-0.8	66.1	6.1	At Risk	Seafood	Lucknow	Bhopal	52.7	39.3	3.5	0	7	0	0
+TRK0559	Cold-Chain Road Truck	13/11/2024	11:35	5.9	69.3	3.1	Fresh	Meat	Kolkata	Chennai	19.1	20.6	5.1	0	3	0	0
+TRK0524	Cold-Chain Road Truck	12/01/2025	17:20	10.5	88.7	2.7	At Risk	Vegetables	Kolkata	Hyderabad	23.8	31.6	8	0	3	0	0
+TRK0345	Cold-Chain Road Truck	29/02/2024	19:45	4.6	36.3	4	Fresh	Pharmaceuticals	Kolkata	Chennai	38.3	14.4	27.3	0	6	0	0
+TRK0544	Cold-Chain Road Truck	13/12/2025	23:05	5.1	25	4.2	At Risk	Seafood	Chennai	Indore	58.5	36.1	3.6	0	7	0	0
+TRK0480	Cold-Chain Road Truck	11/02/2024	15:40	12.1	73.1	6	At Risk	Meat	Indore	Ahmedabad	57.3	48.7	4.1	0	9	0	0
+TRK0184	Cold-Chain Road Truck	18/10/2025	1:00	10.8	27	2.4	Fresh	Fruits	Pune	Lucknow	9.2	8.5	11.3	0	1	0	0
+TRK0269	Cold-Chain Road Truck	28/06/2026	17:00	14.3	75.1	4.9	At Risk	Meat	Kolkata	Delhi	50	51.7	3.7	0	6	0	0
+TRK0405	Cold-Chain Road Truck	08/05/2026	16:10	1.7	49.7	4.5	Fresh	Pharmaceuticals	Kolkata	Jaipur	43.4	20.5	26.2	0	5	0	0
+TRK0257	Cold-Chain Road Truck	27/03/2025	9:35	4.5	75.4	3.2	Fresh	Seafood	Ahmedabad	Kolkata	14.4	22.9	3.4	0	2	0	0
+TRK0798	Cold-Chain Road Truck	21/05/2024	7:25	-0.9	88.7	2.1	At Risk	Seafood	Surat	Hyderabad	15.5	27.7	3.2	0	2	0	0
+TRK0826	Cold-Chain Road Truck	22/05/2025	9:10	2.9	84.1	5.8	At Risk	Meat	Kolkata	Surat	52	42.7	4.4	0	7	0	0
+TRK0569	Cold-Chain Road Truck	15/09/2024	1:35	14.9	83.6	4.9	At Risk	Fruits	Bhopal	Kolkata	49.1	34.1	9.4	0	6	0	0
+TRK0434	Cold-Chain Road Truck	07/01/2024	17:20	1.8	59.3	3.2	Fresh	Pharmaceuticals	Bhopal	Nashik	27.7	14.3	27.3	0	3	0	0
+TRK0240	Cold-Chain Road Truck	10/07/2024	7:45	8.2	88.4	3.3	At Risk	Vegetables	Kolkata	Chennai	5.4	26.3	8.3	0	1	0	0
+TRK0686	Cold-Chain Road Truck	23/10/2024	1:00	12.7	70.3	5.5	At Risk	Dairy	Bengaluru	Udaipur	33.9	41.7	4.7	0	4	0	0
+TRK0999	Cold-Chain Road Truck	15/08/2024	17:10	1.3	83.6	5.1	At Risk	Meat	Lucknow	Jaipur	42.4	40.1	4.5	0	6	0	0
+TRK0123	Cold-Chain Road Truck	16/02/2025	11:40	7.3	84.4	2.3	At Risk	Flowers	Mumbai	Kolkata	13.9	27.4	4.1	0	3	0	0
+TRK0872	Cold-Chain Road Truck	18/03/2026	13:10	0.8	84.9	6.7	At Risk	Fruits	Lucknow	Kolkata	55.4	30.1	9.3	0	8	0	0
+TRK0650	Cold-Chain Road Truck	29/11/2025	0:10	2.5	78.2	4	At Risk	Seafood	Lucknow	Jaipur	50.8	44.5	3.5	0	8	0	0
+TRK0011	Cold-Chain Road Truck	31/07/2026	7:25	2.7	56.9	5	Fresh	Pharmaceuticals	Jaipur	Udaipur	23.8	17.3	26.7	0	4	0	0
+TRK0239	Cold-Chain Road Truck	26/07/2024	20:00	8.2	77.9	5.9	At Risk	Flowers	Chennai	Pune	66.3	52	4	0	9	0	0
+TRK0902	Cold-Chain Road Truck	03/05/2024	8:40	12	83.8	5.6	At Risk	Fruits	Ahmedabad	Bhopal	51.4	36.6	9.3	0	7	0	0
+TRK0705	Cold-Chain Road Truck	21/04/2024	19:00	3.1	81.8	4.6	At Risk	Meat	Kolkata	Chennai	16.5	26.9	5	0	2	0	0
+TRK0437	Cold-Chain Road Truck	11/11/2025	11:55	6.4	50.8	7.9	At Risk	Flowers	Surat	Delhi	70.4	50.1	4	0	8	0	0
+TRK0083	Cold-Chain Road Truck	25/01/2026	22:55	3.5	96.8	5.7	At Risk	Pharmaceuticals	Surat	Bhopal	68.2	37.1	23.1	0	11	0	0
+TRK0843	Cold-Chain Road Truck	14/09/2024	7:20	13.9	92.6	7.2	At Risk	Fruits	Pune	Jaipur	68.9	45.8	8.6	0	8	0	0
+TRK0970	Cold-Chain Road Truck	27/07/2025	2:40	2.2	42.4	7.1	Fresh	Pharmaceuticals	Nashik	Hyderabad	55.6	21.6	26	0	9	0	0
+TRK0624	Cold-Chain Road Truck	10/03/2024	4:00	4.7	91.1	3.7	Fresh	Fruits	Chennai	Delhi	12.3	21.4	10.2	0	1	0	0
+TRK0118	Cold-Chain Road Truck	04/09/2024	12:40	2.1	69.3	4.2	At Risk	Meat	Pune	Ahmedabad	37.4	35.7	4.7	0	6	0	0
+TRK0163	Cold-Chain Road Truck	02/09/2025	9:40	6.6	97.8	2.3	At Risk	Dairy	Pune	Bengaluru	3.9	28.6	5.8	0	1	0	0
+TRK0520	Cold-Chain Road Truck	05/01/2025	6:40	7.7	83	5.4	At Risk	Flowers	Ahmedabad	Delhi	44	42.2	3.7	0	5	0	0
+TRK0088	Cold-Chain Road Truck	06/05/2025	2:30	7.8	62.6	2.9	Fresh	Dairy	Surat	Kolkata	5.9	16.2	6.1	0	1	0	0
+TRK0985	Cold-Chain Road Truck	23/04/2025	11:20	0.9	84.9	4.9	Fresh	Fruits	Pune	Bhopal	18.5	21.3	9.4	0	3	0	0
+TRK0367	Cold-Chain Road Truck	27/04/2025	4:10	6.7	75.8	4.6	At Risk	Flowers	Hyderabad	Delhi	62.3	50.7	4	0	10	0	0
+TRK0414	Cold-Chain Road Truck	24/07/2024	2:20	4.4	35.6	1.6	Fresh	Pharmaceuticals	Bengaluru	Surat	3.5	6.7	28.8	0	1	0	0
+TRK0104	Cold-Chain Road Truck	20/03/2025	10:55	9.2	86.6	5.9	At Risk	Vegetables	Nashik	Surat	64.3	48	7.1	0	8	0	0
+TRK0121	Cold-Chain Road Truck	11/03/2024	9:00	0.5	78.7	2.8	Fresh	Fruits	Bengaluru	Chennai	11.8	16.9	10.2	0	2	0	0
+TRK0820	Cold-Chain Road Truck	04/10/2025	18:40	4.2	82.2	4.6	At Risk	Seafood	Pune	Nashik	24.9	30.3	3.2	0	3	0	0
+TRK0909	Cold-Chain Road Truck	08/06/2025	0:00	12.5	84.7	3.5	At Risk	Dairy	Hyderabad	Jaipur	15.3	31.5	5.1	0	3	0	0
+TRK0681	Cold-Chain Road Truck	17/04/2024	21:25	8.7	93.9	2.9	At Risk	Seafood	Jaipur	Pune	3.5	30.2	2.8	0	1	0	0
+TRK0967	Cold-Chain Road Truck	02/09/2024	14:15	17.4	85	7	Spoiled	Flowers	Pune	Udaipur	70.5	97.5	1.7	0	8	0	0
+TRK0685	Cold-Chain Road Truck	09/08/2025	20:35	10.7	93.6	7.5	At Risk	Vegetables	Indore	Delhi	69.1	48.1	6.9	0	13	0	0
+TRK0478	Cold-Chain Road Truck	17/10/2024	19:00	5.9	67.8	4.1	At Risk	Meat	Bhopal	Lucknow	32.4	25.9	4.9	0	5	0	0
+TRK0485	Cold-Chain Road Truck	08/09/2024	16:45	3.3	86.7	4	At Risk	Flowers	Pune	Nashik	44.4	36.1	3.9	0	6	0	0
+TRK0395	Cold-Chain Road Truck	30/01/2024	14:40	8.3	74.7	3.5	Fresh	Flowers	Indore	Jaipur	5.5	18.6	4.4	0	1	0	0
+TRK0071	Cold-Chain Road Truck	29/07/2025	14:20	18.9	77.5	4.2	At Risk	Fruits	Bengaluru	Udaipur	40.1	41.3	8.6	0	5	0	0
+TRK0836	Cold-Chain Road Truck	06/06/2026	9:20	7.4	93.5	3.8	At Risk	Seafood	Hyderabad	Bhopal	8.6	26.4	3	0	1	0	0
+TRK0884	Cold-Chain Road Truck	30/05/2026	17:35	7.5	76.9	7.2	Spoiled	Meat	Lucknow	Bengaluru	65.8	86.1	3.1	0	8	0	0
+TRK0479	Cold-Chain Road Truck	23/07/2026	23:55	0.8	83.5	5	At Risk	Seafood	Bengaluru	Lucknow	49.3	43.4	3.5	0	6	0	0
+TRK0486	Cold-Chain Road Truck	09/02/2025	3:35	2	77.4	4.8	At Risk	Dairy	Mumbai	Bhopal	32.1	28.4	5.7	0	6	0	0
+TRK0463	Cold-Chain Road Truck	30/11/2024	20:50	3.3	47.5	3.2	Fresh	Pharmaceuticals	Lucknow	Ahmedabad	12.2	5.5	28.9	0	2	0	0
+TRK0224	Cold-Chain Road Truck	21/02/2025	5:30	1.2	77.6	4.6	At Risk	Flowers	Mumbai	Indore	36.4	32.3	3.9	0	5	0	0
+TRK0997	Cold-Chain Road Truck	01/03/2024	3:10	5	64.9	4.5	Fresh	Dairy	Hyderabad	Udaipur	17.5	23.4	6	0	3	0	0
+TRK0968	Cold-Chain Road Truck	23/01/2025	23:15	1	31	6.2	At Risk	Fruits	Indore	Chennai	63	27.3	8.9	0	9	0	0
+TRK0745	Cold-Chain Road Truck	15/09/2024	16:50	7.2	95.5	6.5	At Risk	Pharmaceuticals	Bengaluru	Ahmedabad	68.5	31.4	24.2	0	12	0	0
+TRK0145	Cold-Chain Road Truck	12/01/2025	6:25	11.6	55.1	3.8	At Risk	Flowers	Chennai	Jaipur	39.5	40.8	4	0	6	0	0
+TRK0237	Cold-Chain Road Truck	20/07/2024	0:35	12.1	99	3	Fresh	Fruits	Nashik	Bhopal	16	24.7	10.2	0	3	0	0
+TRK0312	Cold-Chain Road Truck	24/08/2024	8:30	19.9	82.1	2	Fresh	Fruits	Ahmedabad	Pune	2.6	21.9	10	0	1	0	0
+TRK0995	Cold-Chain Road Truck	23/02/2026	11:00	9.3	82.7	5.4	Spoiled	Seafood	Surat	Lucknow	55.9	55.5	2.7	0	10	0	0
+TRK0651	Cold-Chain Road Truck	29/07/2025	4:05	7.1	87.6	4	At Risk	Fruits	Surat	Kolkata	47.4	31.8	9.6	0	9	0	0
+TRK0700	Cold-Chain Road Truck	05/08/2024	13:00	13.4	76.8	4.9	At Risk	Seafood	Pune	Hyderabad	47.2	50	2.5	0	9	0	0
+TRK0886	Cold-Chain Road Truck	25/07/2025	18:55	6.5	80.9	6.6	At Risk	Vegetables	Bengaluru	Udaipur	61.6	49.1	6.9	0	12	0	0
+TRK0423	Cold-Chain Road Truck	18/11/2024	18:40	10.9	86.7	4.2	Fresh	Vegetables	Kolkata	Delhi	28.3	24.7	8.4	0	5	0	0
+TRK0053	Cold-Chain Road Truck	11/06/2024	11:45	3	62.2	5.2	At Risk	Dairy	Bengaluru	Pune	58.9	38.9	5.3	0	10	0	0
+TRK0547	Cold-Chain Road Truck	07/07/2024	7:45	1.6	79.8	3.4	Fresh	Pharmaceuticals	Bengaluru	Nashik	33.6	15.6	27.1	0	5	0	0
+TRK0829	Cold-Chain Road Truck	05/07/2026	20:50	1.7	91.2	3.2	Fresh	Flowers	Ahmedabad	Nashik	10.4	20.8	4.3	0	2	0	0
+TRK0841	Cold-Chain Road Truck	15/07/2024	4:45	2.8	79.6	6.1	At Risk	Dairy	Chennai	Indore	37.3	31.2	5.6	0	7	0	0
+TRK0555	Cold-Chain Road Truck	18/01/2026	23:05	7.2	66.2	4.9	At Risk	Dairy	Nashik	Indore	53.9	40.9	5.1	0	8	0	0
+TRK0955	Cold-Chain Road Truck	24/03/2025	20:40	0.4	69.7	3	Fresh	Meat	Udaipur	Bhopal	15.4	20.9	5.3	0	2	0	0
+TRK0883	Cold-Chain Road Truck	11/04/2024	4:15	11.3	79.2	3.8	Fresh	Fruits	Pune	Mumbai	27.9	22.8	10.3	0	5	0	0
+TRK0074	Cold-Chain Road Truck	04/01/2025	14:40	-0.9	63.8	2.1	Fresh	Meat	Mumbai	Pune	10	6.2	5.7	0	1	0	0
+TRK0943	Cold-Chain Road Truck	08/10/2024	12:50	6.6	62.7	2.4	Fresh	Pharmaceuticals	Hyderabad	Delhi	5.4	10.4	28	0	1	0	0
+TRK0330	Cold-Chain Road Truck	18/04/2026	18:00	3	58.8	7.6	At Risk	Dairy	Chennai	Mumbai	71.8	49	5.1	0	10	0	0
+TRK0531	Cold-Chain Road Truck	11/04/2026	19:40	6.6	69.1	4.2	Fresh	Meat	Kolkata	Ahmedabad	10.9	20.2	5	0	2	0	0
+TRK0359	Cold-Chain Road Truck	12/05/2026	10:30	2.2	75	3.7	At Risk	Dairy	Indore	Surat	26.8	28.8	5.8	0	5	0	0
+TRK0410	Cold-Chain Road Truck	19/07/2025	10:30	1.9	53.6	3.2	Fresh	Pharmaceuticals	Indore	Mumbai	14.3	8.8	28.4	0	2	0	0
+TRK0716	Cold-Chain Road Truck	31/12/2024	5:20	12.2	77.9	2.4	Fresh	Fruits	Nashik	Jaipur	4.4	15.8	10.9	0	1	0	0
+TRK0710	Cold-Chain Road Truck	05/03/2024	20:10	10.5	47.3	4.5	At Risk	Seafood	Jaipur	Udaipur	56.7	50	2.7	0	10	0	0
+TRK0635	Cold-Chain Road Truck	14/08/2025	0:55	16.8	74.9	5.1	At Risk	Flowers	Surat	Bhopal	44.2	53.6	3.1	0	7	0	0
+TRK0683	Cold-Chain Road Truck	01/02/2026	5:10	8.9	82.2	4.5	At Risk	Flowers	Indore	Pune	26.7	36.4	3.8	0	3	0	0
+TRK0510	Cold-Chain Road Truck	28/02/2025	13:25	7.7	78.8	5.2	At Risk	Flowers	Mumbai	Bhopal	43	41	3.8	0	6	0	0
+TRK0377	Cold-Chain Road Truck	14/06/2026	7:55	8.8	56.1	7.4	Fresh	Pharmaceuticals	Udaipur	Bengaluru	50.3	21.9	25.9	0	8	0	0
+TRK0664	Cold-Chain Road Truck	09/02/2026	4:45	4.7	67.5	5.7	At Risk	Meat	Hyderabad	Indore	61.2	47.1	4.8	0	7	0	0
+TRK0962	Cold-Chain Road Truck	21/05/2024	15:20	7.9	96.2	4.2	At Risk	Vegetables	Kolkata	Mumbai	30.4	28.8	8.2	0	3	0	0
+TRK0245	Cold-Chain Road Truck	21/09/2024	21:05	4.4	73	3.9	At Risk	Seafood	Lucknow	Jaipur	28.1	28	3.3	0	5	0	0
+TRK0956	Cold-Chain Road Truck	19/10/2024	14:15	4.3	80.1	2.7	At Risk	Seafood	Kolkata	Bengaluru	27.3	35.3	3.1	0	3	0	0
+TRK0525	Cold-Chain Road Truck	30/06/2026	0:00	2.2	83.9	8	At Risk	Pharmaceuticals	Pune	Mumbai	70.4	33.1	23.8	0	10	0	0
+TRK0358	Cold-Chain Road Truck	07/01/2026	2:35	6.2	85.7	4.6	At Risk	Flowers	Bhopal	Surat	25.5	34.3	3.9	0	4	0	0
+TRK0290	Cold-Chain Road Truck	04/05/2024	8:05	5.3	65	3.9	At Risk	Dairy	Udaipur	Ahmedabad	22.1	27.2	5.8	0	3	0	0
+TRK0484	Cold-Chain Road Truck	27/02/2026	14:00	0.9	97.1	6.6	At Risk	Vegetables	Pune	Hyderabad	63.8	44.4	6.4	0	7	0	0
+TRK0307	Cold-Chain Road Truck	29/03/2026	6:20	3.2	97.2	8.2	At Risk	Vegetables	Surat	Jaipur	70.2	46.1	7.1	0	8	0	0
+TRK0200	Cold-Chain Road Truck	18/11/2024	13:10	1.8	62.7	3.8	Fresh	Meat	Chennai	Pune	23.3	22.4	5.1	0	3	0	0
+TRK0193	Cold-Chain Road Truck	30/05/2026	15:00	6.7	86.8	3.3	Fresh	Meat	Mumbai	Hyderabad	2.2	24.2	4.8	0	1	0	0
+TRK0802	Cold-Chain Road Truck	14/11/2025	14:05	2	40.5	5.2	Fresh	Pharmaceuticals	Bengaluru	Indore	54.8	15.9	27.1	0	6	0	0
+TRK0736	Cold-Chain Road Truck	08/03/2025	20:00	12.3	90.4	5.9	At Risk	Vegetables	Nashik	Delhi	57.9	38.9	7.4	0	7	0	0
+TRK0230	Cold-Chain Road Truck	25/12/2025	23:45	7.2	91.7	7.2	At Risk	Vegetables	Hyderabad	Udaipur	69.7	54.2	6.6	0	11	0	0
+TRK0630	Cold-Chain Road Truck	20/06/2024	2:55	13.8	82.9	5.9	At Risk	Vegetables	Chennai	Hyderabad	65.9	44.5	7	0	9	0	0
+TRK0013	Cold-Chain Road Truck	06/06/2026	2:00	4.9	88.1	4.7	At Risk	Vegetables	Ahmedabad	Chennai	26.8	27.4	8.3	0	3	0	0
+TRK0092	Cold-Chain Road Truck	01/06/2025	20:35	1.4	93.1	2.9	Fresh	Vegetables	Kolkata	Lucknow	7.9	21.5	7.9	0	1	0	0
+TRK0319	Cold-Chain Road Truck	06/09/2024	2:00	9.7	42.9	0.2	Fresh	Pharmaceuticals	Kolkata	Lucknow	2.1	9	28.3	0	1	0	0
+TRK0689	Cold-Chain Road Truck	02/11/2025	4:00	3.6	56.9	5.3	At Risk	Vegetables	Jaipur	Indore	58.8	32.5	7.9	0	10	0	0
+TRK0346	Cold-Chain Road Truck	13/11/2025	19:45	2.8	66.5	4.7	At Risk	Dairy	Mumbai	Ahmedabad	44.9	27.6	5.8	0	6	0	0
+TRK0107	Cold-Chain Road Truck	09/08/2024	19:10	12.4	78.2	5.3	At Risk	Fruits	Surat	Jaipur	47.2	33.2	9.5	0	6	0	0
+TRK0856	Cold-Chain Road Truck	04/09/2024	8:00	0.9	65.4	4.6	At Risk	Meat	Bhopal	Pune	51	35.6	4.6	0	6	0	0
+TRK0073	Cold-Chain Road Truck	27/12/2024	22:45	-0.1	60.1	1.9	Fresh	Meat	Ahmedabad	Lucknow	12.1	8	5.7	0	2	0	0
+TRK0397	Cold-Chain Road Truck	11/03/2024	19:35	5.7	31	6	At Risk	Vegetables	Lucknow	Nashik	50.7	25.2	8.4	0	9	0	0
+TRK0294	Cold-Chain Road Truck	18/11/2025	19:35	2.4	87.7	5.5	At Risk	Seafood	Kolkata	Udaipur	34.3	35.5	3.1	0	5	0	0
+TRK0333	Cold-Chain Road Truck	07/02/2024	14:25	0	89.6	4	At Risk	Seafood	Pune	Kolkata	32.8	35.8	3.1	0	4	0	0
+TRK0373	Cold-Chain Road Truck	24/06/2026	5:35	1.4	96.3	7.1	At Risk	Fruits	Indore	Pune	69.8	45.6	7.6	0	14	0	0
+TRK0603	Cold-Chain Road Truck	06/07/2025	15:05	2.9	75.1	3.4	Fresh	Fruits	Lucknow	Hyderabad	15	12.9	10.7	0	2	0	0
+TRK0196	Cold-Chain Road Truck	26/07/2025	2:10	4.9	74.9	5	At Risk	Flowers	Kolkata	Ahmedabad	55.2	41.1	4.3	0	7	0	0
+TRK0086	Cold-Chain Road Truck	06/09/2025	19:15	13	80.8	5	At Risk	Fruits	Bengaluru	Chennai	39.1	32.9	9.5	0	5	0	0
+TRK0725	Cold-Chain Road Truck	05/08/2025	2:20	8.8	74	6.1	At Risk	Flowers	Pune	Bhopal	65.8	49.7	4	0	9	0	0
+TRK0717	Cold-Chain Road Truck	30/01/2024	6:40	4.1	36	2.8	Fresh	Flowers	Kolkata	Bengaluru	32.2	16.8	5	0	4	0	0
+TRK0495	Cold-Chain Road Truck	20/06/2024	13:30	7.7	50.2	7.4	At Risk	Pharmaceuticals	Indore	Bengaluru	67.9	29.6	24.5	0	13	0	0
+TRK0432	Cold-Chain Road Truck	08/03/2024	5:35	14.3	74.6	3.5	At Risk	Dairy	Hyderabad	Delhi	16.4	34.6	4.8	0	2	0	0
+TRK0183	Cold-Chain Road Truck	07/09/2025	16:40	12.8	85.7	4.2	Fresh	Fruits	Surat	Jaipur	16.9	20.7	10.4	0	2	0	0
+TRK0035	Cold-Chain Road Truck	28/04/2026	9:15	8.2	43.2	3.2	Fresh	Pharmaceuticals	Lucknow	Bengaluru	29.2	17.4	26.8	0	5	0	0
+TRK0032	Cold-Chain Road Truck	09/08/2026	17:20	8.1	92.7	6.5	Spoiled	Flowers	Pune	Nashik	62.3	55.4	3.9	0	9	0	0
+TRK0325	Cold-Chain Road Truck	04/05/2026	12:30	2.9	74.1	6.3	At Risk	Dairy	Bhopal	Pune	52.8	39	5.3	0	7	0	0
+TRK0741	Cold-Chain Road Truck	03/10/2024	16:35	1.3	84.7	6.9	At Risk	Vegetables	Chennai	Kolkata	68.8	47.7	6.3	0	11	0	0
+TRK0182	Cold-Chain Road Truck	02/01/2024	1:10	4.4	92.7	6.5	Spoiled	Flowers	Jaipur	Hyderabad	63.2	55.4	3.9	0	12	0	0
+TRK0391	Cold-Chain Road Truck	16/12/2024	20:10	18.5	49.5	5.3	At Risk	Pharmaceuticals	Nashik	Delhi	67.5	34.3	23	0	9	0	0
+TRK0067	Cold-Chain Road Truck	27/02/2025	8:30	3.1	49.5	3.9	Fresh	Pharmaceuticals	Pune	Chennai	54.3	20	26.3	0	7	0	0
+TRK0616	Cold-Chain Road Truck	08/07/2026	19:30	10	89.1	2.7	Fresh	Vegetables	Jaipur	Kolkata	23.2	24.4	8.5	0	3	0	0
+TRK0954	Cold-Chain Road Truck	04/07/2026	20:25	4.5	84.8	1.7	Fresh	Seafood	Lucknow	Bhopal	8.4	21.3	3.4	0	2	0	0
+TRK0573	Cold-Chain Road Truck	20/05/2025	16:25	0.4	87.2	6	Spoiled	Seafood	Mumbai	Nashik	67.7	79.4	2.6	0	10	0	0
+TRK0879	Cold-Chain Road Truck	10/09/2025	14:05	10.2	61.5	4	At Risk	Dairy	Jaipur	Indore	29.6	34.2	5.1	0	5	0	0
+TRK0105	Cold-Chain Road Truck	17/03/2026	16:00	5.9	72.9	2.9	Fresh	Meat	Hyderabad	Pune	14.6	20.2	5.1	0	2	0	0
+TRK0818	Cold-Chain Road Truck	14/11/2025	16:10	1.9	45.4	5.5	Fresh	Pharmaceuticals	Ahmedabad	Kolkata	52.5	19.4	26.4	0	9	0	0
+TRK0263	Cold-Chain Road Truck	14/08/2026	7:30	0.8	81.5	5.4	At Risk	Seafood	Mumbai	Nashik	38.8	42.5	3.5	0	6	0	0
+TRK0816	Cold-Chain Road Truck	16/04/2025	15:40	3.4	90.7	4.4	At Risk	Flowers	Ahmedabad	Udaipur	41.4	42.8	3.7	0	6	0	0
+TRK0044	Cold-Chain Road Truck	18/06/2025	0:10	7	56.1	3.8	Fresh	Pharmaceuticals	Hyderabad	Chennai	19.6	9.7	28.1	0	2	0	0
+TRK0891	Cold-Chain Road Truck	24/02/2024	20:05	3.7	20.7	3	Fresh	Seafood	Chennai	Indore	5.7	6.7	4	0	1	0	0
+TRK0677	Cold-Chain Road Truck	08/01/2025	16:45	2.9	71.6	3.3	Fresh	Fruits	Delhi	Indore	20.6	20.2	10.1	0	4	0	0
+TRK0840	Cold-Chain Road Truck	09/12/2025	20:40	6.3	50.6	5	At Risk	Pharmaceuticals	Hyderabad	Nashik	47	26.5	25.1	0	5	0	0
+TRK0390	Cold-Chain Road Truck	02/01/2024	8:20	3	86	3.7	At Risk	Seafood	Hyderabad	Jaipur	38.1	41.4	3.3	0	5	0	0
+TRK0728	Cold-Chain Road Truck	16/07/2025	7:00	8.5	80.8	4.4	At Risk	Meat	Pune	Ahmedabad	30.7	36.9	4.2	0	6	0	0
+TRK0949	Cold-Chain Road Truck	14/01/2024	18:10	7.5	42.3	3.2	Fresh	Pharmaceuticals	Udaipur	Kolkata	16.9	12.7	27.6	0	2	0	0
+TRK0309	Cold-Chain Road Truck	17/01/2024	9:30	16	63.6	1.9	At Risk	Dairy	Udaipur	Jaipur	2.6	26.9	5	0	1	0	0
+TRK0150	Cold-Chain Road Truck	12/10/2024	21:45	5.3	71.5	7.6	At Risk	Flowers	Indore	Chennai	68.2	53.1	4	0	9	0	0
+TRK0268	Cold-Chain Road Truck	26/01/2025	7:45	7.6	40.2	5.9	At Risk	Vegetables	Delhi	Mumbai	46.1	25.3	8.4	0	8	0	0
+TRK0790	Cold-Chain Road Truck	27/02/2025	14:10	9.3	71.4	4.4	At Risk	Dairy	Jaipur	Surat	34.4	37.1	5.1	0	4	0	0
+TRK0986	Cold-Chain Road Truck	07/05/2024	12:40	22.1	87.3	6.2	At Risk	Fruits	Lucknow	Delhi	58.6	54.9	7.4	0	7	0	0
+TRK0002	Cold-Chain Road Truck	28/11/2025	19:40	9.5	82.9	1.7	At Risk	Vegetables	Chennai	Bengaluru	12.9	25.9	8.4	0	2	0	0
+TRK0502	Cold-Chain Road Truck	29/11/2025	22:35	-0.1	62.7	3.3	At Risk	Meat	Surat	Hyderabad	45.7	29.3	4.9	0	7	0	0
+TRK0981	Cold-Chain Road Truck	14/12/2025	23:20	9.7	84.3	6.4	At Risk	Fruits	Hyderabad	Delhi	42.4	37.8	9.2	0	6	0	0
+TRK0413	Cold-Chain Road Truck	04/05/2024	12:55	8.4	76.9	3.6	Fresh	Fruits	Ahmedabad	Hyderabad	9.8	13.2	11	0	1	0	0
+TRK0249	Cold-Chain Road Truck	17/05/2026	8:30	2.7	92.9	2.4	At Risk	Meat	Jaipur	Lucknow	36.7	35	4.7	0	5	0	0
+TRK0334	Cold-Chain Road Truck	25/03/2024	17:15	11.8	84.9	5.1	Spoiled	Seafood	Delhi	Bhopal	58.3	87.3	1.7	0	11	0	0
+TRK0983	Cold-Chain Road Truck	04/02/2025	5:35	6.6	81.1	6.8	Spoiled	Meat	Kolkata	Udaipur	65.4	83.6	3.3	0	11	0	0
+TRK0977	Cold-Chain Road Truck	22/05/2026	9:35	5.3	60.6	6.7	At Risk	Seafood	Delhi	Jaipur	57.9	44.7	3.4	0	10	0	0
+TRK0127	Cold-Chain Road Truck	08/07/2024	7:45	4.3	64.9	5.5	At Risk	Dairy	Indore	Udaipur	56.1	35.3	5.5	0	9	0	0
+TRK0937	Cold-Chain Road Truck	02/08/2025	22:25	3.4	64.8	5	At Risk	Dairy	Hyderabad	Delhi	54.5	39.1	5.3	0	8	0	0
+TRK0563	Cold-Chain Road Truck	27/09/2025	0:40	14.9	92.7	7.3	At Risk	Fruits	Surat	Kolkata	69	54.5	7.9	0	10	0	0
+TRK0800	Cold-Chain Road Truck	04/09/2024	9:50	14.9	78.4	4.6	At Risk	Dairy	Kolkata	Lucknow	30.4	39.4	4.6	0	4	0	0
+TRK0328	Cold-Chain Road Truck	03/12/2024	18:35	6.8	40.2	5.9	Fresh	Pharmaceuticals	Kolkata	Bengaluru	50.3	22.1	25.9	0	10	0	0
+TRK0318	Cold-Chain Road Truck	28/07/2024	7:10	7.4	69	3.8	At Risk	Dairy	Indore	Bengaluru	36.3	33.3	5.5	0	4	0	0
+TRK0998	Cold-Chain Road Truck	05/03/2024	20:10	50.9	47.3	4.5	At Risk	Seafood	Jaipur	Udaipur	56.7	50	2.7	0	10	0	0
+TRK0730	Cold-Chain Road Truck	18/08/2024	12:40	6.1	62	1.8	Fresh	Pharmaceuticals	Bengaluru	Bhopal	3.1	7.3	28.7	0	1	0	0
+TRK0899	Cold-Chain Road Truck	10/02/2025	8:40	3.9	77.8	2.1	Fresh	Dairy	Pune	Jaipur	7.9	18.4	6.2	0	1	0	0
+TRK0025	Cold-Chain Road Truck	08/03/2025	19:00	6.8	71	6.5	At Risk	Dairy	Ahmedabad	Bengaluru	70.7	50.5	4.9	0	9	0	0
