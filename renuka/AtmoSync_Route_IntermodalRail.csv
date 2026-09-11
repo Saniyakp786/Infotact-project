@@ -1,263 +1,263 @@
-shipment_id,transport_mode,recorded_date,recorded_time,temperature_celsius,humidity_percentage,vibration_level,spoilage_status,cargo_type,origin_location,destination_location,exposure_duration_hours,spoilage_risk_percent,remaining_shelf_life_days,pressure_kpa,door_open_count,salinity_ppt,thermal_leakage_score
-RAIL1001,Intermodal Rail,2025-07-18,10:00,,62.4,1.8,Fresh,Flowers,Mumbai,Kochi,159.2,20.3,4.0,0.0,0,0.0,4.5
-RAIL0681,Intermodal Rail,2025-03-01,10:45,4.5,47.4,4.3,Fresh,Flowers,Kolkata,Kochi,143.1,13.5,4.7,0.0,0,0.0,4.3
-RAIL0086,Intermodal Rail,2024-11-09,01:05,3.1,35.8,0.4,Fresh,Meat,Kolkata,Bengaluru,141.9,18.7,5.2,0.0,0,0.0,3.2
-RAIL0432,Intermodal Rail,2024-11-30,04:35,7.2,50.7,2.6,Fresh,Pharmaceuticals,Kolkata,Jammu,153.1,8.3,28.2,0.0,0,0.0,1.4
-RAIL0624,Intermodal Rail,2025-06-25,08:15,11.5,34.1,3.0,Fresh,Fruits,Mumbai,Nagpur,140.2,8.8,11.0,0.0,0,0.0,3.4
-RAIL0345,Intermodal Rail,2026-08-02,09:00,3.0,51.1,2.2,Fresh,Dairy,Guwahati,Jammu,141.1,15.8,6.5,0.0,0,0.0,5.0
-RAIL0524,Intermodal Rail,2025-01-11,15:55,1.9,42.0,1.9,Fresh,Dairy,Ahmedabad,Nagpur,159.0,9.0,6.9,0.0,0,0.0,2.3
-RAIL0133,Intermodal Rail,2026-08-12,20:35,-3.5,76.1,3.0,Fresh,Meat,Mumbai,Guwahati,143.2,22.6,5.4,0.0,0,0.0,8.5
-RAIL0989,Intermodal Rail,2025-12-24,10:10,4.2,67.3,3.5,Fresh,Seafood,Kolkata,Jammu,150.0,15.8,3.9,0.0,0,0.0,2.6
-RAIL0307,Intermodal Rail,2025-08-16,03:30,1.8,80.7,2.8,Fresh,Seafood,Delhi,Jaipur,134.1,21.9,3.5,0.0,0,0.0,4.2
-RAIL1000,Intermodal Rail,2024-08-19,21:15,999.0,52.4,2.9,Fresh,Pharmaceuticals,Kolkata,Kochi,120.2,9.0,28.3,0.0,0,0.0,2.8
-RAIL0150,Intermodal Rail,2026-07-03,11:35,5.2,73.9,2.7,Fresh,Meat,Delhi,Kochi,162.1,12.3,5.7,0.0,0,0.0,0.6
-RAIL0044,Intermodal Rail,2024-05-26,02:55,11.5,70.2,4.0,Fresh,Fruits,Ahmedabad,Chennai,120.1,18.0,9.9,0.0,0,0.0,4.4
-RAIL0710,Intermodal Rail,2025-04-28,02:20,0.5,54.5,0.7,Fresh,Seafood,Chennai,Guwahati,128.6,12.2,4.0,0.0,0,0.0,5.7
-RAIL0410,Intermodal Rail,2024-08-19,21:15,6.2,52.4,2.9,Fresh,Pharmaceuticals,Kolkata,Kochi,120.2,9.0,28.3,0.0,0,0.0,2.8
-RAIL0883,Intermodal Rail,2024-08-25,07:10,-0.9,47.4,3.0,Fresh,Seafood,Kolkata,Chennai,142.3,18.5,3.4,0.0,0,0.0,6.5
-RAIL0318,Intermodal Rail,2025-05-01,17:00,6.9,60.4,2.4,Fresh,Vegetables,Ahmedabad,Jammu,150.1,19.9,9.5,0.0,0,0.0,3.9
-RAIL0311,Intermodal Rail,2026-06-11,10:10,1.3,31.8,3.3,Fresh,Meat,Mumbai,Jammu,128.4,6.7,6.0,0.0,0,0.0,3.5
-RAIL0968,Intermodal Rail,2025-07-03,00:10,3.9,31.6,3.4,Fresh,Meat,Delhi,Nagpur,152.5,16.6,6.0,0.0,0,0.0,5.2
-RAIL0683,Intermodal Rail,2024-12-08,08:45,10.9,73.1,3.2,Fresh,Vegetables,Delhi,Bengaluru,157.3,20.1,9.2,0.0,0,0.0,1.1
-RAIL0967,Intermodal Rail,2024-04-07,16:25,11.5,80.5,3.7,Spoiled,Vegetables,Delhi,Bengaluru,155.4,94.2,4.5,0.0,0,0.0,7.7
-RAIL0193,Intermodal Rail,2026-06-09,05:55,8.1,52.4,3.1,Fresh,Flowers,Kolkata,Kochi,131.3,7.1,4.6,0.0,0,0.0,0.2
-RAIL0510,Intermodal Rail,2024-10-12,22:45,4.6,58.2,2.0,Fresh,Vegetables,Ahmedabad,Chennai,141.2,13.2,9.3,0.0,0,0.0,5.6
-RAIL0542,Intermodal Rail,2025-05-14,07:55,3.9,53.5,2.4,Fresh,Pharmaceuticals,Chennai,Jammu,149.9,12.8,27.9,0.0,0,0.0,4.7
-RAIL0067,Intermodal Rail,2025-08-07,03:55,10.5,62.6,4.3,Fresh,Fruits,Delhi,Jammu,123.3,9.1,10.9,0.0,0,0.0,3.5
-RAIL0759,Intermodal Rail,2024-12-17,21:00,-0.0,63.3,3.3,Fresh,Seafood,Ahmedabad,Jaipur,147.1,19.4,3.6,0.0,0,0.0,6.3
-RAIL0423,Intermodal Rail,2024-03-02,06:50,9.7,66.0,1.9,Fresh,Fruits,Mumbai,Jaipur,138.2,15.0,10.9,0.0,0,0.0,4.9
-RAIL0802,Intermodal Rail,2024-09-22,03:20,1.7,58.0,0.7,Fresh,Flowers,Ahmedabad,Kochi,135.0,18.6,4.9,0.0,0,0.0,7.6
-RAIL0004,Intermodal Rail,2025-07-08,02:20,3.4,85.1,0.9,Fresh,Dairy,Mumbai,Kochi,155.8,24.6,6.2,0.0,0,0.0,3.5
-RAIL0627,Intermodal Rail,2025-06-07,11:55,7.7,40.9,2.8,Fresh,Vegetables,Kolkata,Bengaluru,122.5,12.3,9.2,0.0,0,0.0,3.5
-RAIL1004,Intermodal Rail,2024-07-17,18:40,3.3,54.7,2.1,Fresh,N/A,Mumbai,Jammu,129.5,11.8,3.5,0.0,0,0.0,4.9
-RAIL0630,Intermodal Rail,2024-01-25,09:50,2.7,58.4,1.6,Fresh,Flowers,Ahmedabad,Guwahati,146.7,18.9,4.0,0.0,0,0.0,5.7
-RAIL0346,Intermodal Rail,2025-06-16,09:20,0.1,68.3,3.4,Fresh,Flowers,Mumbai,Guwahati,148.7,5.3,5.0,0.0,0,0.0,0.7
-RAIL0743,Intermodal Rail,2024-03-10,03:00,10.1,81.1,4.3,Fresh,Vegetables,Delhi,Chennai,127.3,16.0,9.6,0.0,0,0.0,1.9
-RAIL0970,Intermodal Rail,2025-08-08,02:10,3.8,75.4,2.8,Fresh,Flowers,Ahmedabad,Guwahati,141.2,24.1,4.0,0.0,0,0.0,5.4
-RAIL0201,Intermodal Rail,2026-04-02,09:15,5.9,48.0,0.6,Fresh,Dairy,Guwahati,Jammu,132.1,10.8,6.7,0.0,0,0.0,2.1
-RAIL0891,Intermodal Rail,2026-02-06,07:25,1.6,44.9,4.4,Fresh,Meat,Ahmedabad,Guwahati,136.6,10.2,5.9,0.0,0,0.0,3.6
-RAIL0114,Intermodal Rail,2024-03-19,14:30,9.5,55.4,3.7,At Risk,Flowers,Chennai,Bengaluru,132.0,28.0,3.7,0.0,0,0.0,7.9
-RAIL0163,Intermodal Rail,2026-08-25,15:00,0.7,-80.0,0.6,At Risk,Dairy,Guwahati,Jammu,157.5,26.2,6.0,0.0,0,0.0,7.4
-RAIL0290,Intermodal Rail,2025-05-27,00:00,1.6,89.2,2.3,At Risk,Seafood,Mumbai,Bengaluru,146.8,25.8,3.5,0.0,0,0.0,3.6
-RAIL0951,Intermodal Rail,2025-01-03,11:15,3.8,81.3,2.2,Fresh,Flowers,Delhi,Chennai,132.0,20.9,4.3,0.0,0,0.0,5.0
-RAIL0325,Intermodal Rail,2024-12-21,02:00,-0.0,78.9,3.6,Fresh,Seafood,Kolkata,Guwahati,129.0,16.2,3.7,0.0,0,0.0,6.3
-RAIL0887,Intermodal Rail,2024-09-28,02:15,6.4,93.5,2.2,Fresh,Pharmaceuticals,Delhi,Nagpur,126.3,9.8,28.3,0.0,0,0.0,2.2
-RAIL0795,Intermodal Rail,2024-12-13,19:00,-5.0,79.7,2.5,Fresh,Meat,Chennai,Kochi,125.4,21.4,5.4,0.0,0,0.0,8.7
-RAIL0909,Intermodal Rail,2024-04-19,23:25,5.0,57.9,0.8,Fresh,Meat,Ahmedabad,Jaipur,165.6,23.5,5.0,0.0,0,0.0,7.1
-RAIL0309,Intermodal Rail,2025-04-15,02:45,4.4,93.8,2.0,Fresh,Pharmaceuticals,Guwahati,Kochi,162.1,14.5,27.0,0.0,0,0.0,4.6
-RAIL0515,Intermodal Rail,2025-12-21,22:20,1.2,35.3,2.3,Fresh,Pharmaceuticals,Chennai,Guwahati,144.9,5.0,29.0,0.0,0,0.0,6.7
-RAIL0958,Intermodal Rail,2024-04-02,09:10,5.7,49.3,2.2,Fresh,Fruits,Guwahati,Chennai,141.3,7.1,11.5,0.0,0,0.0,0.5
-RAIL0520,Intermodal Rail,2024-05-29,11:30,3.6,70.2,2.4,Fresh,Vegetables,Chennai,Kochi,147.5,22.9,8.7,0.0,0,0.0,7.8
-RAIL0547,Intermodal Rail,2026-04-11,00:25,7.9,87.7,2.4,Fresh,Dairy,Ahmedabad,Guwahati,134.6,20.3,5.8,0.0,0,0.0,0.9
-RAIL0818,Intermodal Rail,2025-06-17,16:40,4.9,57.9,2.4,Fresh,Dairy,Chennai,Kochi,134.0,12.3,6.4,0.0,0,0.0,4.7
-RAIL0664,Intermodal Rail,2024-06-18,05:05,5.3,46.8,3.3,Fresh,Dairy,Chennai,Nagpur,151.9,16.9,6.0,0.0,0,0.0,5.3
-RAIL0573,Intermodal Rail,2025-12-30,08:45,2.8,43.2,2.8,Fresh,Vegetables,Guwahati,Chennai,162.1,16.3,9.0,0.0,0,0.0,7.4
-RAIL0569,Intermodal Rail,2024-01-12,22:30,-0.2,95.0,1.6,Fresh,Seafood,Mumbai,Kochi,134.2,24.1,2.6,0.0,0,0.0,6.2
-RAIL0495,Intermodal Rail,2024-03-24,16:20,2.3,49.5,3.0,Fresh,Dairy,Kolkata,Chennai,127.7,5.6,6.6,0.0,0,0.0,2.6
-RAIL0334,Intermodal Rail,2025-05-03,16:15,2.7,66.9,2.1,Fresh,Meat,Guwahati,Bengaluru,120.8,10.1,5.0,0.0,0,0.0,4.7
-RAIL0981,Intermodal Rail,2024-11-07,11:45,3.4,32.3,3.7,Fresh,Seafood,Kolkata,Jammu,132.7,2.3,3.9,0.0,0,0.0,5.6
-RAIL0480,Intermodal Rail,2026-01-18,04:25,0.6,62.3,2.0,Fresh,Seafood,Delhi,Jammu,133.1,13.5,4.0,0.0,0,0.0,4.9
-RAIL0274,Intermodal Rail,2024-08-31,17:20,3.6,41.5,2.3,Fresh,Meat,Kolkata,Chennai,136.8,12.2,5.6,0.0,0,0.0,5.9
-RAIL0836,Intermodal Rail,2024-02-02,09:45,4.8,35.5,3.5,Fresh,Meat,Kolkata,Chennai,150.7,17.4,5.7,0.0,0,0.0,6.3
-RAIL0976,Intermodal Rail,2025-07-08,11:55,0.3,48.8,1.7,Fresh,Flowers,Guwahati,Jaipur,128.7,1.5,4.9,0.0,0,0.0,0.7
-RAIL0816,Intermodal Rail,2026-05-04,14:25,7.1,82.0,3.5,FRESH,Pharmaceuticals,Guwahati,Bengaluru,158.0,17.0,26.6,0.0,0,0.0,6.0
-RAIL0561,Intermodal Rail,2026-03-16,03:45,6.6,59.9,2.2,Fresh,Dairy,Guwahati,Jammu,156.2,16.7,5.7,0.0,0,0.0,2.0
-RAIL0585,Intermodal Rail,2024-02-27,23:20,10.3,36.0,2.7,Fresh,Vegetables,Delhi,Bengaluru,132.9,10.9,9.8,0.0,0,0.0,1.3
-RAIL0391,Intermodal Rail,2025-11-21,05:30,2.7,78.7,2.2,At Risk,Seafood,Mumbai,Jaipur,127.5,27.7,3.5,0.0,0,0.0,4.6
-RAIL1003,Intermodal Rail,27/05/2024,23:10,7.6,52.2,2.7,Fresh,Flowers,Guwahati,Jaipur,120.6,15.2,4.5,0.0,0,0.0,6.0
-RAIL0665,Intermodal Rail,2024-04-18,11:10,2.6,87.2,2.0,Spoiled,Meat,Chennai,Kochi,164.5,85.0,3.0,0.0,0,0.0,4.4
-RAIL0995,Intermodal Rail,2026-02-18,05:25,3.7,63.2,3.8,Fresh,Vegetables,Delhi,Nagpur,139.4,9.9,10.0,0.0,0,0.0,1.8
-RAIL0121,Intermodal Rail,2026-07-07,06:40,2.0,30.0,2.1,Fresh,Meat,Ahmedabad,Jaipur,145.6,5.3,6.0,0.0,0,0.0,4.0
-RAIL1002,Intermodal Rail,2025-06-17,16:40,4.9,124.8,2.4,Fresh,Dairy,Chennai,Kochi,134.0,12.3,6.4,0.0,0,0.0,4.7
-RAIL0899,Intermodal Rail,2024-07-01,13:40,7.9,67.4,1.4,Spoiled,Seafood,Ahmedabad,Jammu,138.5,89.9,1.5,0.0,0,0.0,9.5
-RAIL0355,Intermodal Rail,2024-12-30,21:00,1.3,50.9,3.2,Fresh,Flowers,Guwahati,Jammu,137.7,5.1,5.0,0.0,0,0.0,1.0
-RAIL0827,Intermodal Rail,2024-07-09,17:50,8.8,54.4,1.4,Fresh,Fruits,Guwahati,Jammu,144.0,17.0,10.6,0.0,0,0.0,5.8
-RAIL0359,Intermodal Rail,2024-01-14,14:25,0.8,88.2,1.8,Fresh,Meat,Mumbai,Jammu,150.2,19.3,5.5,0.0,0,0.0,5.2
-RAIL0800,Intermodal Rail,2025-10-31,19:45,4.1,66.6,2.3,Fresh,Vegetables,Guwahati,Jaipur,142.8,21.2,8.7,0.0,0,0.0,6.8
-RAIL0118,Intermodal Rail,2024-05-02,02:45,6.9,65.8,2.4,Fresh,Vegetables,Mumbai,Bengaluru,158.4,18.9,8.4,0.0,0,0.0,4.1
-RAIL0074,Intermodal Rail,2026-02-09,09:50,,36.6,1.5,Fresh,Fruits,Delhi,Jammu,123.7,18.6,10.3,0.0,0,0.0,6.8
-RAIL0842,Intermodal Rail,2026-03-13,08:40,1.8,69.1,2.6,Fresh,Seafood,Ahmedabad,Bengaluru,158.6,23.9,3.0,0.0,0,0.0,3.8
-RAIL0486,Intermodal Rail,2025-07-03,04:05,4.3,42.3,1.9,Fresh,Dairy,Delhi,Guwahati,151.4,16.7,6.1,0.0,0,0.0,4.3
-RAIL0335,Intermodal Rail,2025-06-09,11:45,1.2,72.8,1.2,Fresh,Seafood,Delhi,Nagpur,135.6,20.0,3.4,0.0,0,0.0,3.5
-RAIL0666,Intermodal Rail,2024-05-10,08:10,1.1,77.0,2.9,Fresh,Meat,Mumbai,Jammu,166.3,18.5,5.7,0.0,0,0.0,4.6
-RAIL0563,Intermodal Rail,2024-12-10,05:30,0.8,88.3,1.6,Fresh,Seafood,Mumbai,Bengaluru,133.8,22.5,3.2,0.0,0,0.0,5.1
-RAIL0954,Intermodal Rail,2024-05-12,12:25,2.3,69.8,2.5,Fresh,Flowers,Mumbai,Jaipur,137.5,12.9,5.0,0.0,0,0.0,2.0
-RAIL0179,Intermodal Rail,2026-07-09,18:50,5.8,52.3,2.4,Fresh,Vegetables,Kolkata,Chennai,139.7,12.6,9.6,0.0,0,0.0,5.2
-RAIL0658,Intermodal Rail,2024-08-19,16:00,9.0,63.7,2.5,Fresh,Pharmaceuticals,Mumbai,Jaipur,126.1,12.5,27.7,0.0,0,0.0,7.1
-RAIL0224,Intermodal Rail,2024-04-28,11:55,6.2,85.0,1.0,Fresh,Flowers,Mumbai,Bengaluru,126.2,22.9,3.9,0.0,0,0.0,4.9
-RAIL0145,intermodal rail  ,2024-05-04,21:10,2.9,31.0,1.9,Fresh,Dairy,Ahmedabad,Chennai,164.9,14.3,6.8,0.0,0,0.0,4.9
-RAIL0937,Intermodal Rail,2025-10-06,11:10,7.6,65.8,3.0,Fresh,Vegetables,Ahmedabad,Jammu,142.5,10.9,9.4,0.0,0,0.0,4.6
-RAIL0724,Intermodal Rail,2024-09-26,01:40,2.9,52.0,3.1,Fresh,Pharmaceuticals,Guwahati,Nagpur,143.6,4.3,29.0,0.0,0,0.0,2.1
-RAIL0730,Intermodal Rail,2025-05-28,07:40,7.0,84.6,1.7,Fresh,Flowers,Guwahati,Kochi,153.9,19.6,4.4,0.0,0,0.0,2.2
-RAIL0906,Intermodal Rail,2026-04-19,03:20,3.4,62.5,2.7,Fresh,Dairy,Guwahati,Jaipur,124.6,9.4,6.3,0.0,0,0.0,3.3
-RAIL0695,Intermodal Rail,2025-12-11,11:15,2.5,47.3,2.2,Fresh,Seafood,Mumbai,Jammu,126.5,4.5,3.5,0.0,0,0.0,3.6
-RAIL0302,Intermodal Rail,2025-03-29,08:10,14.2,69.7,3.0,Fresh,Fruits,Mumbai,Nagpur,150.2,22.8,9.9,0.0,0,0.0,7.9
-RAIL0879,Intermodal Rail,2024-01-01,02:35,2.4,51.3,2.1,Fresh,Seafood,Guwahati,Kochi,154.1,12.4,4.0,0.0,0,0.0,3.7
-RAIL0002,Intermodal Rail,2024-07-20,01:15,1.1,30.0,3.2,Fresh,Meat,Kolkata,Bengaluru,162.4,1.0,5.8,0.0,0,0.0,3.0
-RAIL0105,Intermodal Rail,2024-06-02,05:15,11.7,69.2,2.3,At Risk,Vegetables,Chennai,Kochi,130.6,27.0,8.2,0.0,0,0.0,7.7
-RAIL0131,Intermodal Rail,2024-01-05,09:10,7.8,81.1,2.0,At Risk,Vegetables,Kolkata,Nagpur,149.8,25.3,8.0,0.0,0,0.0,4.6
-RAIL0650,Intermodal Rail,2025-05-13,01:05,8.7,53.8,1.7,Fresh,Fruits,Chennai,Jaipur,126.8,7.7,11.7,0.0,0,0.0,2.3
-RAIL0405,Intermodal Rail,2025-12-24,20:05,-0.3,72.4,1.7,Fresh,Flowers,Mumbai,Bengaluru,150.3,8.1,4.2,0.0,0,0.0,0.2
-RAIL0381,Intermodal Rail,2026-04-10,08:20,3.3,61.3,2.9,Fresh,Flowers,Delhi,Guwahati,132.6,16.5,4.4,0.0,0,0.0,2.9
-RAIL0486,Intermodal Rail,2025-07-03,04:05,4.3,42.3,1.9,Fresh,Dairy,Delhi,Guwahati,151.4,16.7,6.1,0.0,0,0.0,4.3
-RAIL0463,Intermodal Rail,2026-06-16,03:10,7.9,82.8,3.5,Fresh,Pharmaceuticals,Chennai,Kochi,147.4,11.6,28.0,0.0,0,0.0,0.7
-RAIL0174,Intermodal Rail,2025-11-10,10:55,1.2,76.4,3.2,Fresh,Meat,Kolkata,Jammu,154.1,16.1,5.0,0.0,0,0.0,3.4
-RAIL0127,Intermodal Rail,2026-08-02,17:40,3.2,59.5,0.5,Fresh,Pharmaceuticals,Guwahati,Kochi,155.7,7.8,28.3,0.0,0,0.0,2.8
-RAIL0840,Intermodal Rail,2026-04-04,08:20,8.8,70.7,2.2,Fresh,Vegetables,Kolkata,Bengaluru,137.3,15.6,9.2,0.0,0,0.0,2.8
-RAIL0440,Intermodal Rail,2024-05-18,09:35,0.6,84.3,2.3,Fresh,Dairy,Guwahati,Kochi,120.2,18.5,6.0,0.0,0,0.0,7.0
-RAIL0725,Intermodal Rail,2024-12-29,09:40,3.3,54.7,1.8,Fresh,Flowers,Chennai,Guwahati,147.1,16.4,4.5,0.0,0,0.0,5.4
-RAIL0339,Intermodal Rail,2025-08-14,01:40,1.1,64.5,2.0,Fresh,Pharmaceuticals,Delhi,Bengaluru,129.9,6.9,29.1,0.0,0,0.0,6.5
-RAIL0269,Intermodal Rail,2026-03-21,11:10,3.6,85.9,-2.7,Fresh,Dairy,Mumbai,Kochi,162.8,22.2,5.8,0.0,0,0.0,4.5
-RAIL0172,Intermodal Rail,2025-05-03,17:40,10.8,73.5,3.7,At Risk,Vegetables,Kolkata,Guwahati,133.5,26.9,8.3,0.0,0,0.0,8.0
-RAIL0083,Intermodal Rail,2024-09-02,02:55,7.6,60.7,4.9,Fresh,Pharmaceuticals,Delhi,Nagpur,136.7,7.4,28.7,0.0,0,0.0,1.7
-RAIL0999,Intermodel Rail,2024-04-28,11:55,6.2,85.0,1.0,Fresh,Flowers,Mumbai,Bengaluru,126.2,22.9,3.9,0.0,0,0.0,4.9
-RAIL0294,Intermodal Rail,2024-04-13,09:35,8.0,64.5,4.7,Fresh,Dairy,Ahmedabad,Bengaluru,166.4,14.0,6.3,0.0,0,0.0,0.5
-RAIL0841,Intermodal Rail,2026-04-10,17:35,7.2,64.4,0.9,Fresh,Vegetables,Kolkata,Chennai,151.2,18.3,8.5,0.0,0,0.0,4.2
-RAIL0700,Intermodal Rail,2025-09-20,18:05,15.1,46.5,2.7,Fresh,Fruits,Delhi,Jaipur,150.1,21.6,10.5,0.0,0,0.0,6.9
-RAIL0071,Intermodal Rail,2024-03-14,22:05,2.6,92.4,2.6,Spoiled,Flowers,Kolkata,Kochi,145.9,84.8,2.2,0.0,0,0.0,5.9
-RAIL0686,Intermodal Rail,2024-08-14,17:20,2.0,55.1,1.7,Fresh,Meat,Delhi,Jammu,131.3,13.4,5.5,0.0,0,0.0,4.0
-RAIL0032,Intermodal Rail,2024-08-27,20:35,11.3,56.8,1.6,Fresh,Fruits,Guwahati,Chennai,128.6,10.2,11.2,0.0,0,0.0,3.7
-RAIL0525,Intermodal Rail,2025-03-07,13:00,0.5,55.3,1.9,Fresh,Meat,Ahmedabad,Guwahati,157.2,9.0,5.7,0.0,0,0.0,3.0
-RAIL0843,Intermodal Rail,2025-10-04,14:00,-3.0,37.5,2.7,Fresh,Seafood,Kolkata,Nagpur,130.7,11.9,3.6,0.0,0,0.0,8.5
-RAIL0677,Intermodal Rail,2024-09-27,06:10,3.1,51.1,3.1,Fresh,Meat,Ahmedabad,Bengaluru,128.3,11.8,5.0,0.0,0,0.0,2.9
-RAIL0414,Intermodal Rail,2024-01-01,10:20,2.8,30.0,2.0,Fresh,Dairy,Guwahati,Bengaluru,137.4,8.6,6.9,0.0,0,0.0,5.5
-RAIL0636,Intermodal Rail,2025-01-26,12:30,3.7,35.3,1.9,Fresh,Meat,Chennai,Bengaluru,124.6,9.3,5.2,0.0,0,0.0,2.9
-RAIL0140,Intermodal Rail,2024-12-04,06:55,1.0,78.6,2.9,Fresh,Seafood,Kolkata,Bengaluru,152.1,20.1,4.0,0.0,0,0.0,4.7
-RAIL0240,Intermodal Rail,2025-12-29,21:25,3.5,74.4,3.6,Fresh,Dairy,Chennai,Nagpur,149.5,20.6,6.0,0.0,0,0.0,3.6
-RAIL0983,Intermodal Rail,2026-08-05,21:10,3.1,67.3,3.1,Fresh,Seafood,Ahmedabad,Bengaluru,141.1,19.6,3.5,0.0,0,0.0,5.1
-RAIL0637,Intermodal Rail,2025-09-15,00:10,9.5,48.6,1.5,Fresh,Fruits,Chennai,Kochi,163.3,16.5,11.2,0.0,0,0.0,5.4
-RAIL0386,Intermodal Rail,2025-08-04,15:10,2.0,59.9,3.1,Fresh,Dairy,Chennai,Kochi,164.2,17.7,5.6,0.0,0,0.0,5.5
-RAIL0655,Intermodal Rail,2024-04-03,17:55,12.1,68.4,4.0,Fresh,Fruits,Mumbai,Jammu,121.5,13.3,11.5,0.0,0,0.0,2.8
-RAIL0731,Intermodal Rail,2026-04-10,11:15,4.7,67.4,3.2,Fresh,Vegetables,Mumbai,Kochi,120.1,5.1,9.6,0.0,0,0.0,2.4
-RAIL0826,Intermodal Rail,2025-02-15,13:10,-5.0,42.0,2.2,Fresh,Meat,Kolkata,Guwahati,154.4,14.4,5.6,0.0,0,0.0,9.2
-RAIL0544,Intermodal Rail,2024-04-13,20:40,4.1,118.7,4.0,Fresh,Flowers,Guwahati,Jaipur,154.4,15.4,4.5,0.0,0,0.0,3.0
-RAIL0330,Intermodal Rail,2026-06-22,18:15,10.9,62.0,2.7,Fresh,Fruits,Ahmedabad,Chennai,129.3,11.3,11.3,0.0,0,0.0,3.9
-RAIL0952,Intermodal Rail,2026-05-15,14:40,11.8,52.5,2.2,Fresh,Fruits,Chennai,Jaipur,157.8,16.0,10.8,0.0,0,0.0,5.0
-RAIL0088,Intermodal Rail,2025-02-23,18:00,2.4,60.1,3.6,Fresh,Dairy,Mumbai,Kochi,155.0,17.1,6.4,0.0,0,0.0,2.0
-RAIL0559,Intermodal Rail,2025-03-30,21:30,2.9,60.2,2.9,Fresh,Flowers,Chennai,Bengaluru,156.5,18.4,4.6,0.0,0,0.0,5.8
-RAIL0997,Intermodal Rail,2025-11-12,11:30,6.2,67.7,3.4,Fresh,Vegetables,Chennai,Bengaluru,136.5,14.9,9.3,0.0,0,0.0,4.6
-RAIL0800,Intermodal Rail,2025-10-31,19:45,4.1,66.6,2.3,Fresh,Vegetables,Guwahati,Jaipur,142.8,21.2,8.7,0.0,0,0.0,6.8
-RAIL0820,Intermodal Rail,2025-02-06,04:40,9.7,84.0,2.7,Fresh,Fruits,Guwahati,Chennai,145.5,15.4,11.2,0.0,0,0.0,3.1
-RAIL0988,Intermodal Rail,2025-08-26,04:35,7.3,41.7,1.8,Fresh,Pharmaceuticals,Kolkata,Jammu,167.6,7.9,28.4,0.0,0,0.0,5.5
-RAIL0986,Intermodal Rail,2026-01-13,11:20,2.6,31.3,3.7,Fresh,Seafood,Delhi,Jaipur,147.6,13.3,3.3,0.0,0,0.0,3.5
-RAIL0128,Intermodal Rail,2026-05-18,04:05,10.3,72.1,1.8,Fresh,Fruits,Kolkata,Kochi,127.0,18.6,10.8,0.0,0,0.0,3.4
-RAIL0155,Intermodal Rail,2025-11-18,22:05,-0.7,55.1,3.6,Fresh,Pharmaceuticals,Kolkata,Kochi,143.0,6.4,28.8,0.0,0,0.0,0.4
-RAIL0956,Intermodal Rail,2026-03-10,16:20,13.4,64.5,1.0,Fresh,Fruits,Delhi,Jaipur,142.8,24.9,10.2,0.0,0,0.0,6.7
-RAIL0506,Intermodal Rail,2024-09-19,20:35,8.1,57.4,2.5,Fresh,Vegetables,Mumbai,Bengaluru,144.0,16.8,9.6,0.0,0,0.0,5.1
-RAIL0200,Intermodal Rail,2026-01-26,06:55,5.8,60.3,2.6,Fresh,Dairy,Delhi,Jaipur,122.1,16.1,6.4,0.0,0,0.0,1.9
-RAIL0531,Intermodal Rail,2024-11-24,00:15,2.1,60.0,2.1,Fresh,Dairy,Delhi,Nagpur,122.2,19.3,6.3,0.0,0,0.0,6.3
-RAIL0801,Intermodal Rail,2024-06-23,07:55,6.2,47.2,2.3,Fresh,Fruits,Mumbai,Nagpur,138.2,11.9,11.8,0.0,0,0.0,7.1
-RAIL0184,Intermodal Rail,2025-04-28,02:05,10.0,68.3,2.8,Fresh,Fruits,Guwahati,Jaipur,140.9,11.6,11.1,0.0,0,0.0,2.9
-RAIL0107,Intermodal Rail,2025-10-28,23:00,1.2,56.5,2.6,Fresh,Meat,Ahmedabad,Jammu,131.3,19.6,5.4,0.0,0,0.0,4.7
-RAIL0456,Intermodal Rail,2024-02-05,02:30,12.2,53.7,2.8,Fresh,Fruits,Mumbai,Kochi,133.0,11.4,10.6,0.0,0,0.0,3.2
-RAIL0060,Intermodal Rail,2026-06-27,14:15,6.3,90.3,2.6,Fresh,Vegetables,Kolkata,Jaipur,126.1,23.9,8.5,0.0,0,0.0,4.8
-RAIL0728,Intermodal Rail,2025-12-08,09:15,1.2,66.6,3.4,Fresh,Meat,Mumbai,Chennai,143.6,16.9,5.2,0.0,0,0.0,5.0
-RAIL0025,Intermodal Rail,2025-05-06,11:40,6.3,71.9,3.6,Fresh,Vegetables,Chennai,Kochi,146.2,18.2,8.3,0.0,0,0.0,3.3
-RAIL0938,Intermodal Rail,2025-05-15,07:15,4.3,74.5,3.2,Fresh,Flowers,Guwahati,Jaipur,133.7,18.3,5.0,0.0,0,0.0,4.6
-RAIL0603,Intermodal Rail,2024-01-20,07:05,11.8,69.0,3.8,Fresh,Fruits,Delhi,Nagpur,126.0,19.5,10.5,0.0,0,0.0,4.9
-RAIL0475,Intermodal Rail,2025-08-26,06:00,8.2,43.0,1.8,Fresh,Fruits,Delhi,Guwahati,160.9,16.6,10.3,0.0,0,0.0,6.1
-RAIL0230,Intermodal Rail,2025-01-16,05:35,11.9,76.2,2.7,Fresh,Fruits,Guwahati,Bengaluru,161.4,22.0,10.6,0.0,0,0.0,4.9
-RAIL0345,Intermodal Rail,2026-08-02,09:00,3.0,51.1,2.2,Fresh,Dairy,Guwahati,Jammu,141.1,15.8,6.5,0.0,0,0.0,5.0
-RAIL0263,Intermodal Rail,2025-06-08,20:35,2.7,55.0,2.9,Fresh,Dairy,Guwahati,Bengaluru,137.4,12.4,6.5,0.0,0,0.0,4.9
-RAIL0502,Intermodal Rail,2024-09-14,00:55,10.2,44.9,1.5,Fresh,Fruits,Kolkata,Bengaluru,141.5,14.6,11.0,0.0,0,0.0,4.7
-RAIL0822,Intermodal Rail,2026-08-07,08:15,3.7,43.5,0.9,Fresh,Seafood,Mumbai,Jaipur,166.9,13.7,3.3,0.0,0,0.0,2.0
-RAIL0040,Intermodal Rail,2024-12-21,10:05,7.4,57.1,4.2,Fresh,Pharmaceuticals,Chennai,Nagpur,148.9,17.8,26.9,0.0,0,0.0,6.8
-RAIL0283,Intermodal Rail,2024-01-24,14:25,8.3,52.5,2.9,Fresh,Vegetables,Kolkata,Nagpur,144.8,14.4,8.7,0.0,0,0.0,5.1
-RAIL0902,Intermodal Rail,2026-06-11,04:40,8.3,68.7,2.3,Fresh,Fruits,Guwahati,Bengaluru,143.9,14.4,10.8,0.0,0,0.0,2.0
-RAIL0716,Intermodal Rail,2026-03-18,22:50,2.1,63.9,3.9,Fresh,Dairy,Chennai,Nagpur,139.7,22.1,6.5,0.0,0,0.0,5.6
-RAIL0886,Intermodal Rail,2026-05-24,10:25,8.7,,1.7,Fresh,Pharmaceuticals,Chennai,Kochi,135.7,4.6,28.9,0.0,0,0.0,1.1
-RAIL0689,Intermodal Rail,2025-10-04,00:55,2.8,51.2,1.9,Fresh,Meat,Guwahati,Chennai,123.8,8.9,5.8,0.0,0,0.0,5.0
-RAIL0360,Intermodal Rail,2024-03-27,08:35,-1.9,60.6,2.7,Fresh,Meat,Mumbai,Jaipur,125.8,1.0,6.0,0.0,0,0.0,0.2
-RAIL0437,Intermodal Rail,2025-04-22,08:45,7.1,30.4,1.6,Fresh,Flowers,Ahmedabad,Jaipur,157.2,15.7,4.8,0.0,0,0.0,6.1
-RAIL0947,Intermodal Rail,2026-01-02,16:10,1.5,58.4,3.7,Fresh,Meat,Kolkata,Bengaluru,164.4,16.6,5.9,0.0,0,0.0,3.5
-RAIL0946,Intermodal Rail,2026-04-11,11:10,4.1,59.1,1.9,Fresh,Pharmaceuticals,Mumbai,Jammu,157.2,13.6,27.6,0.0,0,0.0,3.2
-RAIL0555,Intermodal Rail,2024-04-22,09:35,0.3,63.0,3.0,Fresh,Meat,Chennai,Guwahati,122.1,14.2,5.6,0.0,0,0.0,5.9
-RAIL0349,Intermodal Rail,2025-04-27,23:05,6.3,62.6,3.2,Fresh,Vegetables,Mumbai,Jaipur,129.2,11.8,9.3,0.0,0,0.0,3.5
-RAIL0397,Intermodal Rail,2024-07-17,18:40,3.3,54.7,2.1,Fresh,Seafood,Mumbai,Jammu,129.5,11.8,3.5,0.0,0,0.0,4.9
-RAIL0196,Intermodal Rail,2025-05-20,22:10,8.6,58.5,3.3,Fresh,Vegetables,Delhi,Guwahati,166.0,21.7,8.5,0.0,0,0.0,5.2
-RAIL0377,Intermodal Rail,2024-12-14,02:00,8.8,42.9,1.0,Fresh,Flowers,Guwahati,Jammu,145.5,8.9,4.9,0.0,0,0.0,0.2
-RAIL0413,Intermodal Rail,2026-08-14,10:55,-1.0,74.7,2.9,Fresh,Seafood,Delhi,Nagpur,144.9,19.3,3.4,0.0,0,0.0,6.1
-RAIL0790,Intermodal Rail,2025-07-18,10:00,4.3,62.4,1.8,Fresh,Flowers,Mumbai,Kochi,159.2,20.3,4.0,0.0,0,0.0,4.5
-RAIL0484,Intermodal Rail,2024-01-28,08:00,2.3,55.2,4.5,Fresh,Meat,Ahmedabad,Jaipur,158.9,13.9,5.4,0.0,0,0.0,4.3
-RAIL0949,Intermodal Rail,2026-01-23,21:45,7.2,52.7,2.3,Fresh,Flowers,Ahmedabad,Jaipur,146.6,16.0,4.4,0.0,0,0.0,2.0
-RAIL0146,Intermodal Rail,2026-06-02,18:10,3.2,68.4,2.0,Fresh,Dairy,Mumbai,Jammu,161.3,17.8,6.9,0.0,0,0.0,3.0
-RAIL0249,Intermodal Rail,2026-07-01,10:35,3.2,59.5,2.6,Fresh,Meat,Guwahati,Bengaluru,164.1,19.5,5.2,0.0,0,0.0,5.3
-RAIL0718,Intermodal Rail,2026-05-15,01:35,4.1,44.4,3.7,Fresh,Dairy,Chennai,Nagpur,137.8,12.4,6.6,0.0,0,0.0,4.1
-RAIL0943,Intermodal Rail,2024-05-28,23:15,6.4,31.7,1.9,Fresh,Vegetables,Kolkata,Chennai,144.7,8.3,9.5,0.0,0,0.0,4.7
-RAIL0519,Intermodal Rail,2024-05-06,18:35,8.0,44.1,1.5,Fresh,Dairy,Mumbai,Chennai,150.0,24.2,6.3,0.0,0,0.0,8.3
-RAIL0192,Intermodal Rail,2025-05-18,10:05,3.8,65.3,0.8,Fresh,Meat,Delhi,Jammu,132.4,10.7,5.1,0.0,0,0.0,2.4
-RAIL0245,Intermodal Rail,2024-10-19,07:55,10.6,57.5,3.5,Fresh,Fruits,Mumbai,Kochi,159.3,16.9,10.3,0.0,0,0.0,4.4
-RAIL0035,Intermodal Rail,2025-05-10,13:10,6.4,42.0,3.4,Fresh,Flowers,Ahmedabad,Guwahati,137.1,22.2,4.5,0.0,0,0.0,5.6
-RAIL0651,Intermodal Rail,2024-06-01,05:55,8.3,58.5,1.9,Fresh,Flowers,Guwahati,Jaipur,130.9,23.9,4.5,0.0,0,0.0,6.6
-RAIL0722,Intermodal Rail,2024-02-12,13:30,3.0,62.1,2.7,Fresh,Flowers,Chennai,Jammu,153.6,18.6,4.9,0.0,0,0.0,5.7
-RAIL0092,Intermodal Rail,2025-03-20,01:35,3.1,58.5,3.4,Fresh,Meat,Guwahati,Jaipur,128.3,17.6,5.2,0.0,0,0.0,5.4
-RAIL0104,Intermodal Rail,2024-06-24,14:25,3.9,78.8,2.9,Fresh,Vegetables,Ahmedabad,Chennai,124.8,18.9,8.3,0.0,0,0.0,6.9
-RAIL0878,Intermodal Rail,2026-08-02,07:50,1.1,46.9,4.1,Fresh,Meat,Ahmedabad,Bengaluru,133.2,15.2,5.6,0.0,0,0.0,4.7
-RAIL0485,Intermodal Rail,2025-03-13,03:35,0.9,60.1,1.3,Fresh,Dairy,Guwahati,Jaipur,141.9,23.0,5.7,0.0,0,0.0,6.8
-RAIL0965,Intermodal Rail,2025-02-12,09:45,7.5,45.0,1.6,Fresh,Fruits,Chennai,Bengaluru,125.4,13.7,11.1,0.0,0,0.0,6.7
-RAIL0183,Intermodal Rail,2024-09-06,18:45,-1.0,59.5,2.4,Fresh,Meat,Guwahati,Jammu,155.8,8.9,5.8,0.0,0,0.0,2.1
-RAIL0141,Intermodal Rail,2024-05-25,17:55,4.3,53.3,2.2,Fresh,Seafood,Kolkata,Kochi,129.7,21.3,3.3,0.0,0,0.0,5.6
-RAIL0829,Intermodal Rail,2024-12-31,13:45,5.1,72.6,2.7,Fresh,Flowers,Chennai,Guwahati,157.3,23.9,3.9,0.0,0,0.0,4.1
-RAIL0395,Intermodal Rail,2024-01-23,10:55,0.8,63.5,2.2,At Risk,Flowers,Kolkata,Guwahati,156.8,28.3,4.5,0.0,0,0.0,8.3
-RAIL0745,Intermodal Rail,2025-08-09,14:00,1.6,54.5,1.7,Fresh,Dairy,Guwahati,Chennai,120.6,11.1,6.9,0.0,0,0.0,2.2
-RAIL0717,Intermodal Rail,2024-05-27,23:10,7.6,52.2,2.7,Fresh,Flowers,Guwahati,Jaipur,120.6,15.2,4.5,0.0,0,0.0,6.0
-RAIL0082,Intermodal Rail,2025-03-16,10:55,5.9,64.7,1.9,Fresh,Flowers,Mumbai,Nagpur,129.6,18.7,4.7,0.0,0,0.0,3.0
-RAIL0817,Intermodal Rail,2024-06-14,04:05,10.1,82.8,2.7,Fresh,Pharmaceuticals,Ahmedabad,Nagpur,163.0,14.2,27.1,0.0,0,0.0,0.2
-RAIL0090,Intermodal Rail,2024-12-08,07:35,1.7,63.6,2.1,Fresh,Flowers,Chennai,Bengaluru,122.3,19.0,5.0,0.0,0,0.0,6.1
-RAIL0321,Intermodal Rail,2025-04-26,10:50,6.8,85.4,4.8,Fresh,Flowers,Mumbai,Jammu,137.9,24.8,4.1,0.0,0,0.0,5.8
-RAIL0078,Intermodal Rail,2025-06-07,13:10,-1.3,90.6,1.5,At Risk,null,Kolkata,Bengaluru,150.6,26.3,3.1,0.0,0,0.0,6.3
-RAIL0479,Intermodal Rail,2025-01-21,16:00,13.0,59.7,0.8,Fresh,Fruits,Kolkata,Nagpur,164.2,21.7,10.5,0.0,0,0.0,5.8
-RAIL0478,Intermodal Rail,2025-10-12,17:05,3.8,80.7,3.6,At Risk,Flowers,Ahmedabad,Jaipur,128.1,26.5,4.5,0.0,0,0.0,4.9
-RAIL0985,Intermodal Rail,2025-01-16,12:15,12.3,43.8,1.9,Fresh,Fruits,Chennai,Jammu,149.3,15.7,11.0,0.0,0,0.0,4.9
-RAIL0330,Intermodal Rail,2026-06-22,18:15,10.9,62.0,2.7,Fresh,Fruits,Ahmedabad,Chennai,129.3,11.3,11.3,0.0,0,0.0,3.9
-RAIL0736,Intermodal Rail,2026-06-19,16:10,7.5,56.2,1.7,Fresh,Dairy,Mumbai,Bengaluru,131.5,5.7,6.6,0.0,0,0.0,0.2
-RAIL0793,Intermodal Rail,2024-11-30,00:15,-1.8,79.3,2.5,Fresh,Seafood,Kolkata,Chennai,130.6,7.7,4.0,0.0,0,0.0,0.7
-RAIL0884,Intermodal Rail,2025-04-30,05:10,4.5,67.8,2.3,Fresh,Pharmaceuticals,Ahmedabad,Guwahati,150.9,7.9,28.4,0.0,0,0.0,3.7
-RAIL0583,Intermodal Rail,2024-09-12,05:05,6.8,53.5,2.2,Fresh,Dairy,Kolkata,Nagpur,133.8,20.3,6.7,0.0,0,0.0,6.1
-RAIL0358,Intermodal Rail,2026-03-06,20:30,3.3,83.9,3.0,Fresh,Meat,Chennai,Nagpur,121.7,21.2,5.5,0.0,0,0.0,5.6
-RAIL0733,Intermodal Rail,2025-08-27,00:30,2.0,47.2,2.7,Fresh,Seafood,Kolkata,Jaipur,161.0,15.7,3.7,0.0,0,0.0,4.0
-RAIL0798,Intermodal Rail,2025-12-12,21:45,2.6,48.6,3.1,Fresh,Pharmaceuticals,Delhi,Kochi,160.2,14.0,27.4,0.0,0,0.0,6.1
-RAIL0373,Intermodal Rail,2024-10-21,11:35,6.2,69.9,1.3,Fresh,Vegetables,Guwahati,Jaipur,161.9,18.7,8.9,0.0,0,0.0,4.6
-RAIL0123,Intermodal Rail,2025-02-09,19:15,1.5,88.4,4.4,Fresh,Seafood,Kolkata,Jaipur,125.5,21.9,3.6,0.0,0,0.0,3.4
-RAIL0509,Intermodal Rail,2024-03-17,05:10,-3.9,54.7,1.5,Fresh,Meat,Kolkata,Nagpur,146.5,14.6,5.8,0.0,0,0.0,8.3
-RAIL0635,Intermodal Rail,2024-04-22,09:05,3.1,78.4,2.5,At Risk,Flowers,Delhi,Chennai,159.6,25.0,4.2,0.0,0,0.0,6.3
-RAIL0527,Intermodal Rail,2024-03-01,06:40,3.1,84.8,3.2,At Risk,Dairy,Guwahati,Jaipur,148.2,25.9,6.3,0.0,0,0.0,5.0
-RAIL0369,Intermodal Rail,2025-04-20,18:00,9.4,49.9,2.6,Fresh,Fruits,Ahmedabad,Jammu,147.7,11.7,11.1,0.0,0,0.0,5.3
-RAIL0787,Intermodal Rail,2026-02-14,04:40,1.4,59.2,3.3,Fresh,Meat,Ahmedabad,Jaipur,134.8,11.9,5.8,0.0,0,0.0,4.7
-RAIL0390,Intermodal Rail,2026-08-12,17:05,8.3,63.0,3.0,Fresh,Vegetables,Guwahati,Chennai,129.3,7.8,9.4,0.0,0,0.0,3.0
-RAIL0319,Intermodal Rail,2024-10-22,18:55,6.8,86.0,4.7,Fresh,Flowers,Kolkata,Bengaluru,151.4,18.1,4.9,0.0,0,0.0,2.4
-RAIL0077,Intermodal Rail,2024-07-15,20:25,5.8,50.7,2.5,Fresh,Pharmaceuticals,Ahmedabad,Guwahati,120.5,14.5,27.6,0.0,0,0.0,4.9
-RAIL0434,Intermodal Rail,2026-08-09,21:25,7.0,68.0,2.1,Fresh,Pharmaceuticals,Chennai,Jammu,133.7,9.6,28.3,0.0,0,0.0,2.5
-RAIL0962,Intermodal Rail,2026-01-01,00:50,2.4,60.9,2.5,Fresh,Flowers,Kolkata,Jammu,127.3,17.1,5.0,0.0,0,0.0,7.0
-RAIL0317,Intermodal Rail,2025-08-02,04:55,6.4,54.1,2.4,Fresh,Pharmaceuticals,Guwahati,Jaipur,152.4,13.9,27.3,0.0,0,0.0,5.5
-RAIL0011,Intermodal Rail,2025-07-24,05:40,2.0,73.7,0.6,Fresh,Dairy,Guwahati,Kochi,164.0,18.3,6.0,0.0,0,0.0,1.9
-RAIL0257,Intermodal Rail,2025-03-08,19:15,6.2,43.2,1.8,Fresh,Flowers,Delhi,Nagpur,135.1,14.2,4.7,0.0,0,0.0,3.2
-RAIL0616,Intermodal Rail,2025-10-19,21:15,2.7,65.2,1.8,Fresh,Seafood,Guwahati,Jammu,146.0,13.6,3.2,0.0,0,0.0,3.5
-RAIL0333,Intermodal Rail,2024-02-09,06:55,11.2,57.4,2.1,Fresh,Vegetables,Mumbai,Bengaluru,132.9,20.2,8.6,0.0,0,0.0,9.2
-RAIL0133,Intermodal Rail,2026-08-12,20:35,-3.5,76.1,3.0,Fresh,Meat,Mumbai,Guwahati,143.2,22.6,5.4,0.0,0,0.0,8.5
-RAIL0239,Intermodal Rail,2026-07-30,22:20,10.6,68.1,3.8,Fresh,Fruits,Ahmedabad,Kochi,127.5,15.0,10.7,0.0,0,0.0,4.5
-RAIL0312,Intermodal Rail,2024-02-13,15:40,3.9,70.5,2.0,Fresh,Pharmaceuticals,Chennai,Jaipur,156.6,11.8,27.7,0.0,0,0.0,2.9
-RAIL0741,Intermodal Rail,2025-01-22,09:55,3.3,82.0,1.9,Fresh,Pharmaceuticals,Ahmedabad,Bengaluru,142.7,17.6,26.5,0.0,0,0.0,2.6
-RAIL0685,Intermodal Rail,2025-04-17,10:25,3.8,67.2,2.8,Fresh,Fruits,Kolkata,Guwahati,121.8,19.4,10.5,0.0,0,0.0,8.7
-RAIL0229,Intermodal Rail,2025-07-14,19:50,0.5,66.9,1.7,Spoiled,Flowers,Kolkata,Nagpur,138.2,80.0,2.8,0.0,0,0.0,8.8
-RAIL0784,Intermodal Rail,2026-05-03,22:45,2.6,72.2,1.8,At Risk,Seafood,Kolkata,Jaipur,145.1,27.0,2.9,0.0,0,0.0,3.6
-RAIL0314,Intermodal Rail,2024-04-24,21:00,5.9,56.6,3.4,Fresh,Vegetables,Chennai,Kochi,136.8,17.3,8.3,0.0,0,0.0,4.7
-RAIL0013,Intermodal Rail,2025-12-10,04:45,1.9,76.6,2.8,Fresh,Dairy,Mumbai,Guwahati,149.7,15.9,6.3,0.0,0,0.0,1.6
-RAIL0614,Intermodal Rail,2025-06-22,13:10,4.1,57.9,3.0,Fresh,Seafood,Ahmedabad,Guwahati,166.2,18.0,3.1,0.0,0,0.0,5.5
-RAIL0872,Intermodal Rail,2026-01-16,20:05,5.9,65.9,3.4,Fresh,Fruits,Chennai,Guwahati,143.7,20.7,10.9,0.0,0,0.0,8.2
-RAIL0043,Intermodal Rail,2026-02-19,09:50,-0.6,86.3,1.8,Fresh,Dairy,Delhi,Jaipur,129.2,10.8,6.4,0.0,0,0.0,0.2
-RAIL0367,Intermodal Rail,2025-01-26,09:25,3.9,62.5,3.4,Fresh,Pharmaceuticals,Guwahati,Bengaluru,155.3,8.6,28.5,0.0,0,0.0,3.1
-RAIL0955,Intermodal Rail,2026-03-26,10:30,1.0,67.9,2.4,Fresh,Meat,Chennai,Jammu,155.4,13.5,5.9,0.0,0,0.0,4.8
-RAIL0856,Intermodal Rail,2024-01-26,23:55,12.7,66.6,3.4,Fresh,Fruits,Ahmedabad,Nagpur,122.5,17.4,10.8,0.0,0,0.0,5.8
-RAIL0182,Intermodal Rail,2025-02-28,14:15,3.5,95.0,2.0,Fresh,Dairy,Mumbai,Nagpur,147.4,21.5,6.5,0.0,0,0.0,3.4
-RAIL0053,Intermodal Rail,2024-02-24,01:55,-2.1,66.5,3.1,Fresh,Seafood,Chennai,Bengaluru,161.6,11.5,3.7,0.0,0,0.0,0.2
-RAIL0473,Intermodal Rail,2025-04-07,21:00,2.4,41.9,3.5,Fresh,Flowers,Mumbai,Jaipur,138.9,9.6,4.4,0.0,0,0.0,2.2
-RAIL0705,Intermodal Rail,2025-11-18,06:50,4.5,48.3,2.5,Fresh,Pharmaceuticals,Ahmedabad,Guwahati,167.6,11.5,27.2,0.0,0,0.0,3.5
-RAIL0073,Intermodal Rail,2024-09-26,00:35,12.4,31.6,4.6,Fresh,Fruits,Mumbai,Chennai,130.5,11.0,10.6,0.0,0,0.0,5.2
-RAIL0237,Intermodal Rail,2025-11-29,02:05,13.2,83.5,2.5,At Risk,Fruits,Kolkata,Guwahati,140.4,26.9,10.2,0.0,0,0.0,6.6
-RAIL0268,Intermodal Rail,2025-09-28,10:05,7.4,46.5,3.0,Fresh,Dairy,Ahmedabad,Bengaluru,156.7,12.3,6.9,0.0,0,0.0,1.3
-RAIL0328,Intermodal Rail,2024-09-14,03:20,2.4,43.6,2.1,Fresh,Flowers,Guwahati,Jaipur,162.3,21.6,4.8,0.0,0,0.0,6.8
-RAIL0998,Intermodal Rail,2024-12-13,19:00,23.0,79.7,2.5,Fresh,Meat,Chennai,Kochi,125.4,21.4,5.4,0.0,0,0.0,8.7
-RAIL0977,Intermodal Rail,2024-04-17,22:50,2.4,45.7,3.5,Fresh,Pharmaceuticals,Delhi,Bengaluru,164.5,16.1,27.0,0.0,0,0.0,7.0
-RAIL0846,Intermodal Rail,2024-10-08,09:30,12.2,83.2,1.1,Fresh,Fruits,Guwahati,Jaipur,128.0,17.9,11.2,0.0,0,0.0,2.7
-RAIL0057,Intermodal Rail,2025-12-07,04:35,3.8,55.0,2.3,Fresh,Meat,Chennai,Jaipur,159.0,14.4,5.6,0.0,0,0.0,2.2
+shipment_id	transport_mode	recorded_date	recorded_time	temperature_celsius	humidity_percentage	vibration_level	spoilage_status	cargo_type	origin_location	destination_location	exposure_duration_hours	spoilage_risk_percent	remaining_shelf_life_days	pressure_kpa	door_open_count	salinity_ppt	thermal_leakage_score
+RAIL1001	Intermodal Rail	18-07-2025	10:00		62.4	1.8	Fresh	Flowers	Mumbai	Kochi	159.2	20.3	4	0	0	0	4.5
+RAIL0681	Intermodal Rail	01-03-2025	10:45	4.5	47.4	4.3	Fresh	Flowers	Kolkata	Kochi	143.1	13.5	4.7	0	0	0	4.3
+RAIL0086	Intermodal Rail	09-11-2024	01:05	3.1	35.8	0.4	Fresh	Meat	Kolkata	Bengaluru	141.9	18.7	5.2	0	0	0	3.2
+RAIL0432	Intermodal Rail	30-11-2024	04:35	7.2	50.7	2.6	Fresh	Pharmaceuticals	Kolkata	Jammu	153.1	8.3	28.2	0	0	0	1.4
+RAIL0624	Intermodal Rail	25-06-2025	08:15	11.5	34.1	3	Fresh	Fruits	Mumbai	Nagpur	140.2	8.8	11	0	0	0	3.4
+RAIL0345	Intermodal Rail	02-08-2026	09:00	3	51.1	2.2	Fresh	Dairy	Guwahati	Jammu	141.1	15.8	6.5	0	0	0	5
+RAIL0524	Intermodal Rail	11-01-2025	15:55	1.9	42	1.9	Fresh	Dairy	Ahmedabad	Nagpur	159	9	6.9	0	0	0	2.3
+RAIL0133	Intermodal Rail	12-08-2026	20:35	-3.5	76.1	3	Fresh	Meat	Mumbai	Guwahati	143.2	22.6	5.4	0	0	0	8.5
+RAIL0989	Intermodal Rail	24-12-2025	10:10	4.2	67.3	3.5	Fresh	Seafood	Kolkata	Jammu	150	15.8	3.9	0	0	0	2.6
+RAIL0307	Intermodal Rail	16-08-2025	03:30	1.8	80.7	2.8	Fresh	Seafood	Delhi	Jaipur	134.1	21.9	3.5	0	0	0	4.2
+RAIL1000	Intermodal Rail	19-08-2024	21:15	999	52.4	2.9	Fresh	Pharmaceuticals	Kolkata	Kochi	120.2	9	28.3	0	0	0	2.8
+RAIL0150	Intermodal Rail	03-07-2026	11:35	5.2	73.9	2.7	Fresh	Meat	Delhi	Kochi	162.1	12.3	5.7	0	0	0	0.6
+RAIL0044	Intermodal Rail	26-05-2024	02:55	11.5	70.2	4	Fresh	Fruits	Ahmedabad	Chennai	120.1	18	9.9	0	0	0	4.4
+RAIL0710	Intermodal Rail	28-04-2025	02:20	0.5	54.5	0.7	Fresh	Seafood	Chennai	Guwahati	128.6	12.2	4	0	0	0	5.7
+RAIL0410	Intermodal Rail	19-08-2024	21:15	6.2	52.4	2.9	Fresh	Pharmaceuticals	Kolkata	Kochi	120.2	9	28.3	0	0	0	2.8
+RAIL0883	Intermodal Rail	25-08-2024	07:10	-0.9	47.4	3	Fresh	Seafood	Kolkata	Chennai	142.3	18.5	3.4	0	0	0	6.5
+RAIL0318	Intermodal Rail	01-05-2025	17:00	6.9	60.4	2.4	Fresh	Vegetables	Ahmedabad	Jammu	150.1	19.9	9.5	0	0	0	3.9
+RAIL0311	Intermodal Rail	11-06-2026	10:10	1.3	31.8	3.3	Fresh	Meat	Mumbai	Jammu	128.4	6.7	6	0	0	0	3.5
+RAIL0968	Intermodal Rail	03-07-2025	00:10	3.9	31.6	3.4	Fresh	Meat	Delhi	Nagpur	152.5	16.6	6	0	0	0	5.2
+RAIL0683	Intermodal Rail	08-12-2024	08:45	10.9	73.1	3.2	Fresh	Vegetables	Delhi	Bengaluru	157.3	20.1	9.2	0	0	0	1.1
+RAIL0967	Intermodal Rail	07-04-2024	16:25	11.5	80.5	3.7	Spoiled	Vegetables	Delhi	Bengaluru	155.4	94.2	4.5	0	0	0	7.7
+RAIL0193	Intermodal Rail	09-06-2026	05:55	8.1	52.4	3.1	Fresh	Flowers	Kolkata	Kochi	131.3	7.1	4.6	0	0	0	0.2
+RAIL0510	Intermodal Rail	12-10-2024	22:45	4.6	58.2	2	Fresh	Vegetables	Ahmedabad	Chennai	141.2	13.2	9.3	0	0	0	5.6
+RAIL0542	Intermodal Rail	14-05-2025	07:55	3.9	53.5	2.4	Fresh	Pharmaceuticals	Chennai	Jammu	149.9	12.8	27.9	0	0	0	4.7
+RAIL0067	Intermodal Rail	07-08-2025	03:55	10.5	62.6	4.3	Fresh	Fruits	Delhi	Jammu	123.3	9.1	10.9	0	0	0	3.5
+RAIL0759	Intermodal Rail	17-12-2024	21:00	0	63.3	3.3	Fresh	Seafood	Ahmedabad	Jaipur	147.1	19.4	3.6	0	0	0	6.3
+RAIL0423	Intermodal Rail	02-03-2024	06:50	9.7	66	1.9	Fresh	Fruits	Mumbai	Jaipur	138.2	15	10.9	0	0	0	4.9
+RAIL0802	Intermodal Rail	22-09-2024	03:20	1.7	58	0.7	Fresh	Flowers	Ahmedabad	Kochi	135	18.6	4.9	0	0	0	7.6
+RAIL0004	Intermodal Rail	08-07-2025	02:20	3.4	85.1	0.9	Fresh	Dairy	Mumbai	Kochi	155.8	24.6	6.2	0	0	0	3.5
+RAIL0627	Intermodal Rail	07-06-2025	11:55	7.7	40.9	2.8	Fresh	Vegetables	Kolkata	Bengaluru	122.5	12.3	9.2	0	0	0	3.5
+RAIL1004	Intermodal Rail	17-07-2024	18:40	3.3	54.7	2.1	Fresh	N/A	Mumbai	Jammu	129.5	11.8	3.5	0	0	0	4.9
+RAIL0630	Intermodal Rail	25-01-2024	09:50	2.7	58.4	1.6	Fresh	Flowers	Ahmedabad	Guwahati	146.7	18.9	4	0	0	0	5.7
+RAIL0346	Intermodal Rail	16-06-2025	09:20	0.1	68.3	3.4	Fresh	Flowers	Mumbai	Guwahati	148.7	5.3	5	0	0	0	0.7
+RAIL0743	Intermodal Rail	10-03-2024	03:00	10.1	81.1	4.3	Fresh	Vegetables	Delhi	Chennai	127.3	16	9.6	0	0	0	1.9
+RAIL0970	Intermodal Rail	08-08-2025	02:10	3.8	75.4	2.8	Fresh	Flowers	Ahmedabad	Guwahati	141.2	24.1	4	0	0	0	5.4
+RAIL0201	Intermodal Rail	02-04-2026	09:15	5.9	48	0.6	Fresh	Dairy	Guwahati	Jammu	132.1	10.8	6.7	0	0	0	2.1
+RAIL0891	Intermodal Rail	06-02-2026	07:25	1.6	44.9	4.4	Fresh	Meat	Ahmedabad	Guwahati	136.6	10.2	5.9	0	0	0	3.6
+RAIL0114	Intermodal Rail	19-03-2024	14:30	9.5	55.4	3.7	At Risk	Flowers	Chennai	Bengaluru	132	28	3.7	0	0	0	7.9
+RAIL0163	Intermodal Rail	25-08-2026	15:00	0.7	-80	0.6	At Risk	Dairy	Guwahati	Jammu	157.5	26.2	6	0	0	0	7.4
+RAIL0290	Intermodal Rail	27-05-2025	00:00	1.6	89.2	2.3	At Risk	Seafood	Mumbai	Bengaluru	146.8	25.8	3.5	0	0	0	3.6
+RAIL0951	Intermodal Rail	03-01-2025	11:15	3.8	81.3	2.2	Fresh	Flowers	Delhi	Chennai	132	20.9	4.3	0	0	0	5
+RAIL0325	Intermodal Rail	21-12-2024	02:00	0	78.9	3.6	Fresh	Seafood	Kolkata	Guwahati	129	16.2	3.7	0	0	0	6.3
+RAIL0887	Intermodal Rail	28-09-2024	02:15	6.4	93.5	2.2	Fresh	Pharmaceuticals	Delhi	Nagpur	126.3	9.8	28.3	0	0	0	2.2
+RAIL0795	Intermodal Rail	13-12-2024	19:00	-5	79.7	2.5	Fresh	Meat	Chennai	Kochi	125.4	21.4	5.4	0	0	0	8.7
+RAIL0909	Intermodal Rail	19-04-2024	23:25	5	57.9	0.8	Fresh	Meat	Ahmedabad	Jaipur	165.6	23.5	5	0	0	0	7.1
+RAIL0309	Intermodal Rail	15-04-2025	02:45	4.4	93.8	2	Fresh	Pharmaceuticals	Guwahati	Kochi	162.1	14.5	27	0	0	0	4.6
+RAIL0515	Intermodal Rail	21-12-2025	22:20	1.2	35.3	2.3	Fresh	Pharmaceuticals	Chennai	Guwahati	144.9	5	29	0	0	0	6.7
+RAIL0958	Intermodal Rail	02-04-2024	09:10	5.7	49.3	2.2	Fresh	Fruits	Guwahati	Chennai	141.3	7.1	11.5	0	0	0	0.5
+RAIL0520	Intermodal Rail	29-05-2024	11:30	3.6	70.2	2.4	Fresh	Vegetables	Chennai	Kochi	147.5	22.9	8.7	0	0	0	7.8
+RAIL0547	Intermodal Rail	11-04-2026	00:25	7.9	87.7	2.4	Fresh	Dairy	Ahmedabad	Guwahati	134.6	20.3	5.8	0	0	0	0.9
+RAIL0818	Intermodal Rail	17-06-2025	16:40	4.9	57.9	2.4	Fresh	Dairy	Chennai	Kochi	134	12.3	6.4	0	0	0	4.7
+RAIL0664	Intermodal Rail	18-06-2024	05:05	5.3	46.8	3.3	Fresh	Dairy	Chennai	Nagpur	151.9	16.9	6	0	0	0	5.3
+RAIL0573	Intermodal Rail	30-12-2025	08:45	2.8	43.2	2.8	Fresh	Vegetables	Guwahati	Chennai	162.1	16.3	9	0	0	0	7.4
+RAIL0569	Intermodal Rail	12-01-2024	22:30	-0.2	95	1.6	Fresh	Seafood	Mumbai	Kochi	134.2	24.1	2.6	0	0	0	6.2
+RAIL0495	Intermodal Rail	24-03-2024	16:20	2.3	49.5	3	Fresh	Dairy	Kolkata	Chennai	127.7	5.6	6.6	0	0	0	2.6
+RAIL0334	Intermodal Rail	03-05-2025	16:15	2.7	66.9	2.1	Fresh	Meat	Guwahati	Bengaluru	120.8	10.1	5	0	0	0	4.7
+RAIL0981	Intermodal Rail	07-11-2024	11:45	3.4	32.3	3.7	Fresh	Seafood	Kolkata	Jammu	132.7	2.3	3.9	0	0	0	5.6
+RAIL0480	Intermodal Rail	18-01-2026	04:25	0.6	62.3	2	Fresh	Seafood	Delhi	Jammu	133.1	13.5	4	0	0	0	4.9
+RAIL0274	Intermodal Rail	31-08-2024	17:20	3.6	41.5	2.3	Fresh	Meat	Kolkata	Chennai	136.8	12.2	5.6	0	0	0	5.9
+RAIL0836	Intermodal Rail	02-02-2024	09:45	4.8	35.5	3.5	Fresh	Meat	Kolkata	Chennai	150.7	17.4	5.7	0	0	0	6.3
+RAIL0976	Intermodal Rail	08-07-2025	11:55	0.3	48.8	1.7	Fresh	Flowers	Guwahati	Jaipur	128.7	1.5	4.9	0	0	0	0.7
+RAIL0816	Intermodal Rail	04-05-2026	14:25	7.1	82	3.5	FRESH	Pharmaceuticals	Guwahati	Bengaluru	158	17	26.6	0	0	0	6
+RAIL0561	Intermodal Rail	16-03-2026	03:45	6.6	59.9	2.2	Fresh	Dairy	Guwahati	Jammu	156.2	16.7	5.7	0	0	0	2
+RAIL0585	Intermodal Rail	27-02-2024	23:20	10.3	36	2.7	Fresh	Vegetables	Delhi	Bengaluru	132.9	10.9	9.8	0	0	0	1.3
+RAIL0391	Intermodal Rail	21-11-2025	05:30	2.7	78.7	2.2	At Risk	Seafood	Mumbai	Jaipur	127.5	27.7	3.5	0	0	0	4.6
+RAIL1003	Intermodal Rail	27-05-2024	23:10	7.6	52.2	2.7	Fresh	Flowers	Guwahati	Jaipur	120.6	15.2	4.5	0	0	0	6
+RAIL0665	Intermodal Rail	18-04-2024	11:10	2.6	87.2	2	Spoiled	Meat	Chennai	Kochi	164.5	85	3	0	0	0	4.4
+RAIL0995	Intermodal Rail	18-02-2026	05:25	3.7	63.2	3.8	Fresh	Vegetables	Delhi	Nagpur	139.4	9.9	10	0	0	0	1.8
+RAIL0121	Intermodal Rail	07-07-2026	06:40	2	30	2.1	Fresh	Meat	Ahmedabad	Jaipur	145.6	5.3	6	0	0	0	4
+RAIL1002	Intermodal Rail	17-06-2025	16:40	4.9	124.8	2.4	Fresh	Dairy	Chennai	Kochi	134	12.3	6.4	0	0	0	4.7
+RAIL0899	Intermodal Rail	01-07-2024	13:40	7.9	67.4	1.4	Spoiled	Seafood	Ahmedabad	Jammu	138.5	89.9	1.5	0	0	0	9.5
+RAIL0355	Intermodal Rail	30-12-2024	21:00	1.3	50.9	3.2	Fresh	Flowers	Guwahati	Jammu	137.7	5.1	5	0	0	0	1
+RAIL0827	Intermodal Rail	09-07-2024	17:50	8.8	54.4	1.4	Fresh	Fruits	Guwahati	Jammu	144	17	10.6	0	0	0	5.8
+RAIL0359	Intermodal Rail	14-01-2024	14:25	0.8	88.2	1.8	Fresh	Meat	Mumbai	Jammu	150.2	19.3	5.5	0	0	0	5.2
+RAIL0800	Intermodal Rail	31-10-2025	19:45	4.1	66.6	2.3	Fresh	Vegetables	Guwahati	Jaipur	142.8	21.2	8.7	0	0	0	6.8
+RAIL0118	Intermodal Rail	02-05-2024	02:45	6.9	65.8	2.4	Fresh	Vegetables	Mumbai	Bengaluru	158.4	18.9	8.4	0	0	0	4.1
+RAIL0074	Intermodal Rail	09-02-2026	09:50		36.6	1.5	Fresh	Fruits	Delhi	Jammu	123.7	18.6	10.3	0	0	0	6.8
+RAIL0842	Intermodal Rail	13-03-2026	08:40	1.8	69.1	2.6	Fresh	Seafood	Ahmedabad	Bengaluru	158.6	23.9	3	0	0	0	3.8
+RAIL0486	Intermodal Rail	03-07-2025	04:05	4.3	42.3	1.9	Fresh	Dairy	Delhi	Guwahati	151.4	16.7	6.1	0	0	0	4.3
+RAIL0335	Intermodal Rail	09-06-2025	11:45	1.2	72.8	1.2	Fresh	Seafood	Delhi	Nagpur	135.6	20	3.4	0	0	0	3.5
+RAIL0666	Intermodal Rail	10-05-2024	08:10	1.1	77	2.9	Fresh	Meat	Mumbai	Jammu	166.3	18.5	5.7	0	0	0	4.6
+RAIL0563	Intermodal Rail	10-12-2024	05:30	0.8	88.3	1.6	Fresh	Seafood	Mumbai	Bengaluru	133.8	22.5	3.2	0	0	0	5.1
+RAIL0954	Intermodal Rail	12-05-2024	12:25	2.3	69.8	2.5	Fresh	Flowers	Mumbai	Jaipur	137.5	12.9	5	0	0	0	2
+RAIL0179	Intermodal Rail	09-07-2026	18:50	5.8	52.3	2.4	Fresh	Vegetables	Kolkata	Chennai	139.7	12.6	9.6	0	0	0	5.2
+RAIL0658	Intermodal Rail	19-08-2024	16:00	9	63.7	2.5	Fresh	Pharmaceuticals	Mumbai	Jaipur	126.1	12.5	27.7	0	0	0	7.1
+RAIL0224	Intermodal Rail	28-04-2024	11:55	6.2	85	1	Fresh	Flowers	Mumbai	Bengaluru	126.2	22.9	3.9	0	0	0	4.9
+RAIL0145	intermodal rail  	04-05-2024	21:10	2.9	31	1.9	Fresh	Dairy	Ahmedabad	Chennai	164.9	14.3	6.8	0	0	0	4.9
+RAIL0937	Intermodal Rail	06-10-2025	11:10	7.6	65.8	3	Fresh	Vegetables	Ahmedabad	Jammu	142.5	10.9	9.4	0	0	0	4.6
+RAIL0724	Intermodal Rail	26-09-2024	01:40	2.9	52	3.1	Fresh	Pharmaceuticals	Guwahati	Nagpur	143.6	4.3	29	0	0	0	2.1
+RAIL0730	Intermodal Rail	28-05-2025	07:40	7	84.6	1.7	Fresh	Flowers	Guwahati	Kochi	153.9	19.6	4.4	0	0	0	2.2
+RAIL0906	Intermodal Rail	19-04-2026	03:20	3.4	62.5	2.7	Fresh	Dairy	Guwahati	Jaipur	124.6	9.4	6.3	0	0	0	3.3
+RAIL0695	Intermodal Rail	11-12-2025	11:15	2.5	47.3	2.2	Fresh	Seafood	Mumbai	Jammu	126.5	4.5	3.5	0	0	0	3.6
+RAIL0302	Intermodal Rail	29-03-2025	08:10	14.2	69.7	3	Fresh	Fruits	Mumbai	Nagpur	150.2	22.8	9.9	0	0	0	7.9
+RAIL0879	Intermodal Rail	01-01-2024	02:35	2.4	51.3	2.1	Fresh	Seafood	Guwahati	Kochi	154.1	12.4	4	0	0	0	3.7
+RAIL0002	Intermodal Rail	20-07-2024	01:15	1.1	30	3.2	Fresh	Meat	Kolkata	Bengaluru	162.4	1	5.8	0	0	0	3
+RAIL0105	Intermodal Rail	02-06-2024	05:15	11.7	69.2	2.3	At Risk	Vegetables	Chennai	Kochi	130.6	27	8.2	0	0	0	7.7
+RAIL0131	Intermodal Rail	05-01-2024	09:10	7.8	81.1	2	At Risk	Vegetables	Kolkata	Nagpur	149.8	25.3	8	0	0	0	4.6
+RAIL0650	Intermodal Rail	13-05-2025	01:05	8.7	53.8	1.7	Fresh	Fruits	Chennai	Jaipur	126.8	7.7	11.7	0	0	0	2.3
+RAIL0405	Intermodal Rail	24-12-2025	20:05	-0.3	72.4	1.7	Fresh	Flowers	Mumbai	Bengaluru	150.3	8.1	4.2	0	0	0	0.2
+RAIL0381	Intermodal Rail	10-04-2026	08:20	3.3	61.3	2.9	Fresh	Flowers	Delhi	Guwahati	132.6	16.5	4.4	0	0	0	2.9
+RAIL0486	Intermodal Rail	03-07-2025	04:05	4.3	42.3	1.9	Fresh	Dairy	Delhi	Guwahati	151.4	16.7	6.1	0	0	0	4.3
+RAIL0463	Intermodal Rail	16-06-2026	03:10	7.9	82.8	3.5	Fresh	Pharmaceuticals	Chennai	Kochi	147.4	11.6	28	0	0	0	0.7
+RAIL0174	Intermodal Rail	10-11-2025	10:55	1.2	76.4	3.2	Fresh	Meat	Kolkata	Jammu	154.1	16.1	5	0	0	0	3.4
+RAIL0127	Intermodal Rail	02-08-2026	17:40	3.2	59.5	0.5	Fresh	Pharmaceuticals	Guwahati	Kochi	155.7	7.8	28.3	0	0	0	2.8
+RAIL0840	Intermodal Rail	04-04-2026	08:20	8.8	70.7	2.2	Fresh	Vegetables	Kolkata	Bengaluru	137.3	15.6	9.2	0	0	0	2.8
+RAIL0440	Intermodal Rail	18-05-2024	09:35	0.6	84.3	2.3	Fresh	Dairy	Guwahati	Kochi	120.2	18.5	6	0	0	0	7
+RAIL0725	Intermodal Rail	29-12-2024	09:40	3.3	54.7	1.8	Fresh	Flowers	Chennai	Guwahati	147.1	16.4	4.5	0	0	0	5.4
+RAIL0339	Intermodal Rail	14-08-2025	01:40	1.1	64.5	2	Fresh	Pharmaceuticals	Delhi	Bengaluru	129.9	6.9	29.1	0	0	0	6.5
+RAIL0269	Intermodal Rail	21-03-2026	11:10	3.6	85.9	-2.7	Fresh	Dairy	Mumbai	Kochi	162.8	22.2	5.8	0	0	0	4.5
+RAIL0172	Intermodal Rail	03-05-2025	17:40	10.8	73.5	3.7	At Risk	Vegetables	Kolkata	Guwahati	133.5	26.9	8.3	0	0	0	8
+RAIL0083	Intermodal Rail	02-09-2024	02:55	7.6	60.7	4.9	Fresh	Pharmaceuticals	Delhi	Nagpur	136.7	7.4	28.7	0	0	0	1.7
+RAIL0999	Intermodel Rail	28-04-2024	11:55	6.2	85	1	Fresh	Flowers	Mumbai	Bengaluru	126.2	22.9	3.9	0	0	0	4.9
+RAIL0294	Intermodal Rail	13-04-2024	09:35	8	64.5	4.7	Fresh	Dairy	Ahmedabad	Bengaluru	166.4	14	6.3	0	0	0	0.5
+RAIL0841	Intermodal Rail	10-04-2026	17:35	7.2	64.4	0.9	Fresh	Vegetables	Kolkata	Chennai	151.2	18.3	8.5	0	0	0	4.2
+RAIL0700	Intermodal Rail	20-09-2025	18:05	15.1	46.5	2.7	Fresh	Fruits	Delhi	Jaipur	150.1	21.6	10.5	0	0	0	6.9
+RAIL0071	Intermodal Rail	14-03-2024	22:05	2.6	92.4	2.6	Spoiled	Flowers	Kolkata	Kochi	145.9	84.8	2.2	0	0	0	5.9
+RAIL0686	Intermodal Rail	14-08-2024	17:20	2	55.1	1.7	Fresh	Meat	Delhi	Jammu	131.3	13.4	5.5	0	0	0	4
+RAIL0032	Intermodal Rail	27-08-2024	20:35	11.3	56.8	1.6	Fresh	Fruits	Guwahati	Chennai	128.6	10.2	11.2	0	0	0	3.7
+RAIL0525	Intermodal Rail	07-03-2025	13:00	0.5	55.3	1.9	Fresh	Meat	Ahmedabad	Guwahati	157.2	9	5.7	0	0	0	3
+RAIL0843	Intermodal Rail	04-10-2025	14:00	-3	37.5	2.7	Fresh	Seafood	Kolkata	Nagpur	130.7	11.9	3.6	0	0	0	8.5
+RAIL0677	Intermodal Rail	27-09-2024	06:10	3.1	51.1	3.1	Fresh	Meat	Ahmedabad	Bengaluru	128.3	11.8	5	0	0	0	2.9
+RAIL0414	Intermodal Rail	01-01-2024	10:20	2.8	30	2	Fresh	Dairy	Guwahati	Bengaluru	137.4	8.6	6.9	0	0	0	5.5
+RAIL0636	Intermodal Rail	26-01-2025	12:30	3.7	35.3	1.9	Fresh	Meat	Chennai	Bengaluru	124.6	9.3	5.2	0	0	0	2.9
+RAIL0140	Intermodal Rail	04-12-2024	06:55	1	78.6	2.9	Fresh	Seafood	Kolkata	Bengaluru	152.1	20.1	4	0	0	0	4.7
+RAIL0240	Intermodal Rail	29-12-2025	21:25	3.5	74.4	3.6	Fresh	Dairy	Chennai	Nagpur	149.5	20.6	6	0	0	0	3.6
+RAIL0983	Intermodal Rail	05-08-2026	21:10	3.1	67.3	3.1	Fresh	Seafood	Ahmedabad	Bengaluru	141.1	19.6	3.5	0	0	0	5.1
+RAIL0637	Intermodal Rail	15-09-2025	00:10	9.5	48.6	1.5	Fresh	Fruits	Chennai	Kochi	163.3	16.5	11.2	0	0	0	5.4
+RAIL0386	Intermodal Rail	04-08-2025	15:10	2	59.9	3.1	Fresh	Dairy	Chennai	Kochi	164.2	17.7	5.6	0	0	0	5.5
+RAIL0655	Intermodal Rail	03-04-2024	17:55	12.1	68.4	4	Fresh	Fruits	Mumbai	Jammu	121.5	13.3	11.5	0	0	0	2.8
+RAIL0731	Intermodal Rail	10-04-2026	11:15	4.7	67.4	3.2	Fresh	Vegetables	Mumbai	Kochi	120.1	5.1	9.6	0	0	0	2.4
+RAIL0826	Intermodal Rail	15-02-2025	13:10	-5	42	2.2	Fresh	Meat	Kolkata	Guwahati	154.4	14.4	5.6	0	0	0	9.2
+RAIL0544	Intermodal Rail	13-04-2024	20:40	4.1	118.7	4	Fresh	Flowers	Guwahati	Jaipur	154.4	15.4	4.5	0	0	0	3
+RAIL0330	Intermodal Rail	22-06-2026	18:15	10.9	62	2.7	Fresh	Fruits	Ahmedabad	Chennai	129.3	11.3	11.3	0	0	0	3.9
+RAIL0952	Intermodal Rail	15-05-2026	14:40	11.8	52.5	2.2	Fresh	Fruits	Chennai	Jaipur	157.8	16	10.8	0	0	0	5
+RAIL0088	Intermodal Rail	23-02-2025	18:00	2.4	60.1	3.6	Fresh	Dairy	Mumbai	Kochi	155	17.1	6.4	0	0	0	2
+RAIL0559	Intermodal Rail	30-03-2025	21:30	2.9	60.2	2.9	Fresh	Flowers	Chennai	Bengaluru	156.5	18.4	4.6	0	0	0	5.8
+RAIL0997	Intermodal Rail	12-11-2025	11:30	6.2	67.7	3.4	Fresh	Vegetables	Chennai	Bengaluru	136.5	14.9	9.3	0	0	0	4.6
+RAIL0800	Intermodal Rail	31-10-2025	19:45	4.1	66.6	2.3	Fresh	Vegetables	Guwahati	Jaipur	142.8	21.2	8.7	0	0	0	6.8
+RAIL0820	Intermodal Rail	06-02-2025	04:40	9.7	84	2.7	Fresh	Fruits	Guwahati	Chennai	145.5	15.4	11.2	0	0	0	3.1
+RAIL0988	Intermodal Rail	26-08-2025	04:35	7.3	41.7	1.8	Fresh	Pharmaceuticals	Kolkata	Jammu	167.6	7.9	28.4	0	0	0	5.5
+RAIL0986	Intermodal Rail	13-01-2026	11:20	2.6	31.3	3.7	Fresh	Seafood	Delhi	Jaipur	147.6	13.3	3.3	0	0	0	3.5
+RAIL0128	Intermodal Rail	18-05-2026	04:05	10.3	72.1	1.8	Fresh	Fruits	Kolkata	Kochi	127	18.6	10.8	0	0	0	3.4
+RAIL0155	Intermodal Rail	18-11-2025	22:05	-0.7	55.1	3.6	Fresh	Pharmaceuticals	Kolkata	Kochi	143	6.4	28.8	0	0	0	0.4
+RAIL0956	Intermodal Rail	10-03-2026	16:20	13.4	64.5	1	Fresh	Fruits	Delhi	Jaipur	142.8	24.9	10.2	0	0	0	6.7
+RAIL0506	Intermodal Rail	19-09-2024	20:35	8.1	57.4	2.5	Fresh	Vegetables	Mumbai	Bengaluru	144	16.8	9.6	0	0	0	5.1
+RAIL0200	Intermodal Rail	26-01-2026	06:55	5.8	60.3	2.6	Fresh	Dairy	Delhi	Jaipur	122.1	16.1	6.4	0	0	0	1.9
+RAIL0531	Intermodal Rail	24-11-2024	00:15	2.1	60	2.1	Fresh	Dairy	Delhi	Nagpur	122.2	19.3	6.3	0	0	0	6.3
+RAIL0801	Intermodal Rail	23-06-2024	07:55	6.2	47.2	2.3	Fresh	Fruits	Mumbai	Nagpur	138.2	11.9	11.8	0	0	0	7.1
+RAIL0184	Intermodal Rail	28-04-2025	02:05	10	68.3	2.8	Fresh	Fruits	Guwahati	Jaipur	140.9	11.6	11.1	0	0	0	2.9
+RAIL0107	Intermodal Rail	28-10-2025	23:00	1.2	56.5	2.6	Fresh	Meat	Ahmedabad	Jammu	131.3	19.6	5.4	0	0	0	4.7
+RAIL0456	Intermodal Rail	05-02-2024	02:30	12.2	53.7	2.8	Fresh	Fruits	Mumbai	Kochi	133	11.4	10.6	0	0	0	3.2
+RAIL0060	Intermodal Rail	27-06-2026	14:15	6.3	90.3	2.6	Fresh	Vegetables	Kolkata	Jaipur	126.1	23.9	8.5	0	0	0	4.8
+RAIL0728	Intermodal Rail	08-12-2025	09:15	1.2	66.6	3.4	Fresh	Meat	Mumbai	Chennai	143.6	16.9	5.2	0	0	0	5
+RAIL0025	Intermodal Rail	06-05-2025	11:40	6.3	71.9	3.6	Fresh	Vegetables	Chennai	Kochi	146.2	18.2	8.3	0	0	0	3.3
+RAIL0938	Intermodal Rail	15-05-2025	07:15	4.3	74.5	3.2	Fresh	Flowers	Guwahati	Jaipur	133.7	18.3	5	0	0	0	4.6
+RAIL0603	Intermodal Rail	20-01-2024	07:05	11.8	69	3.8	Fresh	Fruits	Delhi	Nagpur	126	19.5	10.5	0	0	0	4.9
+RAIL0475	Intermodal Rail	26-08-2025	06:00	8.2	43	1.8	Fresh	Fruits	Delhi	Guwahati	160.9	16.6	10.3	0	0	0	6.1
+RAIL0230	Intermodal Rail	16-01-2025	05:35	11.9	76.2	2.7	Fresh	Fruits	Guwahati	Bengaluru	161.4	22	10.6	0	0	0	4.9
+RAIL0345	Intermodal Rail	02-08-2026	09:00	3	51.1	2.2	Fresh	Dairy	Guwahati	Jammu	141.1	15.8	6.5	0	0	0	5
+RAIL0263	Intermodal Rail	08-06-2025	20:35	2.7	55	2.9	Fresh	Dairy	Guwahati	Bengaluru	137.4	12.4	6.5	0	0	0	4.9
+RAIL0502	Intermodal Rail	14-09-2024	00:55	10.2	44.9	1.5	Fresh	Fruits	Kolkata	Bengaluru	141.5	14.6	11	0	0	0	4.7
+RAIL0822	Intermodal Rail	07-08-2026	08:15	3.7	43.5	0.9	Fresh	Seafood	Mumbai	Jaipur	166.9	13.7	3.3	0	0	0	2
+RAIL0040	Intermodal Rail	21-12-2024	10:05	7.4	57.1	4.2	Fresh	Pharmaceuticals	Chennai	Nagpur	148.9	17.8	26.9	0	0	0	6.8
+RAIL0283	Intermodal Rail	24-01-2024	14:25	8.3	52.5	2.9	Fresh	Vegetables	Kolkata	Nagpur	144.8	14.4	8.7	0	0	0	5.1
+RAIL0902	Intermodal Rail	11-06-2026	04:40	8.3	68.7	2.3	Fresh	Fruits	Guwahati	Bengaluru	143.9	14.4	10.8	0	0	0	2
+RAIL0716	Intermodal Rail	18-03-2026	22:50	2.1	63.9	3.9	Fresh	Dairy	Chennai	Nagpur	139.7	22.1	6.5	0	0	0	5.6
+RAIL0886	Intermodal Rail	24-05-2026	10:25	8.7		1.7	Fresh	Pharmaceuticals	Chennai	Kochi	135.7	4.6	28.9	0	0	0	1.1
+RAIL0689	Intermodal Rail	04-10-2025	00:55	2.8	51.2	1.9	Fresh	Meat	Guwahati	Chennai	123.8	8.9	5.8	0	0	0	5
+RAIL0360	Intermodal Rail	27-03-2024	08:35	-1.9	60.6	2.7	Fresh	Meat	Mumbai	Jaipur	125.8	1	6	0	0	0	0.2
+RAIL0437	Intermodal Rail	22-04-2025	08:45	7.1	30.4	1.6	Fresh	Flowers	Ahmedabad	Jaipur	157.2	15.7	4.8	0	0	0	6.1
+RAIL0947	Intermodal Rail	02-01-2026	16:10	1.5	58.4	3.7	Fresh	Meat	Kolkata	Bengaluru	164.4	16.6	5.9	0	0	0	3.5
+RAIL0946	Intermodal Rail	11-04-2026	11:10	4.1	59.1	1.9	Fresh	Pharmaceuticals	Mumbai	Jammu	157.2	13.6	27.6	0	0	0	3.2
+RAIL0555	Intermodal Rail	22-04-2024	09:35	0.3	63	3	Fresh	Meat	Chennai	Guwahati	122.1	14.2	5.6	0	0	0	5.9
+RAIL0349	Intermodal Rail	27-04-2025	23:05	6.3	62.6	3.2	Fresh	Vegetables	Mumbai	Jaipur	129.2	11.8	9.3	0	0	0	3.5
+RAIL0397	Intermodal Rail	17-07-2024	18:40	3.3	54.7	2.1	Fresh	Seafood	Mumbai	Jammu	129.5	11.8	3.5	0	0	0	4.9
+RAIL0196	Intermodal Rail	20-05-2025	22:10	8.6	58.5	3.3	Fresh	Vegetables	Delhi	Guwahati	166	21.7	8.5	0	0	0	5.2
+RAIL0377	Intermodal Rail	14-12-2024	02:00	8.8	42.9	1	Fresh	Flowers	Guwahati	Jammu	145.5	8.9	4.9	0	0	0	0.2
+RAIL0413	Intermodal Rail	14-08-2026	10:55	-1	74.7	2.9	Fresh	Seafood	Delhi	Nagpur	144.9	19.3	3.4	0	0	0	6.1
+RAIL0790	Intermodal Rail	18-07-2025	10:00	4.3	62.4	1.8	Fresh	Flowers	Mumbai	Kochi	159.2	20.3	4	0	0	0	4.5
+RAIL0484	Intermodal Rail	28-01-2024	08:00	2.3	55.2	4.5	Fresh	Meat	Ahmedabad	Jaipur	158.9	13.9	5.4	0	0	0	4.3
+RAIL0949	Intermodal Rail	23-01-2026	21:45	7.2	52.7	2.3	Fresh	Flowers	Ahmedabad	Jaipur	146.6	16	4.4	0	0	0	2
+RAIL0146	Intermodal Rail	02-06-2026	18:10	3.2	68.4	2	Fresh	Dairy	Mumbai	Jammu	161.3	17.8	6.9	0	0	0	3
+RAIL0249	Intermodal Rail	01-07-2026	10:35	3.2	59.5	2.6	Fresh	Meat	Guwahati	Bengaluru	164.1	19.5	5.2	0	0	0	5.3
+RAIL0718	Intermodal Rail	15-05-2026	01:35	4.1	44.4	3.7	Fresh	Dairy	Chennai	Nagpur	137.8	12.4	6.6	0	0	0	4.1
+RAIL0943	Intermodal Rail	28-05-2024	23:15	6.4	31.7	1.9	Fresh	Vegetables	Kolkata	Chennai	144.7	8.3	9.5	0	0	0	4.7
+RAIL0519	Intermodal Rail	06-05-2024	18:35	8	44.1	1.5	Fresh	Dairy	Mumbai	Chennai	150	24.2	6.3	0	0	0	8.3
+RAIL0192	Intermodal Rail	18-05-2025	10:05	3.8	65.3	0.8	Fresh	Meat	Delhi	Jammu	132.4	10.7	5.1	0	0	0	2.4
+RAIL0245	Intermodal Rail	19-10-2024	07:55	10.6	57.5	3.5	Fresh	Fruits	Mumbai	Kochi	159.3	16.9	10.3	0	0	0	4.4
+RAIL0035	Intermodal Rail	10-05-2025	13:10	6.4	42	3.4	Fresh	Flowers	Ahmedabad	Guwahati	137.1	22.2	4.5	0	0	0	5.6
+RAIL0651	Intermodal Rail	01-06-2024	05:55	8.3	58.5	1.9	Fresh	Flowers	Guwahati	Jaipur	130.9	23.9	4.5	0	0	0	6.6
+RAIL0722	Intermodal Rail	12-02-2024	13:30	3	62.1	2.7	Fresh	Flowers	Chennai	Jammu	153.6	18.6	4.9	0	0	0	5.7
+RAIL0092	Intermodal Rail	20-03-2025	01:35	3.1	58.5	3.4	Fresh	Meat	Guwahati	Jaipur	128.3	17.6	5.2	0	0	0	5.4
+RAIL0104	Intermodal Rail	24-06-2024	14:25	3.9	78.8	2.9	Fresh	Vegetables	Ahmedabad	Chennai	124.8	18.9	8.3	0	0	0	6.9
+RAIL0878	Intermodal Rail	02-08-2026	07:50	1.1	46.9	4.1	Fresh	Meat	Ahmedabad	Bengaluru	133.2	15.2	5.6	0	0	0	4.7
+RAIL0485	Intermodal Rail	13-03-2025	03:35	0.9	60.1	1.3	Fresh	Dairy	Guwahati	Jaipur	141.9	23	5.7	0	0	0	6.8
+RAIL0965	Intermodal Rail	12-02-2025	09:45	7.5	45	1.6	Fresh	Fruits	Chennai	Bengaluru	125.4	13.7	11.1	0	0	0	6.7
+RAIL0183	Intermodal Rail	06-09-2024	18:45	-1	59.5	2.4	Fresh	Meat	Guwahati	Jammu	155.8	8.9	5.8	0	0	0	2.1
+RAIL0141	Intermodal Rail	25-05-2024	17:55	4.3	53.3	2.2	Fresh	Seafood	Kolkata	Kochi	129.7	21.3	3.3	0	0	0	5.6
+RAIL0829	Intermodal Rail	31-12-2024	13:45	5.1	72.6	2.7	Fresh	Flowers	Chennai	Guwahati	157.3	23.9	3.9	0	0	0	4.1
+RAIL0395	Intermodal Rail	23-01-2024	10:55	0.8	63.5	2.2	At Risk	Flowers	Kolkata	Guwahati	156.8	28.3	4.5	0	0	0	8.3
+RAIL0745	Intermodal Rail	09-08-2025	14:00	1.6	54.5	1.7	Fresh	Dairy	Guwahati	Chennai	120.6	11.1	6.9	0	0	0	2.2
+RAIL0717	Intermodal Rail	27-05-2024	23:10	7.6	52.2	2.7	Fresh	Flowers	Guwahati	Jaipur	120.6	15.2	4.5	0	0	0	6
+RAIL0082	Intermodal Rail	16-03-2025	10:55	5.9	64.7	1.9	Fresh	Flowers	Mumbai	Nagpur	129.6	18.7	4.7	0	0	0	3
+RAIL0817	Intermodal Rail	14-06-2024	04:05	10.1	82.8	2.7	Fresh	Pharmaceuticals	Ahmedabad	Nagpur	163	14.2	27.1	0	0	0	0.2
+RAIL0090	Intermodal Rail	08-12-2024	07:35	1.7	63.6	2.1	Fresh	Flowers	Chennai	Bengaluru	122.3	19	5	0	0	0	6.1
+RAIL0321	Intermodal Rail	26-04-2025	10:50	6.8	85.4	4.8	Fresh	Flowers	Mumbai	Jammu	137.9	24.8	4.1	0	0	0	5.8
+RAIL0078	Intermodal Rail	07-06-2025	13:10	-1.3	90.6	1.5	At Risk	null	Kolkata	Bengaluru	150.6	26.3	3.1	0	0	0	6.3
+RAIL0479	Intermodal Rail	21-01-2025	16:00	13	59.7	0.8	Fresh	Fruits	Kolkata	Nagpur	164.2	21.7	10.5	0	0	0	5.8
+RAIL0478	Intermodal Rail	12-10-2025	17:05	3.8	80.7	3.6	At Risk	Flowers	Ahmedabad	Jaipur	128.1	26.5	4.5	0	0	0	4.9
+RAIL0985	Intermodal Rail	16-01-2025	12:15	12.3	43.8	1.9	Fresh	Fruits	Chennai	Jammu	149.3	15.7	11	0	0	0	4.9
+RAIL0330	Intermodal Rail	22-06-2026	18:15	10.9	62	2.7	Fresh	Fruits	Ahmedabad	Chennai	129.3	11.3	11.3	0	0	0	3.9
+RAIL0736	Intermodal Rail	19-06-2026	16:10	7.5	56.2	1.7	Fresh	Dairy	Mumbai	Bengaluru	131.5	5.7	6.6	0	0	0	0.2
+RAIL0793	Intermodal Rail	30-11-2024	00:15	-1.8	79.3	2.5	Fresh	Seafood	Kolkata	Chennai	130.6	7.7	4	0	0	0	0.7
+RAIL0884	Intermodal Rail	30-04-2025	05:10	4.5	67.8	2.3	Fresh	Pharmaceuticals	Ahmedabad	Guwahati	150.9	7.9	28.4	0	0	0	3.7
+RAIL0583	Intermodal Rail	12-09-2024	05:05	6.8	53.5	2.2	Fresh	Dairy	Kolkata	Nagpur	133.8	20.3	6.7	0	0	0	6.1
+RAIL0358	Intermodal Rail	06-03-2026	20:30	3.3	83.9	3	Fresh	Meat	Chennai	Nagpur	121.7	21.2	5.5	0	0	0	5.6
+RAIL0733	Intermodal Rail	27-08-2025	00:30	2	47.2	2.7	Fresh	Seafood	Kolkata	Jaipur	161	15.7	3.7	0	0	0	4
+RAIL0798	Intermodal Rail	12-12-2025	21:45	2.6	48.6	3.1	Fresh	Pharmaceuticals	Delhi	Kochi	160.2	14	27.4	0	0	0	6.1
+RAIL0373	Intermodal Rail	21-10-2024	11:35	6.2	69.9	1.3	Fresh	Vegetables	Guwahati	Jaipur	161.9	18.7	8.9	0	0	0	4.6
+RAIL0123	Intermodal Rail	09-02-2025	19:15	1.5	88.4	4.4	Fresh	Seafood	Kolkata	Jaipur	125.5	21.9	3.6	0	0	0	3.4
+RAIL0509	Intermodal Rail	17-03-2024	05:10	-3.9	54.7	1.5	Fresh	Meat	Kolkata	Nagpur	146.5	14.6	5.8	0	0	0	8.3
+RAIL0635	Intermodal Rail	22-04-2024	09:05	3.1	78.4	2.5	At Risk	Flowers	Delhi	Chennai	159.6	25	4.2	0	0	0	6.3
+RAIL0527	Intermodal Rail	01-03-2024	06:40	3.1	84.8	3.2	At Risk	Dairy	Guwahati	Jaipur	148.2	25.9	6.3	0	0	0	5
+RAIL0369	Intermodal Rail	20-04-2025	18:00	9.4	49.9	2.6	Fresh	Fruits	Ahmedabad	Jammu	147.7	11.7	11.1	0	0	0	5.3
+RAIL0787	Intermodal Rail	14-02-2026	04:40	1.4	59.2	3.3	Fresh	Meat	Ahmedabad	Jaipur	134.8	11.9	5.8	0	0	0	4.7
+RAIL0390	Intermodal Rail	12-08-2026	17:05	8.3	63	3	Fresh	Vegetables	Guwahati	Chennai	129.3	7.8	9.4	0	0	0	3
+RAIL0319	Intermodal Rail	22-10-2024	18:55	6.8	86	4.7	Fresh	Flowers	Kolkata	Bengaluru	151.4	18.1	4.9	0	0	0	2.4
+RAIL0077	Intermodal Rail	15-07-2024	20:25	5.8	50.7	2.5	Fresh	Pharmaceuticals	Ahmedabad	Guwahati	120.5	14.5	27.6	0	0	0	4.9
+RAIL0434	Intermodal Rail	09-08-2026	21:25	7	68	2.1	Fresh	Pharmaceuticals	Chennai	Jammu	133.7	9.6	28.3	0	0	0	2.5
+RAIL0962	Intermodal Rail	01-01-2026	00:50	2.4	60.9	2.5	Fresh	Flowers	Kolkata	Jammu	127.3	17.1	5	0	0	0	7
+RAIL0317	Intermodal Rail	02-08-2025	04:55	6.4	54.1	2.4	Fresh	Pharmaceuticals	Guwahati	Jaipur	152.4	13.9	27.3	0	0	0	5.5
+RAIL0011	Intermodal Rail	24-07-2025	05:40	2	73.7	0.6	Fresh	Dairy	Guwahati	Kochi	164	18.3	6	0	0	0	1.9
+RAIL0257	Intermodal Rail	08-03-2025	19:15	6.2	43.2	1.8	Fresh	Flowers	Delhi	Nagpur	135.1	14.2	4.7	0	0	0	3.2
+RAIL0616	Intermodal Rail	19-10-2025	21:15	2.7	65.2	1.8	Fresh	Seafood	Guwahati	Jammu	146	13.6	3.2	0	0	0	3.5
+RAIL0333	Intermodal Rail	09-02-2024	06:55	11.2	57.4	2.1	Fresh	Vegetables	Mumbai	Bengaluru	132.9	20.2	8.6	0	0	0	9.2
+RAIL0133	Intermodal Rail	12-08-2026	20:35	-3.5	76.1	3	Fresh	Meat	Mumbai	Guwahati	143.2	22.6	5.4	0	0	0	8.5
+RAIL0239	Intermodal Rail	30-07-2026	22:20	10.6	68.1	3.8	Fresh	Fruits	Ahmedabad	Kochi	127.5	15	10.7	0	0	0	4.5
+RAIL0312	Intermodal Rail	13-02-2024	15:40	3.9	70.5	2	Fresh	Pharmaceuticals	Chennai	Jaipur	156.6	11.8	27.7	0	0	0	2.9
+RAIL0741	Intermodal Rail	22-01-2025	09:55	3.3	82	1.9	Fresh	Pharmaceuticals	Ahmedabad	Bengaluru	142.7	17.6	26.5	0	0	0	2.6
+RAIL0685	Intermodal Rail	17-04-2025	10:25	3.8	67.2	2.8	Fresh	Fruits	Kolkata	Guwahati	121.8	19.4	10.5	0	0	0	8.7
+RAIL0229	Intermodal Rail	14-07-2025	19:50	0.5	66.9	1.7	Spoiled	Flowers	Kolkata	Nagpur	138.2	80	2.8	0	0	0	8.8
+RAIL0784	Intermodal Rail	03-05-2026	22:45	2.6	72.2	1.8	At Risk	Seafood	Kolkata	Jaipur	145.1	27	2.9	0	0	0	3.6
+RAIL0314	Intermodal Rail	24-04-2024	21:00	5.9	56.6	3.4	Fresh	Vegetables	Chennai	Kochi	136.8	17.3	8.3	0	0	0	4.7
+RAIL0013	Intermodal Rail	10-12-2025	04:45	1.9	76.6	2.8	Fresh	Dairy	Mumbai	Guwahati	149.7	15.9	6.3	0	0	0	1.6
+RAIL0614	Intermodal Rail	22-06-2025	13:10	4.1	57.9	3	Fresh	Seafood	Ahmedabad	Guwahati	166.2	18	3.1	0	0	0	5.5
+RAIL0872	Intermodal Rail	16-01-2026	20:05	5.9	65.9	3.4	Fresh	Fruits	Chennai	Guwahati	143.7	20.7	10.9	0	0	0	8.2
+RAIL0043	Intermodal Rail	19-02-2026	09:50	-0.6	86.3	1.8	Fresh	Dairy	Delhi	Jaipur	129.2	10.8	6.4	0	0	0	0.2
+RAIL0367	Intermodal Rail	26-01-2025	09:25	3.9	62.5	3.4	Fresh	Pharmaceuticals	Guwahati	Bengaluru	155.3	8.6	28.5	0	0	0	3.1
+RAIL0955	Intermodal Rail	26-03-2026	10:30	1	67.9	2.4	Fresh	Meat	Chennai	Jammu	155.4	13.5	5.9	0	0	0	4.8
+RAIL0856	Intermodal Rail	26-01-2024	23:55	12.7	66.6	3.4	Fresh	Fruits	Ahmedabad	Nagpur	122.5	17.4	10.8	0	0	0	5.8
+RAIL0182	Intermodal Rail	28-02-2025	14:15	3.5	95	2	Fresh	Dairy	Mumbai	Nagpur	147.4	21.5	6.5	0	0	0	3.4
+RAIL0053	Intermodal Rail	24-02-2024	01:55	-2.1	66.5	3.1	Fresh	Seafood	Chennai	Bengaluru	161.6	11.5	3.7	0	0	0	0.2
+RAIL0473	Intermodal Rail	07-04-2025	21:00	2.4	41.9	3.5	Fresh	Flowers	Mumbai	Jaipur	138.9	9.6	4.4	0	0	0	2.2
+RAIL0705	Intermodal Rail	18-11-2025	06:50	4.5	48.3	2.5	Fresh	Pharmaceuticals	Ahmedabad	Guwahati	167.6	11.5	27.2	0	0	0	3.5
+RAIL0073	Intermodal Rail	26-09-2024	00:35	12.4	31.6	4.6	Fresh	Fruits	Mumbai	Chennai	130.5	11	10.6	0	0	0	5.2
+RAIL0237	Intermodal Rail	29-11-2025	02:05	13.2	83.5	2.5	At Risk	Fruits	Kolkata	Guwahati	140.4	26.9	10.2	0	0	0	6.6
+RAIL0268	Intermodal Rail	28-09-2025	10:05	7.4	46.5	3	Fresh	Dairy	Ahmedabad	Bengaluru	156.7	12.3	6.9	0	0	0	1.3
+RAIL0328	Intermodal Rail	14-09-2024	03:20	2.4	43.6	2.1	Fresh	Flowers	Guwahati	Jaipur	162.3	21.6	4.8	0	0	0	6.8
+RAIL0998	Intermodal Rail	13-12-2024	19:00	23	79.7	2.5	Fresh	Meat	Chennai	Kochi	125.4	21.4	5.4	0	0	0	8.7
+RAIL0977	Intermodal Rail	17-04-2024	22:50	2.4	45.7	3.5	Fresh	Pharmaceuticals	Delhi	Bengaluru	164.5	16.1	27	0	0	0	7
+RAIL0846	Intermodal Rail	08-10-2024	09:30	12.2	83.2	1.1	Fresh	Fruits	Guwahati	Jaipur	128	17.9	11.2	0	0	0	2.7
+RAIL0057	Intermodal Rail	07-12-2025	04:35	3.8	55	2.3	Fresh	Meat	Chennai	Jaipur	159	14.4	5.6	0	0	0	2.2
