@@ -1,0 +1,263 @@
+shipment_id,transport_mode,recorded_date,recorded_time,temperature_celsius,humidity_percentage,vibration_level,spoilage_status,cargo_type,origin_location,destination_location,exposure_duration_hours,spoilage_risk_percent,remaining_shelf_life_days,pressure_kpa,door_open_count,salinity_ppt,thermal_leakage_score
+SEA1001,Sea Freight,2026-02-11,19:50,,89.0,1.4,Fresh,Vegetables,Mundra Port,Shanghai Port,374.1,9.6,9.6,0.0,0,30.5,0.0
+SEA0268,Sea Freight,2024-07-31,15:05,4.3,93.7,1.9,At Risk,Meat,Vizag Port,Los Angeles Port,583.5,26.5,5.4,0.0,0,27.9,0.0
+SEA0736,Sea Freight,2025-08-13,20:20,7.0,96.9,1.8,fresh,Dairy,Mumbai Port,Singapore Port,551.8,31.0,5.7,0.0,0,34.6,0.0
+SEA0816,Sea Freight,2026-02-14,19:20,5.0,93.4,2.2,At Risk,Seafood,Cochin Port,Hamburg Port,605.6,29.8,3.4,0.0,0,34.9,0.0
+SEA0891,Sea Freight,2025-10-11,13:25,13.8,84.7,2.6,At Risk,N/A,Mumbai Port,Rotterdam Port,613.7,27.7,10.1,0.0,0,32.8,0.0
+SEA0938,Sea Freight,2025-04-09,09:15,3.3,75.5,1.7,Fresh,Dairy,Mumbai Port,Los Angeles Port,673.9,22.1,5.8,0.0,0,34.2,0.0
+SEA0193,Sea Freight,2024-06-09,21:50,16.4,89.4,0.8,At Risk,Vegetables,Kandla Port,Rotterdam Port,670.1,31.4,8.2,0.0,0,32.5,0.0
+SEA0954,Sea Freight,2026-05-01,11:15,8.3,96.4,1.2,Fresh,Pharmaceuticals,Kandla Port,Shanghai Port,404.3,16.4,27.4,0.0,0,28.8,0.0
+SEA0515,Sea Freight,2024-10-04,01:55,7.9,81.4,0.7,Fresh,Pharmaceuticals,Vizag Port,Singapore Port,624.4,23.5,25.3,0.0,0,39.7,0.0
+SEA0369,Sea Freight,2024-07-14,08:40,1.3,93.6,2.8,At Risk,Meat,Mumbai Port,Colombo Port,648.8,29.4,5.1,0.0,0,32.8,0.0
+SEA1000,Sea Freight,2025-09-03,15:25,999.0,92.3,0.6,Fresh,Fruits,Vizag Port,Singapore Port,457.1,22.8,10.5,0.0,0,37.1,0.0
+SEA0035,Sea Freight,2026-04-05,20:15,8.7,99.0,1.7,Fresh,Pharmaceuticals,Chennai Port,Colombo Port,581.1,16.8,26.8,0.0,0,29.4,0.0
+SEA0317,Sea Freight,2025-08-12,22:10,4.2,94.4,1.9,At Risk,Meat,Cochin Port,Dubai Port,546.6,27.9,4.7,0.0,0,33.2,0.0
+SEA0624,Sea Freight,2025-11-21,04:20,14.3,76.1,1.1,Fresh,Pharmaceuticals,Cochin Port,Jebel Ali Port,520.7,19.6,26.3,0.0,0,30.6,0.0
+SEA0573,Sea Freight,2025-10-03,18:30,11.7,86.8,1.6,At Risk,Seafood,Mundra Port,Los Angeles Port,376.9,29.2,3.3,0.0,0,34.9,0.0
+SEA0826,Sea Freight,2025-08-27,17:25,1.8,91.7,1.6,Fresh,Pharmaceuticals,Kolkata Port,Shanghai Port,648.8,16.5,27.6,0.0,0,34.3,0.0
+SEA0954,Sea Freight,2026-05-01,11:15,8.3,96.4,1.2,Fresh,Pharmaceuticals,Kandla Port,Shanghai Port,404.3,16.4,27.4,0.0,0,28.8,0.0
+SEA0381,Sea Freight,2026-04-02,20:50,6.0,96.1,1.7,Fresh,Pharmaceuticals,Mumbai Port,Singapore Port,627.5,19.7,26.4,0.0,0,31.4,0.0
+SEA0200,Sea Freight,2025-05-04,16:25,4.5,88.9,2.8,Fresh,Seafood,Chennai Port,Los Angeles Port,362.3,21.2,3.7,0.0,0,33.2,0.0
+SEA0405,Sea Freight,2024-08-17,17:50,14.5,86.6,1.6,Fresh,Pharmaceuticals,Kandla Port,Rotterdam Port,436.0,19.4,26.0,0.0,0,36.9,0.0
+SEA0269,Sea Freight,2026-02-24,08:45,3.8,88.8,1.6,Fresh,Pharmaceuticals,Kandla Port,Los Angeles Port,410.4,9.2,28.2,0.0,0,36.4,0.0
+SEA0155,Sea Freight,2025-10-20,23:35,5.9,99.0,2.2,Fresh,Pharmaceuticals,Chennai Port,Shanghai Port,403.7,16.1,27.2,0.0,0,25.8,0.0
+SEA0741,Sea Freight,2024-01-13,13:15,6.2,87.4,1.8,Fresh,Vegetables,Kolkata Port,Rotterdam Port,463.7,17.4,8.7,0.0,0,30.8,0.0
+SEA0795,Sea Freight,2025-08-10,20:50,4.8,87.7,2.2,Fresh,Dairy,Kandla Port,Jebel Ali Port,483.2,24.4,5.9,0.0,0,36.3,0.0
+SEA0118,Sea Freight,2025-12-27,23:30,7.1,80.5,1.8,Fresh,Vegetables,Kolkata Port,Los Angeles Port,571.3,24.7,8.4,0.0,0,33.2,0.0
+SEA0078,Sea Freight,2026-06-08,19:45,10.1,87.1,1.9,Fresh,Pharmaceuticals,Kolkata Port,Shanghai Port,507.7,13.9,27.5,0.0,0,32.2,0.0
+SEA0906,Sea Freight,2025-11-13,11:25,0.1,86.8,1.1,Fresh,Meat,Kolkata Port,Los Angeles Port,394.5,8.1,5.3,0.0,0,30.7,0.0
+SEA0710,Sea Freight,2024-09-23,04:50,3.7,73.8,2.0,Fresh,Seafood,Vizag Port,Rotterdam Port,363.5,15.0,3.9,0.0,0,30.0,0.0
+SEA0636,Sea Freight,2024-06-20,14:25,5.4,78.4,0.2,Fresh,Pharmaceuticals,Chennai Port,Los Angeles Port,500.6,11.4,28.2,0.0,0,31.5,0.0
+SEA0879,Sea Freight,2024-09-02,12:25,6.7,79.8,1.9,Fresh,Dairy,Kandla Port,Dubai Port,458.6,18.3,6.5,0.0,0,36.6,0.0
+SEA1004,Sea Freight,2024-06-20,14:25,5.4,78.4,0.2,Fresh,N/A,Chennai Port,Los Angeles Port,500.6,11.4,28.2,0.0,0,31.5,0.0
+SEA0240,Sea Freight,2025-03-15,05:40,4.2,95.8,1.3,At Risk,Meat,Mundra Port,Hamburg Port,551.7,30.4,4.2,0.0,0,38.5,0.0
+SEA0743,Sea Freight,2026-06-05,23:15,4.6,86.6,1.3,Fresh,Meat,Mumbai Port,Dubai Port,533.1,19.6,4.6,0.0,0,29.5,0.0
+SEA0011,Sea Freight,2024-02-07,18:10,10.1,81.1,1.4,Fresh,Fruits,Mundra Port,Felixstowe Port,410.5,17.4,11.3,0.0,0,31.9,0.0
+SEA0283,Sea Freight,2026-07-22,19:50,5.6,88.6,1.0,Fresh,Pharmaceuticals,Cochin Port,Felixstowe Port,524.2,10.7,28.2,0.0,0,29.8,0.0
+SEA0032,Sea Freight,2025-09-12,18:00,6.8,95.4,2.4,At Risk,Dairy,Cochin Port,Singapore Port,398.6,25.4,6.2,0.0,0,36.4,0.0
+SEA0909,Sea Freight,2026-04-13,09:35,3.9,90.7,1.6,At Risk,Meat,Mundra Port,Shanghai Port,562.4,30.1,4.6,0.0,0,34.6,0.0
+SEA0787,Sea Freight,2025-05-23,19:50,5.5,88.5,0.4,At Risk,Dairy,Chennai Port,Felixstowe Port,574.6,25.6,6.0,0.0,0,32.4,0.0
+SEA0274,Sea Freight,2025-08-09,20:55,2.3,99.0,1.8,Fresh,Meat,Chennai Port,Jebel Ali Port,460.7,22.1,5.2,0.0,0,30.9,0.0
+SEA0090,Sea Freight,2026-01-02,12:15,8.4,82.4,2.4,Fresh,Pharmaceuticals,Mumbai Port,Hamburg Port,392.0,9.4,28.7,0.0,0,32.7,0.0
+SEA0555,Sea Freight,2024-05-01,01:30,1.7,86.7,1.7,Fresh,Dairy,Vizag Port,Los Angeles Port,581.2,22.4,5.5,0.0,0,32.9,0.0
+SEA0358,Sea Freight,2025-01-26,04:55,1.8,93.1,1.1,Fresh,,Kolkata Port,Felixstowe Port,416.7,16.6,5.6,0.0,0,36.9,0.0
+SEA0440,Sea Freight,2024-03-21,07:10,2.7,99.0,1.1,At Risk,Dairy,Mundra Port,Rotterdam Port,660.8,29.8,5.7,0.0,0,34.2,0.0
+SEA0509,Sea Freight,2026-02-12,02:50,6.3,93.0,1.6,At Risk,Dairy,Kolkata Port,Rotterdam Port,600.7,31.0,5.7,0.0,0,40.0,0.0
+SEA0335,Sea Freight,2024-04-10,07:20,7.6,88.7,1.7,At Risk,Meat,Cochin Port,Jebel Ali Port,660.6,34.3,4.5,0.0,0,28.9,0.0
+SEA0899,Sea Freight,2025-06-11,01:35,4.8,85.5,1.4,Fresh,Pharmaceuticals,Kolkata Port,Colombo Port,645.0,16.4,27.2,0.0,0,31.0,0.0
+SEA0827,Sea Freight,2024-02-22,16:50,6.1,77.9,1.8,At Risk,Flowers,Chennai Port,Dubai Port,635.2,25.8,4.8,0.0,0,36.3,0.0
+SEA0082,Sea Freight,2025-08-18,15:20,10.7,90.7,0.8,At Risk,Vegetables,Chennai Port,Rotterdam Port,441.1,25.1,9.0,0.0,0,36.3,0.0
+SEA0583,Sea Freight,2024-02-24,19:00,3.3,96.1,2.8,Fresh,Seafood,Kolkata Port,Colombo Port,505.4,22.1,3.5,0.0,0,26.4,0.0
+SEA0237,Sea Freight,2026-05-30,04:40,10.8,81.7,2.3,At Risk,Vegetables,Vizag Port,Shanghai Port,713.3,27.1,8.3,0.0,0,35.1,0.0
+SEA0716,Sea Freight,2024-03-02,21:30,4.3,98.1,2.1,Spoiled,Seafood,Cochin Port,Rotterdam Port,710.2,84.7,2.1,0.0,0,34.4,0.0
+SEA0128,Sea Freight,2025-02-16,03:50,2.7,95.8,1.4,Spoiled,Meat,Cochin Port,Jebel Ali Port,705.6,83.5,2.8,0.0,0,29.6,0.0
+SEA0733,Sea Freight,2026-06-26,14:20,-0.1,83.8,6.0,Fresh,Seafood,Mundra Port,Jebel Ali Port,408.8,15.7,3.0,0.0,0,32.6,0.0
+SEA0432,Sea Freight,2024-06-09,12:00,10.4,80.9,1.3,Fresh,Fruits,Mundra Port,Hamburg Port,400.6,14.7,10.7,0.0,0,31.1,0.0
+SEA0664,Sea Freight,2025-02-20,19:25,7.5,99.0,2.4,At Risk,Flowers,Vizag Port,Hamburg Port,548.9,32.5,4.2,0.0,0,33.6,0.0
+SEA0104,Sea Freight,2026-06-03,01:30,1.8,80.4,0.5,Fresh,Seafood,Kandla Port,Rotterdam Port,470.2,12.7,4.0,0.0,0,30.4,0.0
+SEA0559,Sea Freight,2026-02-11,19:50,4.9,89.0,1.4,Fresh,Vegetables,Mundra Port,Shanghai Port,374.1,9.6,9.6,0.0,0,30.5,0.0
+SEA0829,Sea Freight,2025-12-11,08:45,13.5,88.4,1.7,Fresh,Fruits,Vizag Port,Singapore Port,398.8,24.0,10.2,0.0,0,35.7,0.0
+SEA0083,Sea Freight,2025-12-15,15:45,15.5,88.0,1.7,Fresh,Fruits,Mundra Port,Los Angeles Port,361.4,19.9,10.3,0.0,0,33.1,0.0
+SEA0312,Sea Freight,2025-04-14,04:45,8.9,89.3,1.2,Fresh,Pharmaceuticals,Kolkata Port,Shanghai Port,454.2,15.5,26.9,0.0,0,34.5,0.0
+SEA0355,Sea Freight,2025-01-19,18:20,2.5,92.6,1.4,Fresh,Pharmaceuticals,Mundra Port,Hamburg Port,392.5,6.8,29.3,0.0,0,38.7,0.0
+SEA0145,Sea Freight,2024-09-26,03:20,0.1,94.5,2.7,Fresh,Seafood,Mundra Port,Shanghai Port,528.3,17.9,3.9,0.0,0,33.4,0.0
+SEA0968,Sea Freight,2026-01-02,19:50,2.2,89.9,1.4,Fresh,Flowers,Mundra Port,Rotterdam Port,516.2,22.0,4.3,0.0,0,36.2,0.0
+SEA0977,Sea Freight,2025-08-26,09:05,3.8,92.7,1.7,Fresh,Vegetables,Mundra Port,Rotterdam Port,453.7,11.1,9.1,0.0,0,35.6,0.0
+SEA0820,Sea Freight,2025-02-15,07:15,1.0,86.2,0.7,Fresh,Meat,Cochin Port,Hamburg Port,699.0,24.9,5.0,0.0,0,27.1,0.0
+SEA1003,Sea Freight,15/02/2025,07:15,1.0,86.2,0.7,Fresh,Meat,Cochin Port,Hamburg Port,699.0,24.9,5.0,0.0,0,27.1,0.0
+SEA0614,Sea Freight,2025-05-23,02:20,6.1,86.0,2.2,Fresh,Pharmaceuticals,Vizag Port,Dubai Port,669.5,12.3,27.5,0.0,0,30.7,0.0
+SEA0294,Sea Freight,2026-08-12,14:45,9.9,78.6,0.9,Fresh,Fruits,Kandla Port,Hamburg Port,553.6,24.4,10.0,0.0,0,35.4,0.0
+SEA0947,Sea Freight,2026-02-07,01:40,11.0,77.9,1.6,Fresh,Fruits,Chennai Port,Los Angeles Port,675.8,24.0,9.9,0.0,0,31.5,0.0
+SEA1002,Sea Freight,2026-06-21,19:00,7.0,135.5,1.2,Fresh,Pharmaceuticals,Mumbai Port,Colombo Port,615.8,18.2,26.3,0.0,0,33.2,0.0
+SEA0981,Sea Freight,2024-12-06,15:55,4.7,82.8,1.4,At Risk,Flowers,Kandla Port,Felixstowe Port,687.5,34.3,3.9,0.0,0,40.0,0.0
+SEA0798,Sea Freight,2026-08-21,20:40,11.0,89.9,2.0,Fresh,Fruits,Kandla Port,Shanghai Port,433.6,23.6,9.7,0.0,0,32.0,0.0
+SEA0495,Sea Freight,2024-05-27,00:20,1.9,82.6,1.8,Fresh,Seafood,Chennai Port,Los Angeles Port,414.7,19.3,4.0,0.0,0,37.0,0.0
+SEA0127,Sea Freight,2025-09-16,05:45,-0.0,90.8,1.8,Fresh,Meat,Vizag Port,Dubai Port,433.5,8.9,5.8,0.0,0,34.6,0.0
+SEA0818,Sea Freight,2025-04-17,20:20,10.5,91.0,1.5,Fresh,Fruits,Vizag Port,Shanghai Port,572.5,21.8,10.3,0.0,0,33.6,0.0
+SEA0967,Sea Freight,2024-10-19,23:30,2.2,,1.8,Fresh,Pharmaceuticals,Mumbai Port,Shanghai Port,636.0,24.3,25.8,0.0,0,37.8,0.0
+SEA0547,Sea Freight,2024-01-15,02:15,4.7,81.2,2.2,At Risk,Meat,Mundra Port,Hamburg Port,640.3,27.2,5.2,0.0,0,35.7,0.0
+SEA0683,Sea Freight,2026-04-01,17:35,4.8,95.1,2.4,Fresh,Vegetables,Kolkata Port,Singapore Port,548.8,15.5,9.8,0.0,0,29.5,0.0
+SEA0082,Sea Freight,2025-08-18,15:20,10.7,90.7,0.8,At Risk,Vegetables,Chennai Port,Rotterdam Port,441.1,25.1,9.0,0.0,0,36.3,0.0
+SEA0635,Sea Freight,2024-12-08,09:05,7.7,98.7,1.7,Fresh,Fruits,Vizag Port,Felixstowe Port,512.3,21.4,10.4,0.0,0,35.1,0.0
+SEA0307,Sea Freight,2025-09-25,09:00,11.2,99.0,1.7,At Risk,Fruits,Chennai Port,Singapore Port,542.1,26.7,9.9,0.0,0,35.5,0.0
+SEA0141,Sea Freight,2026-08-21,05:30,9.1,89.7,2.3,Fresh,Vegetables,Cochin Port,Rotterdam Port,637.6,21.8,9.1,0.0,0,33.7,0.0
+SEA0345,Sea Freight,2025-02-10,09:10,13.5,79.1,5.3,Fresh,Fruits,Kandla Port,Los Angeles Port,652.4,23.0,11.2,0.0,0,26.4,0.0
+SEA0519,Sea Freight,2025-05-26,00:15,11.3,88.3,1.8,Fresh,Fruits,Chennai Port,Rotterdam Port,669.2,24.9,10.2,0.0,0,29.6,0.0
+SEA0071,Sea Freight,2024-07-16,03:20,8.6,92.9,5.2,At Risk,Dairy,Vizag Port,Colombo Port,535.7,25.2,5.9,0.0,0,33.1,0.0
+SEA0524,Sea Freight,2025-05-17,10:45,10.1,94.9,1.6,At Risk,Fruits,Kolkata Port,Colombo Port,702.0,31.6,9.6,0.0,0,34.0,0.0
+SEA0314,Sea Freight,2024-08-22,00:30,8.9,88.2,0.5,At Risk,Fruits,Kandla Port,Dubai Port,548.9,28.7,9.9,0.0,0,37.7,0.0
+SEA0946,Sea Freight,2025-08-12,15:35,5.8,83.1,1.6,Fresh,Dairy,Mumbai Port,Shanghai Port,369.2,22.8,6.1,0.0,0,38.2,0.0
+SEA0201,Sea Freight,2024-01-01,22:55,6.2,91.1,1.0,At Risk,Flowers,Mundra Port,Colombo Port,571.6,29.7,4.1,0.0,0,35.5,0.0
+SEA0067,Sea Freight,2025-05-20,17:25,2.1,96.4,1.2,Fresh,Seafood,Vizag Port,Colombo Port,457.7,23.4,2.9,0.0,0,31.4,0.0
+SEA0717,Sea Freight,2025-09-03,15:25,13.0,92.3,0.6,Fresh,Fruits,Vizag Port,Singapore Port,457.1,22.8,10.5,0.0,0,37.1,0.0
+SEA0949,Sea Freight,2024-10-08,17:50,16.3,76.5,-1.8,At Risk,Fruits,Mumbai Port,Rotterdam Port,531.3,31.5,9.5,0.0,0,35.4,0.0
+SEA0718,Sea Freight,2025-09-09,02:45,3.2,99.0,1.1,Fresh,Seafood,Kolkata Port,Singapore Port,516.8,23.4,3.4,0.0,0,34.4,0.0
+SEA0616,Sea Freight,2025-09-10,11:40,9.9,82.5,2.8,At Risk,Dairy,Chennai Port,Dubai Port,612.3,30.7,5.3,0.0,0,32.5,0.0
+SEA0685,Sea Freight,2025-12-02,12:45,7.6,97.2,1.8,Spoiled,Seafood,Kolkata Port,Singapore Port,710.0,97.1,1.5,0.0,0,40.0,0.0
+SEA0878,Sea Freight,2025-06-19,03:25,12.1,76.1,1.5,Fresh,Fruits,Kandla Port,Los Angeles Port,441.1,19.0,10.4,0.0,0,37.3,0.0
+SEA0569,Sea Freight,2024-11-21,15:45,6.4,81.7,1.1,Fresh,Dairy,Cochin Port,Colombo Port,556.1,22.0,6.6,0.0,0,34.8,0.0
+SEA0655,Sea Freight,2025-08-04,22:05,2.3,84.7,1.9,Fresh,Flowers,Kandla Port,Hamburg Port,652.6,23.8,4.2,0.0,0,33.9,0.0
+SEA0133,Sea Freight,2024-07-21,20:35,6.6,86.2,2.4,At Risk,Dairy,Vizag Port,Felixstowe Port,627.9,33.3,5.8,0.0,0,36.0,0.0
+SEA0302,Sea Freight,2024-09-20,06:55,4.3,93.4,1.2,Fresh,Pharmaceuticals,Kandla Port,Felixstowe Port,579.2,14.2,27.6,0.0,0,36.1,0.0
+SEA0976,Sea Freight,2025-10-10,10:00,5.3,85.5,2.0,Fresh,Vegetables,Cochin Port,Colombo Port,683.4,20.2,8.4,0.0,0,30.2,0.0
+SEA0330,Sea Freight,2025-10-28,23:15,2.4,87.4,1.6,Fresh,Flowers,Vizag Port,Shanghai Port,432.1,19.2,3.8,0.0,0,32.3,0.0
+SEA0377,Sea Freight,2025-07-16,22:10,3.2,90.1,2.6,Fresh,Flowers,Mundra Port,Colombo Port,482.4,21.3,4.2,0.0,0,34.7,0.0
+SEA0658,Sea Freight,2024-11-17,12:45,5.3,84.2,1.0,Fresh,Vegetables,Chennai Port,Rotterdam Port,421.2,14.3,9.5,0.0,0,30.4,0.0
+SEA0502,Sea Freight,2025-10-07,21:25,4.7,77.4,0.2,Fresh,Seafood,Chennai Port,Dubai Port,417.5,15.0,3.7,0.0,0,34.2,0.0
+SEA0988,Sea Freight,2026-03-02,11:40,14.1,90.9,1.9,Spoiled,Flowers,Kandla Port,Shanghai Port,454.5,95.9,2.0,0.0,0,35.5,0.0
+SEA0360,Sea Freight,2025-01-17,23:20,3.8,93.1,2.5,At Risk,Flowers,Vizag Port,Dubai Port,617.0,25.2,4.1,0.0,0,30.5,0.0
+SEA0725,Sea Freight,2024-01-31,06:20,10.7,94.7,1.4,Fresh,Vegetables,Cochin Port,Los Angeles Port,569.4,21.9,8.4,0.0,0,28.4,0.0
+SEA0666,Sea Freight,2025-03-18,10:50,10.7,99.0,1.6,Spoiled,Meat,Mumbai Port,Felixstowe Port,508.2,95.4,2.2,0.0,0,26.3,0.0
+SEA0239,Sea Freight,2024-03-20,08:05,5.2,78.2,0.5,Fresh,Pharmaceuticals,Kandla Port,Felixstowe Port,576.5,10.9,27.8,0.0,0,28.6,0.0
+SEA0192,Sea Freight,2025-09-04,23:30,8.6,69.2,2.0,Fresh,Seafood,Mumbai Port,Colombo Port,420.4,18.9,3.7,0.0,0,35.3,0.0
+SEA0999,Sea Frieght,2024-08-13,11:15,5.6,74.9,2.3,Fresh,Flowers,Kandla Port,Felixstowe Port,415.8,15.8,4.9,0.0,0,32.3,0.0
+SEA0473,Sea Freight,2025-08-12,11:10,0.4,99.0,1.6,Fresh,Meat,Kandla Port,Hamburg Port,437.2,16.1,5.3,0.0,0,29.0,0.0
+SEA0123,Sea Freight,2026-07-08,21:25,7.3,93.3,1.5,Fresh,Meat,Cochin Port,Felixstowe Port,386.3,23.4,4.8,0.0,0,34.0,0.0
+SEA0531,Sea Freight,2024-07-05,02:10,11.6,80.9,1.7,Fresh,Meat,Cochin Port,Los Angeles Port,480.4,21.2,5.5,0.0,0,35.4,0.0
+SEA0230,Sea Freight,2026-04-26,06:10,2.3,87.1,1.9,Fresh,Pharmaceuticals,Mundra Port,Shanghai Port,656.7,14.5,27.4,0.0,0,31.8,0.0
+SEA0088,Sea Freight,2025-02-24,08:45,11.4,86.2,1.5,Fresh,Vegetables,Vizag Port,Colombo Port,681.3,21.9,9.0,0.0,0,28.9,0.0
+SEA0174,Sea Freight,2026-06-24,23:25,2.8,87.5,1.0,Fresh,Seafood,Chennai Port,Shanghai Port,404.2,22.7,3.4,0.0,0,36.1,0.0
+SEA0044,Sea Freight,2025-10-27,01:15,17.3,91.1,0.9,At Risk,Fruits,Cochin Port,Felixstowe Port,594.9,30.1,10.1,0.0,0,35.2,0.0
+SEA0603,Sea Freight,2025-03-19,14:15,12.4,90.8,2.0,Fresh,Pharmaceuticals,Kolkata Port,Shanghai Port,408.7,20.2,26.1,0.0,0,36.8,0.0
+SEA0423,Sea Freight,2024-09-05,10:25,7.7,99.0,2.1,Fresh,Pharmaceuticals,Mumbai Port,Colombo Port,595.3,21.2,26.2,0.0,0,27.6,0.0
+SEA0759,Sea Freight,2024-08-13,11:15,5.6,74.9,2.3,Fresh,Flowers,Kandla Port,Felixstowe Port,415.8,15.8,4.9,0.0,0,32.3,0.0
+SEA0146,Sea Freight,2025-11-13,10:45,0.5,82.1,1.9,At Risk,Meat,Chennai Port,Felixstowe Port,638.0,30.2,4.4,0.0,0,36.7,0.0
+SEA0886,Sea Freight,2025-01-11,18:40,11.1,86.7,1.7,Spoiled,Flowers,Kolkata Port,Felixstowe Port,713.8,95.7,1.5,0.0,0,36.8,0.0
+SEA0841,Sea Freight,2025-06-04,06:05,0.4,96.9,1.5,Fresh,Meat,Kandla Port,Rotterdam Port,665.5,23.2,5.4,0.0,0,37.8,0.0
+SEA0995,Sea Freight,2025-05-05,18:25,7.4,94.8,2.4,Fresh,Vegetables,Cochin Port,Jebel Ali Port,499.6,20.9,8.6,0.0,0,31.1,0.0
+SEA0700,Sea Freight,2026-07-24,06:40,4.1,99.0,2.0,At Risk,Seafood,Kolkata Port,Shanghai Port,468.0,28.9,3.3,0.0,0,30.6,0.0
+SEA0114,Sea Freight,2025-03-15,13:25,1.8,81.7,1.3,Fresh,Dairy,Vizag Port,Shanghai Port,598.6,15.0,6.0,0.0,0,22.9,0.0
+SEA0695,Sea Freight,2025-10-07,22:10,,85.3,4.3,At Risk,Fruits,Cochin Port,Los Angeles Port,611.4,26.9,9.8,0.0,0,36.2,0.0
+SEA0842,Sea Freight,2024-04-13,04:30,5.1,94.9,1.5,Fresh,Vegetables,Cochin Port,Colombo Port,530.2,18.7,8.9,0.0,0,33.6,0.0
+SEA0184,Sea Freight,2026-08-05,04:25,1.6,99.0,1.8,Fresh,Seafood,Chennai Port,Jebel Ali Port,386.4,19.7,3.5,0.0,0,27.2,0.0
+SEA0073,Sea Freight,2024-08-31,00:35,11.0,90.6,1.3,Fresh,Pharmaceuticals,Vizag Port,Los Angeles Port,552.9,18.2,26.6,0.0,0,31.4,0.0
+SEA0722,Sea Freight,2024-12-03,18:55,4.4,87.4,0.5,Fresh,Dairy,Chennai Port,Dubai Port,528.6,19.0,6.6,0.0,0,32.4,0.0
+SEA0802,Sea Freight,2025-07-01,16:30,20.6,79.4,1.6,At Risk,Fruits,Kandla Port,Jebel Ali Port,700.8,27.4,10.0,0.0,0,27.8,0.0
+SEA0249,Sea Freight,2024-01-21,07:00,3.0,93.6,1.1,Fresh,Dairy,Mundra Port,Dubai Port,441.7,23.8,6.4,0.0,0,36.7,0.0
+SEA0585,Sea Freight,2025-10-30,14:15,-0.2,93.5,1.6,At Risk,Meat,Vizag Port,Jebel Ali Port,502.4,32.5,5.0,0.0,0,40.0,0.0
+SEA0724,Sea Freight,2024-07-28,20:50,12.2,85.6,5.2,At Risk,Fruits,Kandla Port,Jebel Ali Port,563.9,28.2,9.8,0.0,0,30.0,0.0
+SEA0367,Sea Freight,2025-04-02,00:00,7.8,84.7,1.0,Fresh,Vegetables,Cochin Port,Singapore Port,388.3,17.7,8.4,0.0,0,31.0,0.0
+SEA0983,Sea Freight,2025-11-24,19:15,3.2,97.8,1.7,At Risk,Flowers,Chennai Port,Rotterdam Port,436.8,25.8,4.7,0.0,0,34.7,0.0
+SEA0800,Sea Freight,2024-11-04,14:35,8.7,83.4,1.8,At Risk,Flowers,Mundra Port,Shanghai Port,637.5,30.5,4.2,0.0,0,32.1,0.0
+SEA0140,Sea Freight,2024-03-02,04:25,7.6,82.1,1.2,Spoiled,Flowers,Mundra Port,Hamburg Port,657.9,78.1,2.4,0.0,0,38.0,0.0
+SEA0951,Sea Freight,2026-06-26,16:50,12.1,89.5,1.9,Fresh,Pharmaceuticals,Cochin Port,Dubai Port,436.7,16.4,27.6,0.0,0,34.7,0.0
+SEA0846,Sea Freight,2025-02-07,03:00,8.1,85.3,0.2,Fresh,Pharmaceuticals,Mumbai Port,Hamburg Port,465.5,14.6,27.4,0.0,0,22.6,0.0
+SEA0479,Sea Freight,2026-01-29,18:25,4.8,91.0,1.9,Fresh,Seafood,Cochin Port,Hamburg Port,361.2,18.6,3.0,0.0,0,34.7,0.0
+SEA0391,Sea Freight,2024-12-13,23:00,2.1,87.5,0.9,Fresh,Pharmaceuticals,Mundra Port,Shanghai Port,706.1,15.1,27.6,0.0,0,33.4,0.0
+SEA0053,Sea Freight,2025-02-09,16:15,1.8,85.7,1.3,Fresh,Meat,Kandla Port,Colombo Port,586.3,19.9,5.5,0.0,0,29.4,0.0
+SEA0395,Sea Freight,2024-11-22,19:55,2.4,80.9,1.7,Fresh,Meat,Kolkata Port,Shanghai Port,619.7,20.5,5.2,0.0,0,34.0,0.0
+SEA0965,Sea Freight,2025-09-15,18:25,-0.1,75.0,1.9,Fresh,Seafood,Chennai Port,Rotterdam Port,365.5,4.7,4.0,0.0,0,33.5,0.0
+SEA0542,Sea Freight,2024-11-06,04:00,9.7,90.4,1.5,Fresh,Pharmaceuticals,Chennai Port,Rotterdam Port,508.7,13.1,27.4,0.0,0,27.6,0.0
+SEA0121,Sea Freight,2024-01-14,03:30,0.5,86.6,1.5,Fresh,Seafood,Mundra Port,Jebel Ali Port,577.8,16.0,3.3,0.0,0,27.8,0.0
+SEA0413,Sea Freight,2025-01-18,04:05,4.9,94.8,3.0,At Risk,Seafood,Kolkata Port,Rotterdam Port,620.6,29.2,3.3,0.0,0,30.5,0.0
+SEA0793,Sea Freight,2025-11-23,17:50,4.8,99.0,1.2,At Risk,Dairy,Kandla Port,Colombo Port,486.4,31.9,5.8,0.0,0,37.8,0.0
+SEA0902,Sea Freight,2025-02-10,21:30,13.3,89.2,0.3,At Risk,Fruits,Cochin Port,Dubai Port,594.2,25.1,10.0,0.0,0,35.8,0.0
+SEA0263,Sea Freight,2024-05-17,02:55,2.1,92.8,0.7,Fresh,Pharmaceuticals,Cochin Port,Dubai Port,613.6,16.4,26.9,0.0,0,35.9,0.0
+SEA0328,Sea Freight,2024-02-23,15:55,0.9,86.2,2.1,Fresh,Seafood,Mumbai Port,Hamburg Port,476.9,23.0,3.4,0.0,0,33.7,0.0
+SEA0013,Sea Freight,2025-08-08,11:00,0.0,97.5,1.8,Fresh,Meat,Chennai Port,Shanghai Port,528.4,21.9,5.0,0.0,0,34.8,0.0
+SEA0677,Sea Freight,2025-01-31,12:30,4.3,77.7,1.4,Fresh,Vegetables,Vizag Port,Felixstowe Port,572.2,13.0,8.5,0.0,0,26.4,0.0
+SEA0290,Sea Freight,2024-08-02,11:45,3.1,91.2,2.7,Fresh,Dairy,Vizag Port,Singapore Port,517.9,24.0,6.4,0.0,0,36.8,0.0
+SEA0423,Sea Freight,2024-09-05,10:25,7.7,99.0,2.1,Fresh,Pharmaceuticals,Mumbai Port,Colombo Port,595.3,21.2,26.2,0.0,0,27.6,0.0
+SEA0650,Sea Freight,2025-08-24,22:30,0.3,90.3,1.0,Fresh,Meat,Mundra Port,Rotterdam Port,546.7,17.1,5.8,0.0,0,32.1,0.0
+SEA0105,Sea Freight,2024-02-01,00:45,10.8,94.3,1.8,Fresh,Pharmaceuticals,Kolkata Port,Jebel Ali Port,504.9,23.1,25.5,0.0,0,32.6,0.0
+SEA0359,Sea Freight,2024-05-24,05:55,7.7,85.6,2.1,Fresh,Seafood,Chennai Port,Rotterdam Port,384.7,24.8,3.6,0.0,0,28.6,0.0
+SEA0887,Sea Freight,2024-01-18,05:20,1.3,70.1,1.8,Fresh,Meat,Cochin Port,Felixstowe Port,591.4,20.5,5.2,0.0,0,33.1,0.0
+SEA0506,Sea Freight,2025-02-22,01:15,4.4,73.4,1.7,Fresh,Meat,Kandla Port,Dubai Port,623.1,20.1,5.3,0.0,0,29.3,0.0
+SEA0043,Sea Freight,2026-04-11,01:15,3.2,92.9,0.5,At Risk,Dairy,Cochin Port,Rotterdam Port,665.6,29.1,6.2,0.0,0,32.7,0.0
+SEA0955,Sea Freight,2024-11-02,03:20,3.4,72.5,0.9,At Risk,Meat,Kolkata Port,Hamburg Port,682.6,25.2,4.7,0.0,0,33.7,0.0
+SEA0245,Sea Freight,2024-08-13,23:00,14.3,65.8,1.4,At Risk,Vegetables,Chennai Port,Shanghai Port,660.3,30.5,8.0,0.0,0,33.5,0.0
+SEA0527,Sea Freight,2025-07-26,06:30,5.5,86.5,1.4,Fresh,Flowers,Mundra Port,Jebel Ali Port,548.8,24.1,4.2,0.0,0,35.1,0.0
+SEA0373,Sea Freight,2025-07-22,04:10,1.2,84.7,4.5,Fresh,Meat,Kolkata Port,Hamburg Port,502.9,23.2,4.9,0.0,0,33.3,0.0
+SEA0801,Sea Freight,2024-01-10,06:10,6.9,99.0,1.7,At Risk,Dairy,Vizag Port,Colombo Port,471.1,26.1,5.9,0.0,0,33.4,0.0
+SEA0025,Sea Freight,2024-03-26,20:35,18.2,92.4,2.0,Fresh,Fruits,Chennai Port,Colombo Port,388.6,19.8,10.4,0.0,0,33.1,0.0
+SEA0651,Sea Freight,2024-04-03,05:00,4.3,92.5,0.7,At Risk,Dairy,Kandla Port,Colombo Port,608.8,25.0,6.0,0.0,0,30.0,0.0
+SEA0150,Sea Freight,2025-03-29,20:10,7.9,81.2,1.8,Fresh,Pharmaceuticals,Kandla Port,Hamburg Port,422.2,14.0,26.9,0.0,0,33.3,0.0
+SEA0397,Sea Freight,2024-12-07,17:30,12.7,74.0,2.1,Fresh,Fruits,Vizag Port,Hamburg Port,427.7,20.5,10.8,0.0,0,36.3,0.0
+SEA0077,Sea Freight,2025-02-14,19:25,6.6,92.3,2.9,Fresh,Vegetables,Kandla Port,Singapore Port,378.2,20.3,8.7,0.0,0,34.7,0.0
+SEA0390,Sea Freight,2024-08-03,05:10,3.3,77.4,1.2,Fresh,Seafood,Kandla Port,Shanghai Port,578.0,21.2,3.5,0.0,0,28.6,0.0
+SEA0705,Sea Freight,2026-08-02,08:40,4.8,74.6,1.4,Fresh,Flowers,Mundra Port,Los Angeles Port,392.8,11.1,3.9,0.0,0,25.6,0.0
+SEA0630,Sea Freight,2024-03-30,21:30,9.1,90.0,2.7,Spoiled,Seafood,Cochin Port,Felixstowe Port,658.2,86.2,1.4,0.0,0,30.8,0.0
+SEA0730,Sea Freight,2026-04-10,07:35,8.9,87.8,1.3,Fresh,Flowers,Cochin Port,Colombo Port,411.4,16.3,4.2,0.0,0,31.1,0.0
+SEA0728,Sea Freight,2024-07-07,19:00,4.0,90.4,0.8,Fresh,Dairy,Chennai Port,Dubai Port,373.1,17.0,6.2,0.0,0,31.7,0.0
+SEA0689,Sea Freight,2025-04-19,05:15,8.9,99.0,2.0,Fresh,Pharmaceuticals,Mumbai Port,Shanghai Port,437.0,17.7,26.9,0.0,0,37.8,0.0
+SEA0937,Sea Freight,2024-08-08,15:25,6.4,86.6,1.9,Fresh,Pharmaceuticals,Vizag Port,Dubai Port,420.4,7.8,28.6,0.0,0,29.5,0.0
+SEA0182,Sea Freight,2024-04-29,02:35,5.4,99.0,1.8,At Risk,Flowers,Vizag Port,Felixstowe Port,706.7,32.9,4.2,0.0,0,29.6,0.0
+SEA0346,Sea Freight,2025-10-22,07:55,-0.0,91.0,1.3,Fresh,Seafood,Mundra Port,Singapore Port,382.8,14.4,3.9,0.0,0,33.1,0.0
+SEA0958,Sea Freight,2025-03-05,15:15,-0.0,83.6,2.1,Fresh,Meat,Cochin Port,Hamburg Port,644.3,19.6,5.5,0.0,0,29.1,0.0
+SEA0818,Sea Freight,2025-04-17,20:20,10.5,91.0,1.5,Fresh,Fruits,Vizag Port,Shanghai Port,572.5,21.8,10.3,0.0,0,33.6,0.0
+SEA0040,Sea Freight,2024-10-08,21:45,3.9,94.9,0.8,Fresh,Dairy,Kolkata Port,Dubai Port,366.7,19.4,5.8,0.0,0,31.3,0.0
+SEA0224,Sea Freight,2024-06-13,04:15,6.2,99.0,2.2,Fresh,Vegetables,Chennai Port,Shanghai Port,566.8,22.8,8.5,0.0,0,30.7,0.0
+SEA0060,Sea Freight,2024-02-15,00:35,4.4,98.2,1.6,Fresh,Dairy,Mumbai Port,Felixstowe Port,443.0,21.8,6.1,0.0,0,33.7,0.0
+SEA0002,Sea Freight,2024-07-26,21:55,2.7,87.6,2.8,Fresh,Flowers,Cochin Port,Felixstowe Port,542.3,23.5,3.9,0.0,0,31.1,0.0
+SEA0339,Sea Freight,2025-02-09,23:55,0.5,92.8,1.2,Fresh,Meat,Chennai Port,Hamburg Port,402.5,22.5,5.0,0.0,0,36.1,0.0
+SEA0437,Sea Freight,2024-03-27,06:50,8.5,98.4,1.3,Spoiled,Meat,Kandla Port,Jebel Ali Port,642.9,79.2,2.6,0.0,0,40.0,0.0
+SEA0520,Sea Freight,2026-08-09,11:20,12.1,92.5,1.6,Fresh,Fruits,Mundra Port,Felixstowe Port,373.5,20.4,10.8,0.0,0,34.6,0.0
+SEA0686,Sea Freight,2024-03-31,15:40,8.3,87.8,2.3,Fresh,Pharmaceuticals,Cochin Port,Jebel Ali Port,368.5,11.9,28.0,0.0,0,28.9,0.0
+SEA0321,Sea Freight,2026-08-26,21:55,1.7,-90.1,1.8,Fresh,Meat,Kandla Port,Singapore Port,395.6,17.0,5.4,0.0,0,35.7,0.0
+SEA0989,Sea Freight,2026-05-24,00:15,4.3,90.4,1.7,At Risk,Dairy,Chennai Port,Colombo Port,672.1,26.4,5.7,0.0,0,32.7,0.0
+SEA0872,Sea Freight,2024-06-17,23:45,10.2,99.0,0.9,Spoiled,Flowers,Cochin Port,Colombo Port,509.9,90.1,2.2,0.0,0,32.8,0.0
+SEA0884,Sea Freight,2024-12-03,05:40,7.2,88.3,1.7,Fresh,Meat,Mumbai Port,Los Angeles Port,442.2,21.6,5.2,0.0,0,36.9,0.0
+SEA0822,Sea Freight,2026-02-01,07:00,3.8,84.7,2.2,At Risk,Flowers,Kandla Port,Colombo Port,611.8,27.8,4.3,0.0,0,33.8,0.0
+SEA0790,Sea Freight,2025-12-13,19:00,13.1,98.8,3.4,Spoiled,Flowers,Kandla Port,Jebel Ali Port,574.6,86.8,2.1,0.0,0,29.6,0.0
+SEA0745,Sea Freight,2025-10-10,05:30,4.7,93.3,0.6,Fresh,Pharmaceuticals,Kolkata Port,Rotterdam Port,549.9,18.5,26.4,0.0,0,29.2,0.0
+SEA0092,Sea Freight,2025-02-13,19:55,9.8,74.7,1.9,Fresh,Vegetables,Kolkata Port,Jebel Ali Port,641.8,23.4,8.5,0.0,0,35.8,0.0
+SEA0486,Sea Freight,2024-12-26,10:55,3.7,86.5,0.7,Fresh,Pharmaceuticals,Vizag Port,Shanghai Port,409.1,11.6,28.0,0.0,0,38.1,0.0
+SEA0475,Sea Freight,2024-02-15,13:35,2.5,91.6,2.0,Fresh,Flowers,Mumbai Port,Shanghai Port,563.2,22.9,4.3,0.0,0,31.0,0.0
+SEA0997,Sea Freight,2024-08-12,10:00,1.8,93.8,2.1,At Risk,Flowers,Cochin Port,Shanghai Port,572.4,27.6,4.3,0.0,0,39.1,0.0
+SEA0319,Sea Freight,2025-07-05,01:35,5.9,79.6,2.4,Fresh,Pharmaceuticals,Mumbai Port,Colombo Port,527.1,14.5,27.7,0.0,0,28.1,0.0
+SEA0970,Sea Freight,2025-06-08,08:50,4.8,91.4,1.3,Fresh,Pharmaceuticals,Mundra Port,Dubai Port,589.7,11.8,27.7,0.0,0,29.4,0.0
+SEA0731,Sea Freight,2026-05-20,21:30,1.0,82.3,1.2,Fresh,Seafood,Chennai Port,Colombo Port,506.6,20.4,3.5,0.0,0,31.7,0.0
+SEA0480,Sea Freight,2024-08-30,14:15,2.6,93.9,2.5,At Risk,Flowers,Vizag Port,Dubai Port,444.2,26.0,4.0,0.0,0,34.5,0.0
+SEA0107,Sea Freight,2025-04-21,02:05,7.6,85.3,0.5,Fresh,Vegetables,Kandla Port,Hamburg Port,377.2,20.1,8.9,0.0,0,34.0,0.0
+SEA0989,Sea Freight,2026-05-24,00:15,4.3,90.4,1.7,At Risk,Dairy,Chennai Port,Colombo Port,672.1,26.4,5.7,0.0,0,32.7,0.0
+SEA0843,Sea Freight,2024-10-07,15:00,4.4,87.8,1.2,Fresh,Vegetables,Chennai Port,Singapore Port,393.9,9.3,9.2,0.0,0,35.6,0.0
+SEA0434,Sea Freight,2024-04-26,14:15,14.9,94.2,2.9,Fresh,Vegetables,Cochin Port,Los Angeles Port,398.1,21.4,8.3,0.0,0,27.4,0.0
+SEA0962,Sea Freight,2024-03-06,16:30,7.2,90.0,1.4,At Risk,Flowers,Mumbai Port,Felixstowe Port,711.3,28.0,3.3,0.0,0,33.4,0.0
+SEA0985,Sea Freight,2026-07-29,03:40,1.2,85.2,1.6,Fresh,Meat,Chennai Port,Rotterdam Port,491.4,19.9,5.7,0.0,0,33.3,0.0
+SEA0179,Sea Freight,2025-01-06,07:15,5.5,69.5,2.2,Fresh,Flowers,Mumbai Port,Hamburg Port,493.6,14.3,4.3,0.0,0,33.8,0.0
+SEA0309,Sea Freight,2024-12-19,23:30,2.0,88.1,1.4,At Risk,Meat,Chennai Port,Colombo Port,654.5,30.3,4.9,0.0,0,35.6,0.0
+SEA0318,Sea Freight,2026-06-13,04:40,8.7,77.8,1.5,Fresh,Pharmaceuticals,Mumbai Port,Singapore Port,593.7,16.8,27.2,0.0,0,34.3,0.0
+SEA0627,Sea Freight,2024-04-16,13:35,4.9,80.4,2.5,Fresh,Dairy,Kolkata Port,Colombo Port,622.3,22.4,5.9,0.0,0,33.7,0.0
+SEA0311,Sea Freight,2025-06-12,03:25,4.5,84.9,2.0,Fresh,Pharmaceuticals,Kandla Port,Colombo Port,656.3,17.1,26.8,0.0,0,33.5,0.0
+SEA0086,Sea Freight,2024-02-01,04:15,7.6,99.0,1.8,At Risk,Pharmaceuticals,Kolkata Port,Hamburg Port,700.2,25.4,25.9,0.0,0,29.9,0.0
+SEA0665,Sea Freight,2025-01-01,11:00,8.5,73.7,0.8,Fresh,Fruits,Vizag Port,Colombo Port,716.1,22.8,10.7,0.0,0,31.1,0.0
+SEA0956,Sea Freight,2025-02-25,21:20,6.8,94.5,0.9,Fresh,Vegetables,Kolkata Port,Dubai Port,518.0,23.8,8.4,0.0,0,40.0,0.0
+SEA0952,Sea Freight,2026-04-12,05:40,4.3,91.9,1.5,Spoiled,Dairy,Vizag Port,Colombo Port,715.5,94.8,3.0,0.0,0,38.3,0.0
+SEA0563,Sea Freight,2025-01-19,03:55,1.4,83.4,2.3,Fresh,Meat,Cochin Port,Colombo Port,409.6,12.0,5.4,0.0,0,34.7,0.0
+SEA0817,Sea Freight,2025-05-22,22:00,10.6,98.7,0.9,Fresh,Fruits,Chennai Port,Dubai Port,449.5,19.2,10.6,0.0,0,31.5,0.0
+SEA0784,Sea Freight,2025-03-06,05:55,5.3,99.0,2.8,Fresh,Pharmaceuticals,Mumbai Port,Rotterdam Port,632.0,13.7,27.6,0.0,0,27.9,0.0
+SEA0057,Sea Freight,2024-02-15,11:35,1.4,99.0,1.6,Fresh,Seafood,Vizag Port,Shanghai Port,494.9,22.5,3.8,0.0,0,32.1,0.0
+SEA0456,Sea Freight,2026-02-25,10:00,2.5,89.1,5.1,Fresh,Seafood,Kandla Port,Singapore Port,472.3,17.8,3.4,0.0,0,30.6,0.0
+SEA0478,Sea Freight,2024-12-04,10:35,3.8,88.9,1.5,Fresh,Seafood,Mumbai Port,Singapore Port,446.7,23.0,3.5,0.0,0,37.6,0.0
+SEA0883,Sea Freight,2024-09-07,00:30,19.0,82.6,7.1,Fresh,Fruits,Kolkata Port,Felixstowe Port,462.3,22.4,10.4,0.0,0,36.1,0.0
+SEA0386,Sea Freight,2025-09-13,01:35,7.3,86.9,2.6,At Risk,Flowers,Cochin Port,Shanghai Port,538.0,30.2,3.8,0.0,0,32.8,0.0
+SEA0163,Sea Freight,2026-07-03,15:55,1.1,88.4,2.0,Fresh,Seafood,Vizag Port,Colombo Port,584.6,19.2,4.0,0.0,0,27.1,0.0
+SEA0325,Sea Freight,2026-06-20,20:55,5.9,91.0,2.3,Fresh,Dairy,Cochin Port,Rotterdam Port,470.4,23.9,6.0,0.0,0,34.5,0.0
+SEA0410,Sea Freight,2024-09-26,16:15,4.0,74.2,7.0,Fresh,Pharmaceuticals,Vizag Port,Rotterdam Port,404.5,11.3,28.0,0.0,0,32.5,0.0
+SEA0463,Sea Freight,2026-07-04,14:05,9.2,89.8,1.3,At Risk,Seafood,Vizag Port,Jebel Ali Port,573.5,27.7,3.6,0.0,0,29.9,0.0
+SEA0544,Sea Freight,2025-01-18,14:55,10.0,90.1,2.1,Fresh,Fruits,Vizag Port,Singapore Port,419.7,20.2,9.7,0.0,0,29.6,0.0
+SEA0131,sea freight  ,2024-05-15,08:45,7.4,89.3,6.9,At Risk,Pharmaceuticals,Kolkata Port,Dubai Port,710.9,27.0,24.8,0.0,0,35.2,0.0
+SEA0510,Sea Freight,2025-04-27,16:50,1.4,94.8,1.5,Fresh,Meat,Mumbai Port,Shanghai Port,517.5,21.8,5.4,0.0,0,36.7,0.0
+SEA0229,Sea Freight,2024-01-18,08:10,8.6,92.0,1.5,Fresh,Fruits,Cochin Port,Los Angeles Port,361.2,17.3,10.7,0.0,0,34.3,0.0
+SEA0074,Sea Freight,2025-06-08,22:50,7.3,82.2,1.6,Fresh,Pharmaceuticals,Cochin Port,Los Angeles Port,689.1,19.2,26.4,0.0,0,40.0,0.0
+SEA0836,Sea Freight,2025-07-23,01:25,16.2,82.8,1.8,At Risk,Fruits,Chennai Port,Los Angeles Port,658.9,30.8,9.6,0.0,0,33.2,0.0
+SEA0681,Sea Freight,2024-04-08,15:25,8.7,97.9,1.4,At Risk,Vegetables,Mundra Port,Hamburg Port,676.2,30.1,7.6,0.0,0,27.6,0.0
+SEA0334,Sea Freight,2024-05-11,22:20,4.8,80.6,2.6,At Risk,Dairy,Mundra Port,Rotterdam Port,464.9,27.4,5.9,0.0,0,40.0,0.0
+SEA0986,Sea Freight,2026-06-21,19:00,7.0,93.9,1.2,Fresh,Pharmaceuticals,Mumbai Port,Colombo Port,615.8,18.2,26.3,0.0,0,33.2,0.0
+SEA0004,Sea Freight,2024-12-16,05:15,3.5,98.4,1.0,Fresh,Vegetables,Cochin Port,Felixstowe Port,639.1,22.3,8.9,0.0,0,31.6,0.0
+SEA0637,Sea Freight,2024-08-27,16:55,12.6,87.9,1.9,Fresh,Fruits,Chennai Port,Jebel Ali Port,429.8,22.3,9.9,0.0,0,34.0,0.0
+SEA0561,Sea Freight,2024-08-30,00:45,4.4,99.0,1.3,Fresh,Pharmaceuticals,Cochin Port,Hamburg Port,565.6,16.3,26.9,0.0,0,37.5,0.0
+SEA0943,Sea Freight,2024-09-13,08:30,9.9,93.7,2.2,Fresh,Fruits,Kolkata Port,Felixstowe Port,453.6,21.8,10.0,0.0,0,38.1,0.0
+SEA0183,Sea Freight,2026-07-08,19:35,4.9,98.8,2.1,Fresh,Flowers,Chennai Port,Los Angeles Port,506.7,20.0,4.2,0.0,0,29.9,0.0
+SEA0840,Sea Freight,2025-06-16,12:05,3.7,93.2,1.4,Fresh,Dairy,Kandla Port,Jebel Ali Port,621.2,23.3,6.2,0.0,0,26.5,0.0
+SEA0525,Sea Freight,2024-03-15,17:40,11.6,82.6,1.0,At Risk,Fruits,Kandla Port,Los Angeles Port,469.4,26.4,10.1,0.0,0,32.6,0.0
+SEA0196,Sea Freight,2024-02-07,22:20,2.5,96.2,1.3,At Risk,Seafood,Cochin Port,Shanghai Port,513.7,27.9,3.2,0.0,0,34.2,0.0
+SEA0257,Sea Freight,2026-02-22,23:35,19.0,96.6,0.8,At Risk,Fruits,Vizag Port,Hamburg Port,623.1,31.2,9.5,0.0,0,28.1,0.0
+SEA0333,Sea Freight,2025-05-20,11:25,-0.5,90.1,2.8,Fresh,Meat,Vizag Port,Colombo Port,636.9,23.5,5.6,0.0,0,28.7,0.0
+SEA0414,Sea Freight,2026-01-15,00:40,7.0,81.0,5.0,Fresh,Pharmaceuticals,Mundra Port,Colombo Port,469.5,15.4,26.9,0.0,0,30.7,0.0
+SEA0485,Sea Freight,2024-05-21,20:50,1.8,86.3,6.3,Fresh,Dairy,Kandla Port,Felixstowe Port,603.7,18.6,6.4,0.0,0,30.1,0.0
+SEA0856,Sea Freight,2025-02-20,05:40,10.6,78.2,1.6,At Risk,Meat,Kolkata Port,Jebel Ali Port,560.7,26.1,5.0,0.0,0,28.1,0.0
+SEA0998,Sea Freight,2024-12-03,05:40,45.0,88.3,1.7,Fresh,Meat,Mumbai Port,Los Angeles Port,442.2,21.6,5.2,0.0,0,36.9,0.0
+SEA0484,Sea Freight,2025-04-15,13:30,14.5,99.0,2.5,Fresh,Fruits,Cochin Port,Dubai Port,389.2,21.3,10.5,0.0,0,29.3,0.0
+SEA0349,Sea Freight,2026-02-09,08:00,12.9,95.8,1.6,Spoiled,Flowers,Mumbai Port,Singapore Port,675.2,94.7,2.3,0.0,0,37.9,0.0
+SEA0172,Sea Freight,2025-02-07,21:20,4.9,86.5,1.9,Fresh,Seafood,Kandla Port,Rotterdam Port,546.6,21.8,3.7,0.0,0,32.8,0.0
