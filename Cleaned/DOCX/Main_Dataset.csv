@@ -1,0 +1,1001 @@
+shipment_id	transport_mode	recorded_date	recorded_time	temperature_celsius	humidity_percentage	vibration_level	spoilage_status	cargo_type	origin_location	destination_location	exposure_duration_hours	spoilage_risk_percent	remaining_shelf_life_days	pressure_kpa	door_open_count	salinity_ppt	thermal_leakage_score
+TRK0201	Cold-Chain Road Truck	07/09/2025	13:00	5.1	79.8	6.3	At Risk	Dairy	Indore	Ahmedabad	33.7	34.5	5.5	0	5	0	0
+AIR0947	Air Freight	07/11/2025	5:55	1.7	38.5	2.9	Fresh	Pharmaceuticals	Delhi Airport	Dubai Airport	24.9	9.5	29.2	93.8	0	0	0
+TRK0067	Cold-Chain Road Truck	27/02/2025	8:30	3.1	49.5	3.9	Fresh	Pharmaceuticals	Pune	Chennai	54.3	20	26.3	0	7	0	0
+RAIL0585	Intermodal Rail	27/02/2024	23:20	10.3	36	2.7	Fresh	Vegetables	Delhi	Bengaluru	132.9	10.9	9.8	0	0	0	1.3
+RAIL0527	Intermodal Rail	01/03/2024	6:40	3.1	84.8	3.2	At Risk	Dairy	Guwahati	Jaipur	148.2	25.9	6.3	0	0	0	5
+RAIL0938	Intermodal Rail	15/05/2025	7:15	4.3	74.5	3.2	Fresh	Flowers	Guwahati	Jaipur	133.7	18.3	5	0	0	0	4.6
+AIR0683	Air Freight	03/09/2024	14:55	3.1	26.3	1	Fresh	Seafood	Delhi Airport	Hong Kong Airport	44.6	21.1	3.4	86.1	0	0	0
+TRK0995	Cold-Chain Road Truck	23/02/2026	11:00	9.3	82.7	5.4	Spoiled	Seafood	Surat	Lucknow	55.9	55.5	2.7	0	10	0	0
+TRK0294	Cold-Chain Road Truck	18/11/2025	19:35	2.4	87.7	5.5	At Risk	Seafood	Kolkata	Udaipur	34.3	35.5	3.1	0	5	0	0
+AIR0082	Air Freight	30/07/2026	2:55	5.3	33.1	1	Fresh	Dairy	Mumbai Airport	Dubai Airport	29.9	12.3	6.6	96.9	0	0	0
+TRK0146	Cold-Chain Road Truck	01/07/2026	18:40	2.4	86.1	3.1	At Risk	Meat	Delhi	Ahmedabad	3.1	25.5	5.1	0	1	0	0
+AIR0475	Air Freight	26/08/2026	16:40	12.6	8	3.4	Fresh	Fruits	Chennai Airport	Amsterdam Airport	35.8	19.1	11	86.7	0	0	0
+RAIL0090	Intermodal Rail	08/12/2024	7:35	1.7	63.6	2.1	Fresh	Flowers	Chennai	Bengaluru	122.3	19	5	0	0	0	6.1
+AIR0090	Air Freight	09/12/2025	8:00	4.7	14	3.3	Fresh	Dairy	Bengaluru Airport	Frankfurt Airport	47.6	15.5	6.2	89.6	0	0	0
+SEA0977	Sea Freight	26/08/2025	9:05	3.8	92.7	1.7	Fresh	Vegetables	Mundra Port	Rotterdam Port	453.7	11.1	9.1	0	0	35.6	0
+SEA0956	Sea Freight	25/02/2025	21:20	6.8	94.5	0.9	Fresh	Vegetables	Kolkata Port	Dubai Port	518	23.8	8.4	0	0	40	0
+AIR0377	Air Freight	07/12/2025	17:20	-2.5	33.3	3.9	Fresh	Flowers	Bengaluru Airport	Doha Airport	47.9	21.3	4.3	86.9	0	0	0
+RAIL0311	Intermodal Rail	11/06/2026	10:10	1.3	31.8	3.3	Fresh	Meat	Mumbai	Jammu	128.4	6.7	6	0	0	0	3.5
+TRK0240	Cold-Chain Road Truck	10/07/2024	7:45	8.2	88.4	3.3	At Risk	Vegetables	Kolkata	Chennai	5.4	26.3	8.3	0	1	0	0
+SEA0328	Sea Freight	23/02/2024	15:55	0.9	86.2	2.1	Fresh	Seafood	Mumbai Port	Hamburg Port	476.9	23	3.4	0	0	33.7	0
+SEA0997	Sea Freight	12/08/2024	10:00	1.8	93.8	2.1	At Risk	Flowers	Cochin Port	Shanghai Port	572.4	27.6	4.3	0	0	39.1	0
+RAIL0172	Intermodal Rail	03/05/2025	17:40	10.8	73.5	3.7	At Risk	Vegetables	Kolkata	Guwahati	133.5	26.9	8.3	0	0	0	8
+TRK0700	Cold-Chain Road Truck	05/08/2024	13:00	13.4	76.8	4.9	At Risk	Seafood	Pune	Hyderabad	47.2	50	2.5	0	9	0	0
+AIR0434	Air Freight	03/03/2024	9:15	-2.7	25.6	3.4	Fresh	Pharmaceuticals	Hyderabad Airport	Dubai Airport	28.6	10.3	28.2	84.2	0	0	0
+RAIL0475	Intermodal Rail	26/08/2025	6:00	8.2	43	1.8	Fresh	Fruits	Delhi	Guwahati	160.9	16.6	10.3	0	0	0	6.1
+SEA0381	Sea Freight	02/04/2026	20:50	6	96.1	1.7	Fresh	Pharmaceuticals	Mumbai Port	Singapore Port	627.5	19.7	26.4	0	0	31.4	0
+RAIL0077	Intermodal Rail	15/07/2024	20:25	5.8	50.7	2.5	Fresh	Pharmaceuticals	Ahmedabad	Guwahati	120.5	14.5	27.6	0	0	0	4.9
+SEA0239	Sea Freight	20/03/2024	8:05	5.2	78.2	0.5	Fresh	Pharmaceuticals	Kandla Port	Felixstowe Port	576.5	10.9	27.8	0	0	28.6	0
+SEA0677	Sea Freight	31/01/2025	12:30	4.3	77.7	1.4	Fresh	Vegetables	Vizag Port	Felixstowe Port	572.2	13	8.5	0	0	26.4	0
+SEA0057	Sea Freight	15/02/2024	11:35	1.4	99	1.6	Fresh	Seafood	Vizag Port	Shanghai Port	494.9	22.5	3.8	0	0	32.1	0
+TRK0105	Cold-Chain Road Truck	17/03/2026	16:00	5.9	72.9	2.9	Fresh	Meat	Hyderabad	Pune	14.6	20.2	5.1	0	2	0	0
+AIR0360	Air Freight	22/10/2024	1:35	5.8	18.8	0.9	Fresh	Dairy	Delhi Airport	Doha Airport	39.5	21	5.6	90.1	0	0	0
+SEA0627	Sea Freight	16/04/2024	13:35	4.9	80.4	2.5	Fresh	Dairy	Kolkata Port	Colombo Port	622.3	22.4	5.9	0	0	33.7	0
+RAIL0373	Intermodal Rail	21/10/2024	11:35	6.2	69.9	1.3	Fresh	Vegetables	Guwahati	Jaipur	161.9	18.7	8.9	0	0	0	4.6
+TRK0325	Cold-Chain Road Truck	04/05/2026	12:30	2.9	74.1	6.3	At Risk	Dairy	Bhopal	Pune	52.8	39	5.3	0	7	0	0
+SEA0958	Sea Freight	05/03/2025	15:15	0	83.6	2.1	Fresh	Meat	Cochin Port	Hamburg Port	644.3	19.6	5.5	0	0	29.1	0
+TRK0525	Cold-Chain Road Truck	30/06/2026	0:00	2.2	83.9	8	At Risk	Pharmaceuticals	Pune	Mumbai	70.4	33.1	23.8	0	10	0	0
+AIR0349	Air Freight	07/04/2024	11:15	-11.9	25.3	1.3	Fresh	Meat	Chennai Airport	Amsterdam Airport	25	17.5	6	100.4	0	0	0
+AIR0665	Air Freight	07/04/2025	9:20	3	8	0.2	Fresh	Seafood	Bengaluru Airport	Frankfurt Airport	33.7	15.1	3.5	84.4	0	0	0
+AIR0527	Air Freight	25/07/2024	16:40	8.3	34.2	1	At Risk	Flowers	Chennai Airport	London Heathrow Airport	31.9	26.3	4.6	76.5	0	0	0
+SEA0651	Sea Freight	03/04/2024	5:00	4.3	92.5	0.7	At Risk	Dairy	Kandla Port	Colombo Port	608.8	25	6	0	0	30	0
+RAIL0943	Intermodal Rail	28/05/2024	23:15	6.4	31.7	1.9	Fresh	Vegetables	Kolkata	Chennai	144.7	8.3	9.5	0	0	0	4.7
+RAIL0946	Intermodal Rail	11/04/2026	11:10	4.1	59.1	1.9	Fresh	Pharmaceuticals	Mumbai	Jammu	157.2	13.6	27.6	0	0	0	3.2
+TRK0531	Cold-Chain Road Truck	11/04/2026	19:40	6.6	69.1	4.2	Fresh	Meat	Kolkata	Ahmedabad	10.9	20.2	5	0	2	0	0
+TRK0440	Cold-Chain Road Truck	22/05/2025	21:45	14.8	26	5.5	At Risk	Pharmaceuticals	Jaipur	Bengaluru	55.7	29.1	24.2	0	9	0	0
+AIR0073	Air Freight	18/06/2026	15:00	-3.1	25.9	0.4	Fresh	Meat	Delhi Airport	Doha Airport	28.3	12.9	5.4	91.5	0	0	0
+SEA0145	Sea Freight	26/09/2024	3:20	0.1	94.5	2.7	Fresh	Seafood	Mundra Port	Shanghai Port	528.3	17.9	3.9	0	0	33.4	0
+TRK0951	Cold-Chain Road Truck	23/09/2025	7:20	11.8	74.5	5.9	At Risk	Dairy	Ahmedabad	Lucknow	67.2	53.8	4.8	0	9	0	0
+AIR0283	Air Freight	23/06/2026	11:10	3.2	24.6	0.9	Fresh	Seafood	Bengaluru Airport	Doha Airport	28.4	17.4	3.6	86.6	0	0	0
+SEA0268	Sea Freight	31/07/2024	15:05	4.3	93.7	1.9	At Risk	Meat	Vizag Port	Los Angeles Port	583.5	26.5	5.4	0	0	27.9	0
+AIR0968	Air Freight	30/06/2024	19:45	-7.9	27.9	1.4	Spoiled	Seafood	Chennai Airport	Frankfurt Airport	47.9	96.9	2	80.1	0	0	0
+TRK0478	Cold-Chain Road Truck	17/10/2024	19:00	5.9	67.8	4.1	At Risk	Meat	Bhopal	Lucknow	32.4	25.9	4.9	0	5	0	0
+SEA0983	Sea Freight	24/11/2025	19:15	3.2	97.8	1.7	At Risk	Flowers	Chennai Port	Rotterdam Port	436.8	25.8	4.7	0	0	34.7	0
+SEA0067	Sea Freight	20/05/2025	17:25	2.1	96.4	1.2	Fresh	Seafood	Vizag Port	Colombo Port	457.7	23.4	2.9	0	0	31.4	0
+TRK0506	Cold-Chain Road Truck	11/08/2024	17:55	15.5	94.3	3.5	At Risk	Dairy	Chennai	Jaipur	14.7	38.6	4.5	0	3	0	0
+SEA0686	Sea Freight	31/03/2024	15:40	8.3	87.8	2.3	Fresh	Pharmaceuticals	Cochin Port	Jebel Ali Port	368.5	11.9	28	0	0	28.9	0
+RAIL0816	Intermodal Rail	04/05/2026	14:25	7.1	82	3.5	Fresh	Pharmaceuticals	Guwahati	Bengaluru	158	17	26.6	0	0	0	6
+AIR0390	Air Freight	02/11/2024	8:15	9.8	21.6	1.3	Fresh	Fruits	Chennai Airport	Singapore Airport	38.8	18	11	81.3	0	0	0
+SEA0294	Sea Freight	12/08/2026	14:45	9.9	78.6	0.9	Fresh	Fruits	Kandla Port	Hamburg Port	553.6	24.4	10	0	0	35.4	0
+TRK0230	Cold-Chain Road Truck	25/12/2025	23:45	7.2	91.7	7.2	At Risk	Vegetables	Hyderabad	Udaipur	69.7	54.2	6.6	0	11	0	0
+RAIL0681	Intermodal Rail	01/03/2025	10:45	4.5	47.4	4.3	Fresh	Flowers	Kolkata	Kochi	143.1	13.5	4.7	0	0	0	4.3
+TRK0078	Cold-Chain Road Truck	01/11/2025	21:30	22.1	89.7	2.1	At Risk	Fruits	Lucknow	Delhi	10.6	28	9.4	0	1	0	0
+RAIL0820	Intermodal Rail	06/02/2025	4:40	9.7	84	2.7	Fresh	Fruits	Guwahati	Chennai	145.5	15.4	11.2	0	0	0	3.1
+RAIL0730	Intermodal Rail	28/05/2025	7:40	7	84.6	1.7	Fresh	Flowers	Guwahati	Kochi	153.9	19.6	4.4	0	0	0	2.2
+RAIL0878	Intermodal Rail	02/08/2026	7:50	1.1	46.9	4.1	Fresh	Meat	Ahmedabad	Bengaluru	133.2	15.2	5.6	0	0	0	4.7
+AIR0658	Air Freight	13/07/2025	15:05	12.1	24	0.8	Fresh	Fruits	Hyderabad Airport	Doha Airport	40.9	21.3	10.2	81.9	0	0	0
+AIR0413	Air Freight	26/01/2026	17:40	3.2	32.5	0.5	At Risk	Vegetables	Hyderabad Airport	London Heathrow Airport	46.8	26	8.5	79	0	0	0
+SEA0666	Sea Freight	18/03/2025	10:50	10.7	99	1.6	Spoiled	Meat	Mumbai Port	Felixstowe Port	508.2	95.4	2.2	0	0	26.3	0
+SEA0716	Sea Freight	02/03/2024	21:30	4.3	98.1	2.1	Spoiled	Seafood	Cochin Port	Rotterdam Port	710.2	84.7	2.1	0	0	34.4	0
+TRK0434	Cold-Chain Road Truck	07/01/2024	17:20	1.8	59.3	3.2	Fresh	Pharmaceuticals	Bhopal	Nashik	27.7	14.3	27.3	0	3	0	0
+TRK0339	Cold-Chain Road Truck	29/08/2026	17:10	1.5	72.8	4.3	At Risk	Meat	Surat	Kolkata	44.4	33.3	4.7	0	7	0	0
+SEA0664	Sea Freight	20/02/2025	19:25	7.5	99	2.4	At Risk	Flowers	Vizag Port	Hamburg Port	548.9	32.5	4.2	0	0	33.6	0
+SEA0004	Sea Freight	16/12/2024	5:15	3.5	98.4	1	Fresh	Vegetables	Cochin Port	Felixstowe Port	639.1	22.3	8.9	0	0	31.6	0
+AIR0074	Air Freight	19/06/2026	12:30	8.5	25.9	0.2	Fresh	Pharmaceuticals	Delhi Airport	Hong Kong Airport	39.6	13.9	27.7	95.9	0	0	0
+RAIL0995	Intermodal Rail	18/02/2026	5:25	3.7	63.2	3.8	Fresh	Vegetables	Delhi	Nagpur	139.4	9.9	10	0	0	0	1.8
+SEA0718	Sea Freight	09/09/2025	2:45	3.2	99	1.1	Fresh	Seafood	Kolkata Port	Singapore Port	516.8	23.4	3.4	0	0	34.4	0
+RAIL0269	Intermodal Rail	21/03/2026	11:10	3.6	85.9	2.7	Fresh	Dairy	Mumbai	Kochi	162.8	22.2	5.8	0	0	0	4.5
+TRK0314	Cold-Chain Road Truck	21/01/2025	17:55	4.8	97.6	3.3	At Risk	Seafood	Delhi	Nashik	8.6	31	3.1	0	1	0	0
+TRK0502	Cold-Chain Road Truck	29/11/2025	22:35	-0.1	62.7	3.3	At Risk	Meat	Surat	Hyderabad	45.7	29.3	4.9	0	7	0	0
+RAIL0818	Intermodal Rail	17/06/2025	16:40	4.9	57.9	2.4	Fresh	Dairy	Chennai	Kochi	134	12.3	6.4	0	0	0	4.7
+TRK0155	Cold-Chain Road Truck	21/02/2024	2:40	17.4	36.2	6.4	At Risk	Pharmaceuticals	Udaipur	Chennai	59.5	35.8	22.8	0	8	0	0
+SEA0563	Sea Freight	19/01/2025	3:55	1.4	83.4	2.3	Fresh	Meat	Cochin Port	Colombo Port	409.6	12	5.4	0	0	34.7	0
+RAIL0495	Intermodal Rail	24/03/2024	16:20	2.3	49.5	3	Fresh	Dairy	Kolkata	Chennai	127.7	5.6	6.6	0	0	0	2.6
+AIR0955	Air Freight	15/02/2025	8:45	4.2	32.4	1.4	Fresh	Fruits	Delhi Airport	Doha Airport	38.4	16.9	11	96	0	0	0
+AIR0083	Air Freight	22/12/2025	6:45	-5.2	33.1	0.5	Fresh	Pharmaceuticals	Mumbai Airport	Frankfurt Airport	32.8	12.8	28.2	84	0	0	0
+SEA0182	Sea Freight	29/04/2024	2:35	5.4	99	1.8	At Risk	Flowers	Vizag Port	Felixstowe Port	706.7	32.9	4.2	0	0	29.6	0
+AIR0346	Air Freight	19/07/2024	19:50	1.8	36	0.6	Fresh	Dairy	Hyderabad Airport	Frankfurt Airport	33	16.2	6.2	73.6	0	0	0
+TRK0954	Cold-Chain Road Truck	04/07/2026	20:25	4.5	84.8	1.7	Fresh	Seafood	Lucknow	Bhopal	8.4	21.3	3.4	0	2	0	0
+RAIL0872	Intermodal Rail	16/01/2026	20:05	5.9	65.9	3.4	Fresh	Fruits	Chennai	Guwahati	143.7	20.7	10.9	0	0	0	8.2
+RAIL0302	Intermodal Rail	29/03/2025	8:10	14.2	69.7	3	Fresh	Fruits	Mumbai	Nagpur	150.2	22.8	9.9	0	0	0	7.9
+RAIL0787	Intermodal Rail	14/02/2026	4:40	1.4	59.2	3.3	Fresh	Meat	Ahmedabad	Jaipur	134.8	11.9	5.8	0	0	0	4.7
+SEA0486	Sea Freight	26/12/2024	10:55	3.7	86.5	0.7	Fresh	Pharmaceuticals	Vizag Port	Shanghai Port	409.1	11.6	28	0	0	38.1	0
+RAIL0249	Intermodal Rail	01/07/2026	10:35	3.2	59.5	2.6	Fresh	Meat	Guwahati	Bengaluru	164.1	19.5	5.2	0	0	0	5.3
+AIR0314	Air Freight	07/02/2024	11:25	4	16.5	1	Fresh	Vegetables	Hyderabad Airport	London Heathrow Airport	26.5	6	9.8	91.9	0	0	0
+RAIL0082	Intermodal Rail	16/03/2025	10:55	5.9	64.7	1.9	Fresh	Flowers	Mumbai	Nagpur	129.6	18.7	4.7	0	0	0	3
+RAIL0367	Intermodal Rail	26/01/2025	9:25	3.9	62.5	3.4	Fresh	Pharmaceuticals	Guwahati	Bengaluru	155.3	8.6	28.5	0	0	0	3.1
+AIR0484	Air Freight	10/05/2025	1:55	4.2	16	0.3	Fresh	Flowers	Bengaluru Airport	Hong Kong Airport	34.3	14.4	4.5	91.7	0	0	0
+AIR0790	Air Freight	26/02/2025	6:30	7.1	31.4	0.4	Fresh	Flowers	Bengaluru Airport	Frankfurt Airport	25.7	17.4	4.7	89.7	0	0	0
+RAIL0395	Intermodal Rail	23/01/2024	10:55	0.8	63.5	2.2	At Risk	Flowers	Kolkata	Guwahati	156.8	28.3	4.5	0	0	0	8.3
+SEA0561	Sea Freight	30/08/2024	0:45	4.4	99	1.3	Fresh	Pharmaceuticals	Cochin Port	Hamburg Port	565.6	16.3	26.9	0	0	37.5	0
+AIR0053	Air Freight	25/04/2026	2:45	-4.4	24.7	0.1	Spoiled	Seafood	Hyderabad Airport	Doha Airport	42	93.2	2.3	78.3	0	0	0
+AIR0155	Air Freight	29/07/2024	0:15	7.3	26.4	1.1	At Risk	Vegetables	Delhi Airport	Dubai Airport	46.6	27.3	8.5	80.4	0	0	0
+SEA0790	Sea Freight	13/12/2025	19:00	13.1	98.8	3.4	Spoiled	Flowers	Kandla Port	Jebel Ali Port	574.6	86.8	2.1	0	0	29.6	0
+AIR0879	Air Freight	02/04/2026	8:30	10.8	8	0.9	Fresh	Vegetables	Kolkata Airport	Frankfurt Airport	30.7	19.4	8.7	78.5	0	0	0
+SEA0743	Sea Freight	05/06/2026	23:15	4.6	86.6	1.3	Fresh	Meat	Mumbai Port	Dubai Port	533.1	19.6	4.6	0	0	29.5	0
+RAIL0346	Intermodal Rail	16/06/2025	9:20	0.1	68.3	3.4	Fresh	Flowers	Mumbai	Guwahati	148.7	5.3	5	0	0	0	0.7
+RAIL0665	Intermodal Rail	18/04/2024	11:10	2.6	87.2	2	Spoiled	Meat	Chennai	Kochi	164.5	85	3	0	0	0	4.4
+AIR0355	Air Freight	13/06/2024	3:40	9.1	21.7	1	Fresh	Fruits	Hyderabad Airport	Amsterdam Airport	26	15.9	11.1	93.3	0	0	0
+SEA0614	Sea Freight	23/05/2025	2:20	6.1	86	2.2	Fresh	Pharmaceuticals	Vizag Port	Dubai Port	669.5	12.3	27.5	0	0	30.7	0
+TRK0245	Cold-Chain Road Truck	21/09/2024	21:05	4.4	73	3.9	At Risk	Seafood	Lucknow	Jaipur	28.1	28	3.3	0	5	0	0
+SEA0968	Sea Freight	02/01/2026	19:50	2.2	89.9	1.4	Fresh	Flowers	Mundra Port	Rotterdam Port	516.2	22	4.3	0	0	36.2	0
+RAIL0561	Intermodal Rail	16/03/2026	3:45	6.6	59.9	2.2	Fresh	Dairy	Guwahati	Jammu	156.2	16.7	5.7	0	0	0	2
+RAIL0736	Intermodal Rail	19/06/2026	16:10	7.5	56.2	1.7	Fresh	Dairy	Mumbai	Bengaluru	131.5	5.7	6.6	0	0	0	0.2
+TRK0073	Cold-Chain Road Truck	27/12/2024	22:45	-0.1	60.1	1.9	Fresh	Meat	Ahmedabad	Lucknow	12.1	8	5.7	0	2	0	0
+TRK0413	Cold-Chain Road Truck	04/05/2024	12:55	8.4	76.9	3.6	Fresh	Fruits	Ahmedabad	Hyderabad	9.8	13.2	11	0	1	0	0
+SEA0843	Sea Freight	07/10/2024	15:00	4.4	87.8	1.2	Fresh	Vegetables	Chennai Port	Singapore Port	393.9	9.3	9.2	0	0	35.6	0
+RAIL0547	Intermodal Rail	11/04/2026	0:25	7.9	87.7	2.4	Fresh	Dairy	Ahmedabad	Guwahati	134.6	20.3	5.8	0	0	0	0.9
+SEA0237	Sea Freight	30/05/2026	4:40	10.8	81.7	2.3	At Risk	Vegetables	Vizag Port	Shanghai Port	713.3	27.1	8.3	0	0	35.1	0
+AIR0312	Air Freight	15/08/2024	5:35	1.7	24.3	0.5	Fresh	Dairy	Hyderabad Airport	Frankfurt Airport	35.1	19.8	6.1	82.6	0	0	0
+AIR0700	Air Freight	12/10/2025	23:05	11.2	31.1	0.7	Fresh	Fruits	Delhi Airport	Singapore Airport	46.9	22.7	10.8	89.9	0	0	0
+TRK0346	Cold-Chain Road Truck	13/11/2025	19:45	2.8	66.5	4.7	At Risk	Dairy	Mumbai	Ahmedabad	44.9	27.6	5.8	0	6	0	0
+RAIL0349	Intermodal Rail	27/04/2025	23:05	6.3	62.6	3.2	Fresh	Vegetables	Mumbai	Jaipur	129.2	11.8	9.3	0	0	0	3.5
+SEA0397	Sea Freight	07/12/2024	17:30	12.7	74	2.1	Fresh	Fruits	Vizag Port	Hamburg Port	427.7	20.5	10.8	0	0	36.3	0
+TRK0369	Cold-Chain Road Truck	20/04/2024	4:10	5.3	47.4	3	Fresh	Pharmaceuticals	Delhi	Pune	40.4	22.9	25.7	0	7	0	0
+AIR0245	Air Freight	17/08/2025	19:00	10.4	8	0.9	Fresh	Fruits	Chennai Airport	Frankfurt Airport	33.5	20.4	10.6	83.5	0	0	0
+TRK0057	Cold-Chain Road Truck	11/06/2025	23:25	5.1	77.1	3.9	At Risk	Flowers	Nashik	Lucknow	43.1	42.8	3.7	0	6	0	0
+TRK0743	Cold-Chain Road Truck	10/09/2025	9:50	5.6	75.1	3.5	At Risk	Dairy	Surat	Delhi	30.8	26.8	5.9	0	4	0	0
+AIR0509	Air Freight	11/07/2024	17:55	3.3	34	0.5	Fresh	Fruits	Hyderabad Airport	Doha Airport	43.8	16.9	11	89.9	0	0	0
+SEA0829	Sea Freight	11/12/2025	8:45	13.5	88.4	1.7	Fresh	Fruits	Vizag Port	Singapore Port	398.8	24	10.2	0	0	35.7	0
+RAIL0480	Intermodal Rail	18/01/2026	4:25	0.6	62.3	2	Fresh	Seafood	Delhi	Jammu	133.1	13.5	4	0	0	0	4.9
+AIR0795	Air Freight	08/02/2026	12:55	2.1	24	0.6	Fresh	Seafood	Kolkata Airport	Doha Airport	36.5	16	3.8	95.2	0	0	0
+RAIL0193	Intermodal Rail	09/06/2026	5:55	8.1	52.4	3.1	Fresh	Flowers	Kolkata	Kochi	131.3	7.1	4.6	0	0	0	0.2
+SEA0155	Sea Freight	20/10/2025	23:35	5.9	99	2.2	Fresh	Pharmaceuticals	Chennai Port	Shanghai Port	403.7	16.1	27.2	0	0	25.8	0
+AIR0651	Air Freight	19/05/2025	12:00	11.9	44.5	1	Fresh	Fruits	Bengaluru Airport	Doha Airport	24.9	10.9	11.3	86	0	0	0
+RAIL0976	Intermodal Rail	08/07/2025	11:55	0.3	48.8	1.7	Fresh	Flowers	Guwahati	Jaipur	128.7	1.5	4.9	0	0	0	0.7
+AIR0573	Air Freight	14/09/2025	9:45	2.5	29.8	2.9	At Risk	Meat	Chennai Airport	Doha Airport	37.1	25.1	5.4	80.1	0	0	0
+RAIL0506	Intermodal Rail	19/09/2024	20:35	8.1	57.4	2.5	Fresh	Vegetables	Mumbai	Bengaluru	144	16.8	9.6	0	0	0	5.1
+RAIL0057	Intermodal Rail	07/12/2025	4:35	3.8	55	2.3	Fresh	Meat	Chennai	Jaipur	159	14.4	5.6	0	0	0	2.2
+AIR0163	Air Freight	13/03/2024	10:30	3.5	28.1	0.8	Fresh	Vegetables	Bengaluru Airport	Frankfurt Airport	38.8	19.5	8.7	85	0	0	0
+AIR0816	Air Freight	18/08/2025	4:50	-0.7	36.9	4.5	Fresh	Meat	Hyderabad Airport	Dubai Airport	36.2	20.5	5.5	88.7	0	0	0
+SEA0355	Sea Freight	19/01/2025	18:20	2.5	92.6	1.4	Fresh	Pharmaceuticals	Mundra Port	Hamburg Port	392.5	6.8	29.3	0	0	38.7	0
+RAIL0883	Intermodal Rail	25/08/2024	7:10	-0.9	47.4	3	Fresh	Seafood	Kolkata	Chennai	142.3	18.5	3.4	0	0	0	6.5
+TRK0725	Cold-Chain Road Truck	05/08/2025	2:20	8.8	74	6.1	At Risk	Flowers	Pune	Bhopal	65.8	49.7	4	0	9	0	0
+SEA0391	Sea Freight	13/12/2024	23:00	2.1	87.5	0.9	Fresh	Pharmaceuticals	Mundra Port	Shanghai Port	706.1	15.1	27.6	0	0	33.4	0
+AIR0846	Air Freight	02/01/2025	1:30	2.4	15.8	0.5	Fresh	Pharmaceuticals	Bengaluru Airport	Singapore Airport	44	8.5	28.3	92.7	0	0	0
+SEA0172	Sea Freight	07/02/2025	21:20	4.9	86.5	1.9	Fresh	Seafood	Kandla Port	Rotterdam Port	546.6	21.8	3.7	0	0	32.8	0
+TRK0141	Cold-Chain Road Truck	13/10/2025	6:25	14.5	81	3.9	At Risk	Fruits	Nashik	Delhi	33.3	36.4	9.3	0	6	0	0
+RAIL0970	Intermodal Rail	08/08/2025	2:10	3.8	75.4	2.8	Fresh	Flowers	Ahmedabad	Guwahati	141.2	24.1	4	0	0	0	5.4
+SEA0826	Sea Freight	27/08/2025	17:25	1.8	91.7	1.6	Fresh	Pharmaceuticals	Kolkata Port	Shanghai Port	648.8	16.5	27.6	0	0	34.3	0
+RAIL0827	Intermodal Rail	09/07/2024	17:50	8.8	54.4	1.4	Fresh	Fruits	Guwahati	Jammu	144	17	10.6	0	0	0	5.8
+SEA0283	Sea Freight	22/07/2026	19:50	5.6	88.6	1	Fresh	Pharmaceuticals	Cochin Port	Felixstowe Port	524.2	10.7	28.2	0	0	29.8	0
+RAIL0485	Intermodal Rail	13/03/2025	3:35	0.9	60.1	1.3	Fresh	Dairy	Guwahati	Jaipur	141.9	23	5.7	0	0	0	6.8
+RAIL0339	Intermodal Rail	14/08/2025	1:40	1.1	64.5	2	Fresh	Pharmaceuticals	Delhi	Bengaluru	129.9	6.9	29.1	0	0	0	6.5
+RAIL0717	Intermodal Rail	27/05/2024	23:10	7.6	52.2	2.7	Fresh	Flowers	Guwahati	Jaipur	120.6	15.2	4.5	0	0	0	6
+RAIL0710	Intermodal Rail	28/04/2025	2:20	0.5	54.5	0.7	Fresh	Seafood	Chennai	Guwahati	128.6	12.2	4	0	0	0	5.7
+SEA0495	Sea Freight	27/05/2024	0:20	1.9	82.6	1.8	Fresh	Seafood	Chennai Port	Los Angeles Port	414.7	19.3	4	0	0	37	0
+SEA0321	Sea Freight	26/08/2026	21:55	1.7	90.1	1.8	Fresh	Meat	Kandla Port	Singapore Port	395.6	17	5.4	0	0	35.7	0
+RAIL0128	Intermodal Rail	18/05/2026	4:05	10.3	72.1	1.8	Fresh	Fruits	Kolkata	Kochi	127	18.6	10.8	0	0	0	3.4
+SEA0725	Sea Freight	31/01/2024	6:20	10.7	94.7	1.4	Fresh	Vegetables	Cochin Port	Los Angeles Port	569.4	21.9	8.4	0	0	28.4	0
+TRK0410	Cold-Chain Road Truck	19/07/2025	10:30	1.9	53.6	3.2	Fresh	Pharmaceuticals	Indore	Mumbai	14.3	8.8	28.4	0	2	0	0
+RAIL0902	Intermodal Rail	11/06/2026	4:40	8.3	68.7	2.3	Fresh	Fruits	Guwahati	Bengaluru	143.9	14.4	10.8	0	0	0	2
+SEA0092	Sea Freight	13/02/2025	19:55	9.8	74.7	1.9	Fresh	Vegetables	Kolkata Port	Jebel Ali Port	641.8	23.4	8.5	0	0	35.8	0
+TRK0128	Cold-Chain Road Truck	14/01/2026	5:20	14.1	81.9	6.4	Spoiled	Seafood	Surat	Udaipur	53.9	55.2	2.3	0	9	0	0
+TRK0795	Cold-Chain Road Truck	04/12/2024	6:20	4.6	64.1	6.7	At Risk	Dairy	Chennai	Bengaluru	69.2	49.4	4.9	0	8	0	0
+SEA0624	Sea Freight	21/11/2025	4:20	14.3	76.1	1.1	Fresh	Pharmaceuticals	Cochin Port	Jebel Ali Port	520.7	19.6	26.3	0	0	30.6	0
+AIR0317	Air Freight	07/06/2026	4:50	2.5	31.3	0.1	Fresh	Meat	Chennai Airport	Amsterdam Airport	35.2	12.9	6	92.8	0	0	0
+RAIL0899	Intermodal Rail	01/07/2024	13:40	7.9	67.4	1.4	Spoiled	Seafood	Ahmedabad	Jammu	138.5	89.9	1.5	0	0	0	9.5
+TRK0989	Cold-Chain Road Truck	03/09/2025	2:45	12.3	95.3	5.7	At Risk	Fruits	Indore	Udaipur	22.6	32.8	9.5	0	4	0	0
+AIR0962	Air Freight	03/02/2025	14:20	0.3	15.3	1.1	Fresh	Vegetables	Hyderabad Airport	Dubai Airport	46	15.8	9	83.2	0	0	0
+AIR0902	Air Freight	23/04/2026	15:30	3.9	20.4	2.9	Fresh	Fruits	Hyderabad Airport	Dubai Airport	37.3	15	10.4	89.8	0	0	0
+AIR0650	Air Freight	18/07/2024	13:40	0	34.3	0.3	Fresh	Flowers	Hyderabad Airport	Dubai Airport	30.2	12	4.7	93	0	0	0
+AIR0524	Air Freight	01/04/2025	8:30	2.9	24.7	0.7	At Risk	Seafood	Hyderabad Airport	London Heathrow Airport	45.6	25.9	3.4	86.8	0	0	0
+AIR0478	Air Freight	02/01/2025	10:25	3.6	25.7	0.2	Fresh	Pharmaceuticals	Mumbai Airport	Frankfurt Airport	35.7	7.5	28.9	88.7	0	0	0
+TRK0479	Cold-Chain Road Truck	23/07/2026	23:55	0.8	83.5	5	At Risk	Seafood	Bengaluru	Lucknow	49.3	43.4	3.5	0	6	0	0
+SEA0951	Sea Freight	26/06/2026	16:50	12.1	89.5	1.9	Fresh	Pharmaceuticals	Cochin Port	Dubai Port	436.7	16.4	27.6	0	0	34.7	0
+TRK0025	Cold-Chain Road Truck	08/03/2025	19:00	6.8	71	6.5	At Risk	Dairy	Ahmedabad	Bengaluru	70.7	50.5	4.9	0	9	0	0
+TRK0321	Cold-Chain Road Truck	20/07/2024	14:20	5.3	34.9	3.5	Fresh	Meat	Delhi	Mumbai	29.2	21.4	5.1	0	3	0	0
+SEA0043	Sea Freight	11/04/2026	1:15	3.2	92.9	0.5	At Risk	Dairy	Cochin Port	Rotterdam Port	665.6	29.1	6.2	0	0	32.7	0
+AIR0335	Air Freight	02/02/2025	13:00	3.9	30.9	5.2	Fresh	Vegetables	Hyderabad Airport	Singapore Airport	36.2	16.5	8.6	90.4	0	0	0
+RAIL0294	Intermodal Rail	13/04/2024	9:35	8	64.5	4.7	Fresh	Dairy	Ahmedabad	Bengaluru	166.4	14	6.3	0	0	0	0.5
+SEA0981	Sea Freight	06/12/2024	15:55	4.7	82.8	1.4	At Risk	Flowers	Kandla Port	Felixstowe Port	687.5	34.3	3.9	0	0	40	0
+TRK0335	Cold-Chain Road Truck	05/02/2025	19:25	2.7	80.9	5.1	At Risk	Meat	Chennai	Bhopal	65.4	48.5	4.8	0	11	0	0
+TRK0131	Cold-Chain Road Truck	16/10/2024	10:10	8.7	91.9	3	At Risk	Flowers	Bengaluru	Nashik	9.5	35	3.9	0	2	0	0
+TRK0630	Cold-Chain Road Truck	20/06/2024	2:55	13.8	82.9	5.9	At Risk	Vegetables	Chennai	Hyderabad	65.9	44.5	7	0	9	0	0
+TRK0569	Cold-Chain Road Truck	15/09/2024	1:35	14.9	83.6	4.9	At Risk	Fruits	Bhopal	Kolkata	49.1	34.1	9.4	0	6	0	0
+SEA0473	Sea Freight	12/08/2025	11:10	0.4	99	1.6	Fresh	Meat	Kandla Port	Hamburg Port	437.2	16.1	5.3	0	0	29	0
+AIR0182	Air Freight	29/12/2025	8:25	9.1	24.4	0.7	At Risk	Vegetables	Delhi Airport	Singapore Airport	45.9	27.9	8.1	67.1	0	0	0
+SEA0970	Sea Freight	08/06/2025	8:50	4.8	91.4	1.3	Fresh	Pharmaceuticals	Mundra Port	Dubai Port	589.7	11.8	27.7	0	0	29.4	0
+SEA0544	Sea Freight	18/01/2025	14:55	10	90.1	2.1	Fresh	Fruits	Vizag Port	Singapore Port	419.7	20.2	9.7	0	0	29.6	0
+AIR0951	Air Freight	29/02/2024	4:40	-1.8	23.6	0.7	Fresh	Vegetables	Chennai Airport	Doha Airport	37.8	19	8.9	90.1	0	0	0
+SEA0583	Sea Freight	24/02/2024	19:00	3.3	96.1	2.8	Fresh	Seafood	Kolkata Port	Colombo Port	505.4	22.1	3.5	0	0	26.4	0
+RAIL0078	Intermodal Rail	07/06/2025	13:10	-1.3	90.6	1.5	At Risk	Seafood	Kolkata	Bengaluru	150.6	26.3	3.1	0	0	0	6.3
+AIR0105	Air Freight	23/10/2024	6:45	2.8	24.2	0.4	Fresh	Seafood	Hyderabad Airport	Amsterdam Airport	37.4	23.8	3.2	75.7	0	0	0
+AIR0174	Air Freight	14/10/2024	21:35	2.7	19.5	0.3	Fresh	Flowers	Hyderabad Airport	Dubai Airport	31.2	15.4	4.5	89.4	0	0	0
+RAIL0239	Intermodal Rail	30/07/2026	22:20	10.6	68.1	3.8	Fresh	Fruits	Ahmedabad	Kochi	127.5	15	10.7	0	0	0	4.5
+TRK0856	Cold-Chain Road Truck	04/09/2024	8:00	0.9	65.4	4.6	At Risk	Meat	Bhopal	Pune	51	35.6	4.6	0	6	0	0
+RAIL0520	Intermodal Rail	29/05/2024	11:30	3.6	70.2	2.4	Fresh	Vegetables	Chennai	Kochi	147.5	22.9	8.7	0	0	0	7.8
+RAIL0829	Intermodal Rail	31/12/2024	13:45	5.1	72.6	2.7	Fresh	Flowers	Chennai	Guwahati	157.3	23.9	3.9	0	0	0	4.1
+SEA0822	Sea Freight	01/02/2026	7:00	3.8	84.7	2.2	At Risk	Flowers	Kandla Port	Colombo Port	611.8	27.8	4.3	0	0	33.8	0
+AIR0677	Air Freight	03/02/2025	12:30	4.7	20.4	1.2	Fresh	Pharmaceuticals	Hyderabad Airport	Singapore Airport	36.9	10.7	28.4	86	0	0	0
+TRK0846	Cold-Chain Road Truck	10/07/2024	19:20	5.7	75.1	5.2	At Risk	Flowers	Udaipur	Jaipur	24.9	29.9	4.1	0	5	0	0
+RAIL0486	Intermodal Rail	03/07/2025	4:05	4.3	42.3	1.9	Fresh	Dairy	Delhi	Guwahati	151.4	16.7	6.1	0	0	0	4.3
+SEA0976	Sea Freight	10/10/2025	10:00	5.3	85.5	2	Fresh	Vegetables	Cochin Port	Colombo Port	683.4	20.2	8.4	0	0	30.2	0
+RAIL0414	Intermodal Rail	01/01/2024	10:20	2.8	30	2	Fresh	Dairy	Guwahati	Bengaluru	137.4	8.6	6.9	0	0	0	5.5
+AIR0192	Air Freight	25/06/2025	16:15	-2.9	14.2	0.6	Fresh	Seafood	Chennai Airport	Singapore Airport	33.2	24.4	3.5	84.1	0	0	0
+RAIL0131	Intermodal Rail	05/01/2024	9:10	7.8	81.1	2	At Risk	Vegetables	Kolkata	Nagpur	149.8	25.3	8	0	0	0	4.6
+TRK0071	Cold-Chain Road Truck	29/07/2025	14:20	18.9	77.5	4.2	At Risk	Fruits	Bengaluru	Udaipur	40.1	41.3	8.6	0	5	0	0
+TRK0555	Cold-Chain Road Truck	18/01/2026	23:05	7.2	66.2	4.9	At Risk	Dairy	Nashik	Indore	53.9	40.9	5.1	0	8	0	0
+RAIL0002	Intermodal Rail	20/07/2024	1:15	1.1	30	3.2	Fresh	Meat	Kolkata	Bengaluru	162.4	1	5.8	0	0	0	3
+AIR0624	Air Freight	13/05/2025	17:25	-2.3	35.5	0.4	Fresh	Meat	Delhi Airport	Amsterdam Airport	33.6	15.4	5.8	99	0	0	0
+TRK0509	Cold-Chain Road Truck	19/04/2026	13:00	5.7	65.6	4.3	Fresh	Dairy	Nashik	Jaipur	33.6	23.9	6	0	6	0	0
+AIR0836	Air Freight	25/03/2025	20:55	6.3	27.8	4.6	Fresh	Flowers	Chennai Airport	Singapore Airport	46.3	23.4	4.8	91.2	0	0	0
+AIR0480	Air Freight	26/06/2024	19:15	2.5	22.3	1.2	Fresh	Flowers	Mumbai Airport	London Heathrow Airport	41.4	23.6	4.7	73.8	0	0	0
+SEA0759	Sea Freight	13/08/2024	11:15	5.6	74.9	2.3	Fresh	Flowers	Kandla Port	Felixstowe Port	415.8	15.8	4.9	0	0	32.3	0
+TRK0123	Cold-Chain Road Truck	16/02/2025	11:40	7.3	84.4	2.3	At Risk	Flowers	Mumbai	Kolkata	13.9	27.4	4.1	0	3	0	0
+TRK0373	Cold-Chain Road Truck	24/06/2026	5:35	1.4	96.3	7.1	At Risk	Fruits	Indore	Pune	69.8	45.6	7.6	0	14	0	0
+AIR0614	Air Freight	04/01/2025	18:20	3.7	44.3	1.1	Fresh	Pharmaceuticals	Chennai Airport	Frankfurt Airport	30	21.1	26.5	87.7	0	0	0
+TRK0976	Cold-Chain Road Truck	04/11/2025	5:35	8.2	81.5	6.4	Spoiled	Seafood	Bhopal	Bengaluru	61.3	82.8	2.1	0	9	0	0
+RAIL0369	Intermodal Rail	20/04/2025	18:00	9.4	49.9	2.6	Fresh	Fruits	Ahmedabad	Jammu	147.7	11.7	11.1	0	0	0	5.3
+TRK0527	Cold-Chain Road Truck	27/08/2026	5:25	13.3	90.4	5.6	At Risk	Flowers	Indore	Ahmedabad	30	45.6	3.7	0	5	0	0
+SEA0569	Sea Freight	21/11/2024	15:45	6.4	81.7	1.1	Fresh	Dairy	Cochin Port	Colombo Port	556.1	22	6.6	0	0	34.8	0
+AIR0145	Air Freight	08/12/2024	13:35	2.8	29.8	0.9	Fresh	Pharmaceuticals	Kolkata Airport	Amsterdam Airport	39	14.1	27.8	84.3	0	0	0
+RAIL0683	Intermodal Rail	08/12/2024	8:45	10.9	73.1	3.2	Fresh	Vegetables	Delhi	Bengaluru	157.3	20.1	9.2	0	0	0	1.1
+SEA0685	Sea Freight	02/12/2025	12:45	7.6	97.2	1.8	Spoiled	Seafood	Kolkata Port	Singapore Port	710	97.1	1.5	0	0	40	0
+AIR0123	Air Freight	01/05/2025	1:00	6.2	34.3	1.4	Fresh	Vegetables	Mumbai Airport	Dubai Airport	32.3	12.5	9	88.4	0	0	0
+AIR0817	Air Freight	05/04/2024	22:40	3.8	20.7	0.2	Fresh	Meat	Kolkata Airport	Hong Kong Airport	29.3	10.9	5.8	85.1	0	0	0
+SEA0952	Sea Freight	12/04/2026	5:40	4.3	91.9	1.5	Spoiled	Dairy	Vizag Port	Colombo Port	715.5	94.8	3	0	0	38.3	0
+TRK0689	Cold-Chain Road Truck	02/11/2025	4:00	3.6	56.9	5.3	At Risk	Vegetables	Jaipur	Indore	58.8	32.5	7.9	0	10	0	0
+AIR0294	Air Freight	27/04/2026	9:30	-3.1	18.3	0.7	Fresh	Flowers	Delhi Airport	London Heathrow Airport	42	21.3	4.4	80.8	0	0	0
+TRK0480	Cold-Chain Road Truck	11/02/2024	15:40	12.1	73.1	6	At Risk	Meat	Indore	Ahmedabad	57.3	48.7	4.1	0	9	0	0
+SEA0405	Sea Freight	17/08/2024	17:50	14.5	86.6	1.6	Fresh	Pharmaceuticals	Kandla Port	Rotterdam Port	436	19.4	26	0	0	36.9	0
+TRK0843	Cold-Chain Road Truck	14/09/2024	7:20	13.9	92.6	7.2	At Risk	Fruits	Pune	Jaipur	68.9	45.8	8.6	0	8	0	0
+SEA0345	Sea Freight	10/02/2025	9:10	13.5	79.1	5.3	Fresh	Fruits	Kandla Port	Los Angeles Port	652.4	23	11.2	0	0	26.4	0
+TRK0559	Cold-Chain Road Truck	13/11/2024	11:35	5.9	69.3	3.1	Fresh	Meat	Kolkata	Chennai	19.1	20.6	5.1	0	3	0	0
+RAIL0954	Intermodal Rail	12/05/2024	12:25	2.3	69.8	2.5	Fresh	Flowers	Mumbai	Jaipur	137.5	12.9	5	0	0	0	2
+SEA0086	Sea Freight	01/02/2024	4:15	7.6	99	1.8	At Risk	Pharmaceuticals	Kolkata Port	Hamburg Port	700.2	25.4	25.9	0	0	29.9	0
+SEA0817	Sea Freight	22/05/2025	22:00	10.6	98.7	0.9	Fresh	Fruits	Chennai Port	Dubai Port	449.5	19.2	10.6	0	0	31.5	0
+RAIL0509	Intermodal Rail	17/03/2024	5:10	-3.9	54.7	1.5	Fresh	Meat	Kolkata	Nagpur	146.5	14.6	5.8	0	0	0	8.3
+RAIL0390	Intermodal Rail	12/08/2026	17:05	8.3	63	3	Fresh	Vegetables	Guwahati	Chennai	129.3	7.8	9.4	0	0	0	3
+TRK0274	Cold-Chain Road Truck	08/11/2025	11:50	0.7	89.3	4.9	At Risk	Vegetables	Ahmedabad	Nashik	40.6	27.2	7.9	0	7	0	0
+SEA0083	Sea Freight	15/12/2025	15:45	15.5	88	1.7	Fresh	Fruits	Mundra Port	Los Angeles Port	361.4	19.9	10.3	0	0	33.1	0
+TRK0616	Cold-Chain Road Truck	08/07/2026	19:30	10	89.1	2.7	Fresh	Vegetables	Jaipur	Kolkata	23.2	24.4	8.5	0	3	0	0
+TRK0542	Cold-Chain Road Truck	05/11/2024	3:10	0.7	42.7	3.4	Fresh	Vegetables	Hyderabad	Mumbai	33.8	20.4	7.9	0	4	0	0
+AIR0334	Air Freight	10/01/2025	17:05	2.7	26.1	0.9	Fresh	Seafood	Hyderabad Airport	Singapore Airport	26.1	11.3	4	84.7	0	0	0
+TRK0349	Cold-Chain Road Truck	22/09/2024	11:00	2.4	64.5	3.3	Fresh	Meat	Bengaluru	Mumbai	14.5	18.8	5.3	0	2	0	0
+AIR0463	Air Freight	24/04/2026	17:30	9.1	17.1	1.3	Fresh	Fruits	Mumbai Airport	Singapore Airport	31.3	15	10.2	86.3	0	0	0
+SEA0784	Sea Freight	06/03/2025	5:55	5.3	99	2.8	Fresh	Pharmaceuticals	Mumbai Port	Rotterdam Port	632	13.7	27.6	0	0	27.9	0
+AIR0319	Air Freight	14/09/2025	1:15	9.9	26.8	1.2	Fresh	Vegetables	Chennai Airport	Doha Airport	32.9	18	9	79.2	0	0	0
+TRK0182	Cold-Chain Road Truck	02/01/2024	1:10	4.4	92.7	6.5	Spoiled	Flowers	Jaipur	Hyderabad	63.2	55.4	3.9	0	12	0	0
+TRK0573	Cold-Chain Road Truck	20/05/2025	16:25	0.4	87.2	6	Spoiled	Seafood	Mumbai	Nashik	67.7	79.4	2.6	0	10	0	0
+RAIL0274	Intermodal Rail	31/08/2024	17:20	3.6	41.5	2.3	Fresh	Meat	Kolkata	Chennai	136.8	12.2	5.6	0	0	0	5.9
+AIR0635	Air Freight	10/12/2024	18:40	5.6	28.7	0.9	Fresh	Flowers	Delhi Airport	Amsterdam Airport	24.5	17.1	4.7	93.8	0	0	0
+SEA0520	Sea Freight	09/08/2026	11:20	12.1	92.5	1.6	Fresh	Fruits	Mundra Port	Felixstowe Port	373.5	20.4	10.8	0	0	34.6	0
+TRK0179	Cold-Chain Road Truck	30/01/2026	8:20	15	79.4	5.4	Spoiled	Flowers	Lucknow	Surat	55.8	78.8	2.5	0	7	0	0
+SEA0359	Sea Freight	24/05/2024	5:55	7.7	85.6	2.1	Fresh	Seafood	Chennai Port	Rotterdam Port	384.7	24.8	3.6	0	0	28.6	0
+RAIL0319	Intermodal Rail	22/10/2024	18:55	6.8	86	4.7	Fresh	Flowers	Kolkata	Bengaluru	151.4	18.1	4.9	0	0	0	2.4
+AIR0906	Air Freight	18/03/2024	6:05	-0.5	22.6	0.6	Fresh	Seafood	Chennai Airport	Hong Kong Airport	41.4	14.3	3.7	95.2	0	0	0
+AIR0872	Air Freight	09/02/2024	1:35	1	32.2	1.1	At Risk	Meat	Bengaluru Airport	Doha Airport	45.5	25	5.1	84	0	0	0
+TRK0879	Cold-Chain Road Truck	10/09/2025	14:05	10.2	61.5	4	At Risk	Dairy	Jaipur	Indore	29.6	34.2	5.1	0	5	0	0
+TRK0736	Cold-Chain Road Truck	08/03/2025	20:00	12.3	90.4	5.9	At Risk	Vegetables	Nashik	Delhi	57.9	38.9	7.4	0	7	0	0
+SEA0230	Sea Freight	26/04/2026	6:10	2.3	87.1	1.9	Fresh	Pharmaceuticals	Mundra Port	Shanghai Port	656.7	14.5	27.4	0	0	31.8	0
+TRK0547	Cold-Chain Road Truck	07/07/2024	7:45	1.6	79.8	3.4	Fresh	Pharmaceuticals	Bengaluru	Nashik	33.6	15.6	27.1	0	5	0	0
+TRK0011	Cold-Chain Road Truck	31/07/2026	7:25	2.7	56.9	5	Fresh	Pharmaceuticals	Jaipur	Udaipur	23.8	17.3	26.7	0	4	0	0
+TRK0718	Cold-Chain Road Truck	11/02/2025	19:55	4.5	63.5	3.8	At Risk	Dairy	Kolkata	Nashik	32.4	25.9	5.8	0	4	0	0
+RAIL0104	Intermodal Rail	24/06/2024	14:25	3.9	78.8	2.9	Fresh	Vegetables	Ahmedabad	Chennai	124.8	18.9	8.3	0	0	0	6.9
+AIR0544	Air Freight	03/10/2025	15:20	4	25.4	0.1	Fresh	Pharmaceuticals	Delhi Airport	London Heathrow Airport	24.7	11.5	28.5	70.3	0	0	0
+SEA0816	Sea Freight	14/02/2026	19:20	5	93.4	2.2	At Risk	Seafood	Cochin Port	Hamburg Port	605.6	29.8	3.4	0	0	34.9	0
+TRK0390	Cold-Chain Road Truck	02/01/2024	8:20	3	86	3.7	At Risk	Seafood	Hyderabad	Jaipur	38.1	41.4	3.3	0	5	0	0
+TRK0475	Cold-Chain Road Truck	14/12/2024	7:50	3.3	80.8	4.1	Fresh	Seafood	Pune	Hyderabad	7.5	22.2	3.5	0	1	0	0
+RAIL0822	Intermodal Rail	07/08/2026	8:15	3.7	43.5	0.9	Fresh	Seafood	Mumbai	Jaipur	166.9	13.7	3.3	0	0	0	2
+TRK0239	Cold-Chain Road Truck	26/07/2024	20:00	8.2	74.7	5.9	At Risk	Flowers	Chennai	Pune	66.3	52	4	0	9	0	0
+TRK0983	Cold-Chain Road Truck	04/02/2025	5:35	6.6	81.1	6.8	Spoiled	Meat	Kolkata	Udaipur	65.4	83.6	3.3	0	11	0	0
+RAIL0071	Intermodal Rail	14/03/2024	22:05	2.6	92.4	2.6	Spoiled	Flowers	Kolkata	Kochi	145.9	84.8	2.2	0	0	0	5.9
+SEA0463	Sea Freight	04/07/2026	14:05	9.2	89.8	1.3	At Risk	Seafood	Vizag Port	Jebel Ali Port	573.5	27.7	3.6	0	0	29.9	0
+AIR0946	Air Freight	09/03/2025	12:45	2.8	36.7	1.4	Fresh	Dairy	Kolkata Airport	Doha Airport	39.1	20.3	6.6	86	0	0	0
+AIR0829	Air Freight	15/03/2025	12:35	1.6	39.4	0.7	Fresh	Meat	Hyderabad Airport	Amsterdam Airport	29.1	13.9	5.2	84.4	0	0	0
+RAIL0432	Intermodal Rail	30/11/2024	4:35	7.2	50.7	2.6	Fresh	Pharmaceuticals	Kolkata	Jammu	153.1	8.3	28.2	0	0	0	1.4
+TRK0730	Cold-Chain Road Truck	18/08/2024	12:40	6.1	62	1.8	Fresh	Pharmaceuticals	Bengaluru	Bhopal	3.1	7.3	28.7	0	1	0	0
+TRK0958	Cold-Chain Road Truck	21/04/2024	22:10	18.6	64.5	6.9	At Risk	Pharmaceuticals	Jaipur	Udaipur	67.4	42.4	21.5	0	9	0	0
+TRK0955	Cold-Chain Road Truck	24/03/2025	20:40	0.4	69.7	3	Fresh	Meat	Udaipur	Bhopal	15.4	20.9	5.3	0	2	0	0
+RAIL0133	Intermodal Rail	12/08/2026	20:35	-3.5	76.1	3	Fresh	Meat	Mumbai	Guwahati	143.2	22.6	5.4	0	0	0	8.5
+SEA0967	Sea Freight	19/10/2024	23:30	2.2	98.3	1.8	Fresh	Pharmaceuticals	Mumbai Port	Shanghai Port	636	24.3	25.8	0	0	37.8	0
+SEA0088	Sea Freight	24/02/2025	8:45	11.4	86.2	1.5	Fresh	Vegetables	Vizag Port	Colombo Port	681.3	21.9	9	0	0	28.9	0
+RAIL0118	Intermodal Rail	02/05/2024	2:45	6.9	65.8	2.4	Fresh	Vegetables	Mumbai	Bengaluru	158.4	18.9	8.4	0	0	0	4.1
+AIR0290	Air Freight	27/09/2024	22:55	1.2	37.1	1.1	Fresh	Meat	Hyderabad Airport	Hong Kong Airport	29.4	16.7	5.4	79.1	0	0	0
+AIR0133	Air Freight	19/08/2024	16:15	3.2	22.5	4.5	Fresh	Dairy	Kolkata Airport	Hong Kong Airport	47	19	6.4	89.9	0	0	0
+AIR0146	Air Freight	28/01/2025	12:50	3.4	18.3	5.4	Fresh	Pharmaceuticals	Bengaluru Airport	Amsterdam Airport	25.2	4.6	29.2	76.8	0	0	0
+RAIL0686	Intermodal Rail	14/08/2024	17:20	2	55.1	1.7	Fresh	Meat	Delhi	Jammu	131.3	13.4	5.5	0	0	0	4
+SEA0840	Sea Freight	16/06/2025	12:05	3.7	93.2	1.4	Fresh	Dairy	Kandla Port	Jebel Ali Port	621.2	23.3	6.2	0	0	26.5	0
+TRK0968	Cold-Chain Road Truck	23/01/2025	23:15	1	31	6.2	At Risk	Fruits	Indore	Chennai	63	27.3	8.9	0	9	0	0
+SEA0484	Sea Freight	15/04/2025	13:30	14.5	99	2.5	Fresh	Fruits	Cochin Port	Dubai Port	389.2	21.3	10.5	0	0	29.3	0
+RAIL0182	Intermodal Rail	28/02/2025	14:15	3.5	95	2	Fresh	Dairy	Mumbai	Nagpur	147.4	21.5	6.5	0	0	0	3.4
+SEA0741	Sea Freight	13/01/2024	13:15	6.2	87.4	1.8	Fresh	Vegetables	Kolkata Port	Rotterdam Port	463.7	17.4	8.7	0	0	30.8	0
+RAIL0977	Intermodal Rail	17/04/2024	22:50	2.4	45.7	3.5	Fresh	Pharmaceuticals	Delhi	Bengaluru	164.5	16.1	27	0	0	0	7
+TRK0107	Cold-Chain Road Truck	09/08/2024	19:10	12.4	78.2	5.3	At Risk	Fruits	Surat	Jaipur	47.2	33.2	9.5	0	6	0	0
+RAIL0510	Intermodal Rail	12/10/2024	22:45	4.6	58.2	2	Fresh	Vegetables	Ahmedabad	Chennai	141.2	13.2	9.3	0	0	0	5.6
+AIR0956	Air Freight	26/08/2024	4:05	3.8	13.6	0.8	Fresh	Flowers	Chennai Airport	Amsterdam Airport	30.4	11	4.2	88.6	0	0	0
+AIR0263	Air Freight	14/09/2024	0:30	2.8	33.7	0.7	Fresh	Meat	Chennai Airport	Amsterdam Airport	28.8	19.6	5.7	76.9	0	0	0
+SEA0955	Sea Freight	02/11/2024	3:20	3.4	72.5	0.9	At Risk	Meat	Kolkata Port	Hamburg Port	682.6	25.2	4.7	0	0	33.7	0
+TRK0423	Cold-Chain Road Truck	18/11/2024	18:40	10.9	86.7	4.2	Fresh	Vegetables	Kolkata	Delhi	28.3	24.7	8.4	0	5	0	0
+SEA0121	Sea Freight	14/01/2024	3:30	0.5	86.6	1.5	Fresh	Seafood	Mundra Port	Jebel Ali Port	577.8	16	3.3	0	0	27.8	0
+AIR0318	Air Freight	29/08/2026	10:00	3.3	36.2	0.6	Fresh	Pharmaceuticals	Bengaluru Airport	Hong Kong Airport	44.9	15.5	27.3	83.4	0	0	0
+RAIL0716	Intermodal Rail	18/03/2026	22:50	2.1	63.9	3.9	Fresh	Dairy	Chennai	Nagpur	139.7	22.1	6.5	0	0	0	5.6
+AIR0239	Air Freight	25/08/2024	4:15	1.7	30.2	0.9	Fresh	Seafood	Chennai Airport	Frankfurt Airport	32.3	20.8	3.5	87	0	0	0
+SEA0745	Sea Freight	10/10/2025	5:30	4.7	93.3	0.6	Fresh	Pharmaceuticals	Kolkata Port	Rotterdam Port	549.9	18.5	26.4	0	0	29.2	0
+TRK0355	Cold-Chain Road Truck	06/05/2025	15:30	14.3	62.8	4.6	At Risk	Pharmaceuticals	Udaipur	Bengaluru	36.7	27.1	24.6	0	5	0	0
+TRK0800	Cold-Chain Road Truck	04/09/2024	9:50	14.9	78.4	4.6	At Risk	Dairy	Kolkata	Lucknow	30.4	39.4	4.6	0	4	0	0
+TRK0319	Cold-Chain Road Truck	06/09/2024	2:00	9.7	42.9	0.2	Fresh	Pharmaceuticals	Kolkata	Lucknow	2.1	9	28.3	0	1	0	0
+SEA0650	Sea Freight	24/08/2025	22:30	0.3	90.3	1	Fresh	Meat	Mundra Port	Rotterdam Port	546.7	17.1	5.8	0	0	32.1	0
+TRK0909	Cold-Chain Road Truck	08/06/2025	0:00	12.5	84.7	3.5	At Risk	Dairy	Hyderabad	Jaipur	15.3	31.5	5.1	0	3	0	0
+RAIL0107	Intermodal Rail	28/10/2025	23:00	1.2	56.5	2.6	Fresh	Meat	Ahmedabad	Jammu	131.3	19.6	5.4	0	0	0	4.7
+AIR0800	Air Freight	08/07/2024	11:30	4.9	28.4	0.3	Fresh	Flowers	Mumbai Airport	Doha Airport	35.8	12.2	4.5	92.6	0	0	0
+RAIL0745	Intermodal Rail	09/08/2025	14:00	1.6	54.5	1.7	Fresh	Dairy	Guwahati	Chennai	120.6	11.1	6.9	0	0	0	2.2
+SEA0128	Sea Freight	16/02/2025	3:50	2.7	95.8	1.4	Spoiled	Meat	Cochin Port	Jebel Ali Port	705.6	83.5	2.8	0	0	29.6	0
+TRK0414	Cold-Chain Road Truck	24/07/2024	2:20	4.4	35.6	1.6	Fresh	Pharmaceuticals	Bengaluru	Surat	3.5	6.7	28.8	0	1	0	0
+AIR0473	Air Freight	05/10/2024	12:35	6.5	18	0.1	Fresh	Pharmaceuticals	Delhi Airport	Singapore Airport	43	18.3	27.4	86.3	0	0	0
+TRK0635	Cold-Chain Road Truck	14/08/2025	0:55	16.8	74.9	5.1	At Risk	Flowers	Surat	Bhopal	44.2	53.6	3.1	0	7	0	0
+SEA0414	Sea Freight	15/01/2026	0:40	7	81	5	Fresh	Pharmaceuticals	Mundra Port	Colombo Port	469.5	15.4	26.9	0	0	30.7	0
+AIR0224	Air Freight	02/02/2026	3:00	-5	39.4	0.4	Fresh	Dairy	Hyderabad Airport	Amsterdam Airport	27.6	14	6.2	94.4	0	0	0
+RAIL0263	Intermodal Rail	08/06/2025	20:35	2.7	55	2.9	Fresh	Dairy	Guwahati	Bengaluru	137.4	12.4	6.5	0	0	0	4.9
+RAIL0664	Intermodal Rail	18/06/2024	5:05	5.3	46.8	3.3	Fresh	Dairy	Chennai	Nagpur	151.9	16.9	6	0	0	0	5.3
+AIR0141	Air Freight	27/06/2025	22:35	5.4	19.8	1.2	Fresh	Vegetables	Bengaluru Airport	Frankfurt Airport	44.4	20.1	9	82.6	0	0	0
+AIR0114	Air Freight	09/05/2024	13:30	8.7	18.7	0.5	Fresh	Flowers	Mumbai Airport	London Heathrow Airport	44.1	24.4	4.4	88.7	0	0	0
+SEA0884	Sea Freight	03/12/2024	5:40	7.2	88.3	1.7	Fresh	Meat	Mumbai Port	Los Angeles Port	442.2	21.6	5.2	0	0	36.9	0
+SEA0249	Sea Freight	21/01/2024	7:00	3	93.6	1.1	Fresh	Dairy	Mundra Port	Dubai Port	441.7	23.8	6.4	0	0	36.7	0
+SEA0184	Sea Freight	05/08/2026	4:25	1.6	99	1.8	Fresh	Seafood	Chennai Port	Jebel Ali Port	386.4	19.7	3.5	0	0	27.2	0
+SEA0705	Sea Freight	02/08/2026	8:40	4.8	74.6	1.4	Fresh	Flowers	Mundra Port	Los Angeles Port	392.8	11.1	3.9	0	0	25.6	0
+RAIL0237	Intermodal Rail	29/11/2025	2:05	13.2	83.5	2.5	At Risk	Fruits	Kolkata	Guwahati	140.4	26.9	10.2	0	0	0	6.6
+TRK0544	Cold-Chain Road Truck	13/12/2025	23:05	5.1	25	4.2	At Risk	Seafood	Chennai	Indore	58.5	36.1	3.6	0	7	0	0
+SEA0302	Sea Freight	20/09/2024	6:55	4.3	93.4	1.2	Fresh	Pharmaceuticals	Kandla Port	Felixstowe Port	579.2	14.2	27.6	0	0	36.1	0
+SEA0369	Sea Freight	14/07/2024	8:40	1.3	93.6	2.8	At Risk	Meat	Mumbai Port	Colombo Port	648.8	29.4	5.1	0	0	32.8	0
+TRK0636	Cold-Chain Road Truck	25/04/2025	4:45	7.2	67.2	3.2	Fresh	Meat	Kolkata	Mumbai	5.1	22.8	4.9	0	1	0	0
+SEA0883	Sea Freight	07/09/2024	0:30	19	82.6	7.1	Fresh	Fruits	Kolkata Port	Felixstowe Port	462.3	22.4	10.4	0	0	36.1	0
+SEA0373	Sea Freight	22/07/2025	4:10	1.2	84.7	4.5	Fresh	Meat	Kolkata Port	Hamburg Port	502.9	23.2	4.9	0	0	33.3	0
+RAIL0141	Intermodal Rail	25/05/2024	17:55	4.3	53.3	2.2	Fresh	Seafood	Kolkata	Kochi	129.7	21.3	3.3	0	0	0	5.6
+AIR0730	Air Freight	20/07/2026	12:05	14.9	12.6	0.8	At Risk	Fruits	Hyderabad Airport	Amsterdam Airport	44.8	27	10.2	73.1	0	0	0
+AIR0071	Air Freight	14/07/2024	10:10	1.2	21	0.8	Fresh	Seafood	Chennai Airport	Amsterdam Airport	36.6	14.1	4	87	0	0	0
+SEA0555	Sea Freight	01/05/2024	1:30	1.7	86.7	1.7	Fresh	Dairy	Vizag Port	Los Angeles Port	581.2	22.4	5.5	0	0	32.9	0
+RAIL0088	Intermodal Rail	23/02/2025	18:00	2.4	60.1	3.6	Fresh	Dairy	Mumbai	Kochi	155	17.1	6.4	0	0	0	2
+SEA0616	Sea Freight	10/09/2025	11:40	9.9	82.5	2.8	At Risk	Dairy	Chennai Port	Dubai Port	612.3	30.7	5.3	0	0	32.5	0
+AIR0118	Air Freight	01/06/2025	20:05	5.7	39.1	1.5	Fresh	Vegetables	Bengaluru Airport	Hong Kong Airport	28.5	7.1	9.6	93.6	0	0	0
+AIR0636	Air Freight	12/01/2024	7:00	0.4	25.2	1	Fresh	Seafood	Bengaluru Airport	Singapore Airport	27.9	18.2	3.6	79.2	0	0	0
+SEA0938	Sea Freight	09/04/2025	9:15	3.3	75.5	1.7	Fresh	Dairy	Mumbai Port	Los Angeles Port	673.9	22.1	5.8	0	0	34.2	0
+AIR0743	Air Freight	05/12/2025	9:20	5.5	39	0.7	Fresh	Vegetables	Delhi Airport	Amsterdam Airport	32.9	14	9.1	96.6	0	0	0
+SEA0200	Sea Freight	04/05/2025	16:25	4.5	88.9	2.8	Fresh	Seafood	Chennai Port	Los Angeles Port	362.3	21.2	3.7	0	0	33.2	0
+RAIL0826	Intermodal Rail	15/02/2025	13:10	-5	42	2.2	Fresh	Meat	Kolkata	Guwahati	154.4	14.4	5.6	0	0	0	9.2
+TRK0816	Cold-Chain Road Truck	16/04/2025	15:40	3.4	90.7	4.4	At Risk	Flowers	Ahmedabad	Udaipur	41.4	42.8	3.7	0	6	0	0
+SEA0245	Sea Freight	13/08/2024	23:00	14.3	65.8	1.4	At Risk	Vegetables	Chennai Port	Shanghai Port	660.3	30.5	8	0	0	33.5	0
+RAIL0377	Intermodal Rail	14/12/2024	2:00	8.8	42.9	1	Fresh	Flowers	Guwahati	Jammu	145.5	8.9	4.9	0	0	0	0.2
+SEA0240	Sea Freight	15/03/2025	5:40	4.2	95.8	1.3	At Risk	Meat	Mundra Port	Hamburg Port	551.7	30.4	4.2	0	0	38.5	0
+RAIL0381	Intermodal Rail	10/04/2026	8:20	3.3	61.3	2.9	Fresh	Flowers	Delhi	Guwahati	132.6	16.5	4.4	0	0	0	2.9
+RAIL0307	Intermodal Rail	16/08/2025	3:30	1.8	80.7	2.8	Fresh	Seafood	Delhi	Jaipur	134.1	21.9	3.5	0	0	0	4.2
+AIR0437	Air Freight	26/05/2026	3:50	9.9	31.6	0.7	Fresh	Fruits	Chennai Airport	Hong Kong Airport	41	20.3	10.6	76.8	0	0	0
+RAIL0317	Intermodal Rail	02/08/2025	4:55	6.4	54.1	2.4	Fresh	Pharmaceuticals	Guwahati	Jaipur	152.4	13.9	27.3	0	0	0	5.5
+AIR0710	Air Freight	30/05/2024	7:40	1.4	23	0.8	Fresh	Meat	Hyderabad Airport	Doha Airport	47.4	18.4	5.6	85.2	0	0	0
+SEA0722	Sea Freight	03/12/2024	18:55	4.4	87.4	0.5	Fresh	Dairy	Chennai Port	Dubai Port	528.6	19	6.6	0	0	32.4	0
+RAIL0360	Intermodal Rail	27/03/2024	8:35	-1.9	60.6	2.7	Fresh	Meat	Mumbai	Jaipur	125.8	1	6	0	0	0	0.2
+RAIL0951	Intermodal Rail	03/01/2025	11:15	3.8	81.3	2.2	Fresh	Flowers	Delhi	Chennai	132	20.9	4.3	0	0	0	5
+AIR0733	Air Freight	09/08/2026	20:45	3.1	29.5	1.1	Fresh	Seafood	Mumbai Airport	Amsterdam Airport	43	20.9	3.4	89.3	0	0	0
+TRK0943	Cold-Chain Road Truck	08/10/2024	12:50	6.6	62.7	2.4	Fresh	Pharmaceuticals	Hyderabad	Delhi	5.4	10.4	28	0	1	0	0
+RAIL0879	Intermodal Rail	01/01/2024	2:35	2.4	51.3	2.1	Fresh	Seafood	Guwahati	Kochi	154.1	12.4	4	0	0	0	3.7
+AIR0230	Air Freight	26/03/2025	11:10	1.2	33.1	1.2	Fresh	Pharmaceuticals	Kolkata Airport	Amsterdam Airport	26.8	10.4	28.4	70.5	0	0	0
+AIR0043	Air Freight	22/09/2024	2:45	7.7	40.5	1.1	Fresh	Flowers	Bengaluru Airport	Dubai Airport	29.8	23.4	4.3	82.4	0	0	0
+AIR0666	Air Freight	20/03/2025	8:15	7.4	33.5	0.7	Spoiled	Flowers	Mumbai Airport	Doha Airport	35.8	85.3	2.9	84.7	0	0	0
+RAIL0345	Intermodal Rail	02/08/2026	9:00	3	51.1	2.2	Fresh	Dairy	Guwahati	Jammu	141.1	15.8	6.5	0	0	0	5
+AIR0127	Air Freight	18/11/2025	8:30	3.1	43.3	0.3	Fresh	Pharmaceuticals	Mumbai Airport	Dubai Airport	31.6	6.5	29.2	89.4	0	0	0
+SEA0906	Sea Freight	13/11/2025	11:25	0.1	86.8	1.1	Fresh	Meat	Kolkata Port	Los Angeles Port	394.5	8.1	5.3	0	0	30.7	0
+TRK0302	Cold-Chain Road Truck	03/04/2024	6:15	12.8	86.7	8.3	At Risk	Vegetables	Delhi	Indore	67.2	48.3	6.8	0	8	0	0
+SEA0386	Sea Freight	13/09/2025	1:35	7.3	86.9	2.6	At Risk	Flowers	Cochin Port	Shanghai Port	538	30.2	3.8	0	0	32.8	0
+SEA0695	Sea Freight	07/10/2025	22:10	9	85.3	4.3	At Risk	Fruits	Cochin Port	Los Angeles Port	611.4	26.9	9.8	0	0	36.2	0
+AIR0718	Air Freight	17/02/2024	3:05	7.3	30.3	0.5	At Risk	Vegetables	Hyderabad Airport	Frankfurt Airport	34.4	25.3	8.6	68.5	0	0	0
+AIR0787	Air Freight	05/08/2024	14:00	6.8	17.1	1.2	Fresh	Vegetables	Mumbai Airport	Amsterdam Airport	24.3	15.9	8.6	84.5	0	0	0
+RAIL0968	Intermodal Rail	03/07/2025	0:10	3.9	31.6	3.4	Fresh	Meat	Delhi	Nagpur	152.5	16.6	6	0	0	0	5.2
+TRK0381	Cold-Chain Road Truck	22/08/2024	18:40	1.2	81	5.5	At Risk	Seafood	Bhopal	Kolkata	38.9	30.6	3.3	0	7	0	0
+SEA0886	Sea Freight	11/01/2025	18:40	11.1	86.7	1.7	Spoiled	Flowers	Kolkata Port	Felixstowe Port	713.8	95.7	1.5	0	0	36.8	0
+RAIL0886	Intermodal Rail	24/05/2026	10:25	8.7	47.9	1.7	Fresh	Pharmaceuticals	Chennai	Kochi	135.7	4.6	28.9	0	0	0	1.1
+SEA0946	Sea Freight	12/08/2025	15:35	5.8	83.1	1.6	Fresh	Dairy	Mumbai Port	Shanghai Port	369.2	22.8	6.1	0	0	38.2	0
+RAIL0630	Intermodal Rail	25/01/2024	9:50	2.7	58.4	1.6	Fresh	Flowers	Ahmedabad	Guwahati	146.7	18.9	4	0	0	0	5.7
+AIR0722	Air Freight	21/04/2024	1:50	3.1	28.4	0.8	Fresh	Pharmaceuticals	Delhi Airport	Hong Kong Airport	40.3	13.8	27.6	87.4	0	0	0
+TRK0906	Cold-Chain Road Truck	12/04/2024	8:05	6.8	45.7	4.2	Fresh	Pharmaceuticals	Indore	Surat	27.9	12.6	27.7	0	4	0	0
+AIR0616	Air Freight	02/02/2025	19:50	8.6	32.2	1.3	Fresh	Pharmaceuticals	Hyderabad Airport	Doha Airport	43.9	20.1	27.1	88.4	0	0	0
+AIR0843	Air Freight	25/06/2026	5:40	4.7	34.2	2.5	At Risk	Meat	Kolkata Airport	Dubai Airport	42.6	27.3	5	91.1	0	0	0
+AIR0196	Air Freight	30/08/2025	1:15	9.1	27	1.3	Fresh	Vegetables	Bengaluru Airport	Amsterdam Airport	24.7	13.4	8.5	85.6	0	0	0
+RAIL0330	Intermodal Rail	22/06/2026	18:15	10.9	62	2.7	Fresh	Fruits	Ahmedabad	Chennai	129.3	11.3	11.3	0	0	0	3.9
+SEA0689	Sea Freight	19/04/2025	5:15	8.9	99	2	Fresh	Pharmaceuticals	Mumbai Port	Shanghai Port	437	17.7	26.9	0	0	37.8	0
+AIR0818	Air Freight	24/12/2025	5:35	4.8	47.3	4.4	Fresh	Pharmaceuticals	Kolkata Airport	Doha Airport	29.1	11.4	28.1	85.4	0	0	0
+RAIL0423	Intermodal Rail	02/03/2024	6:50	9.7	66	1.9	Fresh	Fruits	Mumbai	Jaipur	138.2	15	10.9	0	0	0	4.9
+SEA0986	Sea Freight	21/06/2026	19:00	7	93.9	1.2	Fresh	Pharmaceuticals	Mumbai Port	Colombo Port	615.8	18.2	26.3	0	0	33.2	0
+AIR0506	Air Freight	26/11/2024	2:15	3	8	1.2	Fresh	Seafood	Bengaluru Airport	London Heathrow Airport	43.2	19	3.8	92.2	0	0	0
+AIR0333	Air Freight	22/01/2024	6:50	9.7	20	0.9	Fresh	Vegetables	Hyderabad Airport	Doha Airport	31	14	8.9	85.8	0	0	0
+TRK0519	Cold-Chain Road Truck	20/10/2025	9:05	10.3	45.7	2.3	Fresh	Vegetables	Mumbai	Indore	4	11.6	9.2	0	1	0	0
+SEA0201	Sea Freight	01/01/2024	22:55	6.2	91.1	1	At Risk	Flowers	Mundra Port	Colombo Port	571.6	29.7	4.1	0	0	35.5	0
+SEA0479	Sea Freight	29/01/2026	18:25	4.8	91	1.9	Fresh	Seafood	Cochin Port	Hamburg Port	361.2	18.6	3	0	0	34.7	0
+AIR0731	Air Freight	08/06/2026	12:15	7.5	24.4	0.5	At Risk	Fruits	Kolkata Airport	Doha Airport	38.4	26.5	9.8	67.9	0	0	0
+AIR0088	Air Freight	05/07/2024	3:25	10.7	31.1	0.2	Fresh	Fruits	Delhi Airport	Dubai Airport	27.5	16	10.6	88.3	0	0	0
+SEA0040	Sea Freight	08/10/2024	21:45	3.9	94.9	0.8	Fresh	Dairy	Kolkata Port	Dubai Port	366.7	19.4	5.8	0	0	31.3	0
+SEA0603	Sea Freight	19/03/2025	14:15	12.4	90.8	2	Fresh	Pharmaceuticals	Kolkata Port	Shanghai Port	408.7	20.2	26.1	0	0	36.8	0
+TRK0883	Cold-Chain Road Truck	11/04/2024	4:15	11.3	79.2	3.8	Fresh	Fruits	Pune	Mumbai	27.9	22.8	10.3	0	5	0	0
+SEA0104	Sea Freight	03/06/2026	1:30	1.8	80.4	0.5	Fresh	Seafood	Kandla Port	Rotterdam Port	470.2	12.7	4	0	0	30.4	0
+AIR0725	Air Freight	26/07/2025	15:35	7.6	37.6	0.8	Fresh	Fruits	Mumbai Airport	Amsterdam Airport	26.1	17.2	11.3	81.4	0	0	0
+SEA0317	Sea Freight	12/08/2025	22:10	4.2	94.4	1.9	At Risk	Meat	Cochin Port	Dubai Port	546.6	27.9	4.7	0	0	33.2	0
+SEA0700	Sea Freight	24/07/2026	6:40	4.1	99	2	At Risk	Seafood	Kolkata Port	Shanghai Port	468	28.9	3.3	0	0	30.6	0
+RAIL0011	Intermodal Rail	24/07/2025	5:40	2	73.7	0.6	Fresh	Dairy	Guwahati	Kochi	164	18.3	6	0	0	0	1.9
+RAIL0655	Intermodal Rail	03/04/2024	17:55	12.1	68.4	4	Fresh	Fruits	Mumbai	Jammu	121.5	13.3	11.5	0	0	0	2.8
+TRK0655	Cold-Chain Road Truck	04/08/2025	23:40	11.1	91.5	6.2	At Risk	Fruits	Indore	Bengaluru	65.7	50	8.3	0	10	0	0
+SEA0872	Sea Freight	17/06/2024	23:45	10.2	99	0.9	Spoiled	Flowers	Cochin Port	Colombo Port	509.9	90.1	2.2	0	0	32.8	0
+TRK0121	Cold-Chain Road Truck	11/03/2024	9:00	0.5	78.7	2.8	Fresh	Fruits	Bengaluru	Chennai	11.8	16.9	10.2	0	2	0	0
+AIR0268	Air Freight	02/04/2024	20:10	7.2	8	0.3	Fresh	Flowers	Kolkata Airport	Doha Airport	41.4	21.7	4.6	87.1	0	0	0
+SEA0141	Sea Freight	21/08/2026	5:30	9.1	89.7	2.3	Fresh	Vegetables	Cochin Port	Rotterdam Port	637.6	21.8	9.1	0	0	33.7	0
+AIR0405	Air Freight	08/09/2025	4:45	-0.8	23.8	0.6	Fresh	Meat	Delhi Airport	London Heathrow Airport	28.9	20	5.7	72.6	0	0	0
+RAIL0140	Intermodal Rail	04/12/2024	6:55	1	78.6	2.9	Fresh	Seafood	Kolkata	Bengaluru	152.1	20.1	4	0	0	0	4.7
+AIR0965	Air Freight	12/08/2024	14:00	-2.5	29.1	4.4	Fresh	Pharmaceuticals	Chennai Airport	Frankfurt Airport	47.7	13.8	27.2	84	0	0	0
+SEA0339	Sea Freight	09/02/2025	23:55	0.5	92.8	1.2	Fresh	Meat	Chennai Port	Hamburg Port	402.5	22.5	5	0	0	36.1	0
+AIR0841	Air Freight	03/07/2025	20:30	-6.8	17.9	1.5	Fresh	Meat	Mumbai Airport	Frankfurt Airport	27.5	15.8	5.5	83.2	0	0	0
+SEA0988	Sea Freight	02/03/2026	11:40	14.1	90.9	1.9	Spoiled	Flowers	Kandla Port	Shanghai Port	454.5	95.9	2	0	0	35.5	0
+SEA0105	Sea Freight	01/02/2024	0:45	10.8	94.3	1.8	Fresh	Pharmaceuticals	Kolkata Port	Jebel Ali Port	504.9	23.1	25.5	0	0	32.6	0
+RAIL0937	Intermodal Rail	06/10/2025	11:10	7.6	65.8	3	Fresh	Vegetables	Ahmedabad	Jammu	142.5	10.9	9.4	0	0	0	4.6
+RAIL0949	Intermodal Rail	23/01/2026	21:45	7.2	52.7	2.3	Fresh	Flowers	Ahmedabad	Jaipur	146.6	16	4.4	0	0	0	2
+RAIL0614	Intermodal Rail	22/06/2025	13:10	4.1	57.9	3	Fresh	Seafood	Ahmedabad	Guwahati	166.2	18	3.1	0	0	0	5.5
+TRK0583	Cold-Chain Road Truck	01/05/2026	7:15	4	91.6	5.6	At Risk	Vegetables	Udaipur	Indore	51.7	34.4	7.9	0	6	0	0
+SEA0683	Sea Freight	01/04/2026	17:35	4.8	95.1	2.4	Fresh	Vegetables	Kolkata Port	Singapore Port	548.8	15.5	9.8	0	0	29.5	0
+RAIL0724	Intermodal Rail	26/09/2024	1:40	2.9	52	3.1	Fresh	Pharmaceuticals	Guwahati	Nagpur	143.6	4.3	29	0	0	0	2.1
+SEA0179	Sea Freight	06/01/2025	7:15	5.5	69.5	2.2	Fresh	Flowers	Mumbai Port	Hamburg Port	493.6	14.3	4.3	0	0	33.8	0
+SEA0011	Sea Freight	07/02/2024	18:10	10.1	81.1	1.4	Fresh	Fruits	Mundra Port	Felixstowe Port	410.5	17.4	11.3	0	0	31.9	0
+TRK0044	Cold-Chain Road Truck	18/06/2025	0:10	7	56.1	3.8	Fresh	Pharmaceuticals	Hyderabad	Chennai	19.6	9.7	28.1	0	2	0	0
+AIR0184	Air Freight	07/06/2026	8:05	6	33.2	1.7	Fresh	Pharmaceuticals	Delhi Airport	London Heathrow Airport	27	11.5	27.7	87.3	0	0	0
+SEA0636	Sea Freight	20/06/2024	14:25	5.4	78.4	0.2	Fresh	Pharmaceuticals	Chennai Port	Los Angeles Port	500.6	11.4	28.2	0	0	31.5	0
+SEA0736	Sea Freight	13/08/2025	20:20	7	96.9	1.8	At Risk	Dairy	Mumbai Port	Singapore Port	551.8	31	5.7	0	0	34.6	0
+TRK0985	Cold-Chain Road Truck	23/04/2025	11:20	0.9	84.9	4.9	Fresh	Fruits	Pune	Bhopal	18.5	21.3	9.4	0	3	0	0
+RAIL0956	Intermodal Rail	10/03/2026	16:20	13.4	64.5	1	Fresh	Fruits	Delhi	Jaipur	142.8	24.9	10.2	0	0	0	6.7
+RAIL0192	Intermodal Rail	18/05/2025	10:05	3.8	65.3	0.8	Fresh	Meat	Delhi	Jammu	132.4	10.7	5.1	0	0	0	2.4
+SEA0432	Sea Freight	09/06/2024	12:00	10.4	80.9	1.3	Fresh	Fruits	Mundra Port	Hamburg Port	400.6	14.7	10.7	0	0	31.1	0
+SEA0655	Sea Freight	04/08/2025	22:05	2.3	84.7	1.9	Fresh	Flowers	Kandla Port	Hamburg Port	652.6	23.8	4.2	0	0	33.9	0
+AIR0938	Air Freight	20/03/2025	16:50	1.2	45.7	0.8	Fresh	Meat	Chennai Airport	London Heathrow Airport	27	14.8	5.5	84.5	0	0	0
+SEA0962	Sea Freight	06/03/2024	16:30	7.2	90	1.4	At Risk	Flowers	Mumbai Port	Felixstowe Port	711.3	28	3.3	0	0	33.4	0
+SEA0133	Sea Freight	21/07/2024	20:35	6.6	86.2	2.4	At Risk	Dairy	Vizag Port	Felixstowe Port	627.9	33.3	5.8	0	0	36	0
+TRK0624	Cold-Chain Road Truck	10/03/2024	4:00	4.7	91.1	3.7	Fresh	Fruits	Chennai	Delhi	12.3	21.4	10.2	0	1	0	0
+AIR0140	Air Freight	02/04/2024	9:05	0.8	34	1	Fresh	Flowers	Mumbai Airport	Hong Kong Airport	32.5	23.1	4.4	70.1	0	0	0
+TRK0637	Cold-Chain Road Truck	10/09/2025	11:35	2.9	63.9	4.7	At Risk	Dairy	Pune	Nashik	25.2	26.4	5.9	0	3	0	0
+RAIL0843	Intermodal Rail	04/10/2025	14:00	-3	37.5	2.7	Fresh	Seafood	Kolkata	Nagpur	130.7	11.9	3.6	0	0	0	8.5
+AIR0032	Air Freight	22/04/2024	18:00	3.1	8	1	Fresh	Vegetables	Hyderabad Airport	Doha Airport	42.9	16.1	9.4	79.6	0	0	0
+SEA0827	Sea Freight	22/02/2024	16:50	6.1	77.9	1.8	At Risk	Flowers	Chennai Port	Dubai Port	635.2	25.8	4.8	0	0	36.3	0
+AIR0330	Air Freight	08/02/2025	8:30	1	16.1	0.8	Fresh	Seafood	Hyderabad Airport	Doha Airport	44.9	23.9	4	86	0	0	0
+TRK0664	Cold-Chain Road Truck	09/02/2026	4:45	4.7	67.5	5.7	At Risk	Meat	Hyderabad	Indore	61.2	47.1	4.8	0	7	0	0
+RAIL0334	Intermodal Rail	03/05/2025	16:15	2.7	66.9	2.1	Fresh	Meat	Guwahati	Bengaluru	120.8	10.1	5	0	0	0	4.7
+SEA0585	Sea Freight	30/10/2025	14:15	-0.2	93.5	1.6	At Risk	Meat	Vizag Port	Jebel Ali Port	502.4	32.5	5	0	0	40	0
+RAIL0044	Intermodal Rail	26/05/2024	2:55	11.5	70.2	4	Fresh	Fruits	Ahmedabad	Chennai	120.1	18	9.9	0	0	0	4.4
+TRK0002	Cold-Chain Road Truck	28/11/2025	19:40	9.5	82.9	1.7	At Risk	Vegetables	Chennai	Bengaluru	12.9	25.9	8.4	0	2	0	0
+SEA0937	Sea Freight	08/08/2024	15:25	6.4	86.6	1.9	Fresh	Pharmaceuticals	Vizag Port	Dubai Port	420.4	7.8	28.6	0	0	29.5	0
+TRK0172	Cold-Chain Road Truck	07/08/2024	14:10	3.5	49.9	4.3	At Risk	Dairy	Delhi	Jaipur	46.5	31.8	5.7	0	6	0	0
+RAIL0637	Intermodal Rail	15/09/2025	0:10	9.5	48.6	1.5	Fresh	Fruits	Chennai	Kochi	163.3	16.5	11.2	0	0	0	5.4
+SEA0346	Sea Freight	22/10/2025	7:55	0	91	1.3	Fresh	Seafood	Mundra Port	Singapore Port	382.8	14.4	3.9	0	0	33.1	0
+AIR0456	Air Freight	29/05/2026	10:15	-0.6	8.1	1.1	Fresh	Flowers	Chennai Airport	London Heathrow Airport	46.6	13	5	89.8	0	0	0
+TRK0884	Cold-Chain Road Truck	30/05/2026	17:35	7.5	76.9	7.2	Spoiled	Meat	Lucknow	Bengaluru	65.8	86.1	3.1	0	8	0	0
+TRK0290	Cold-Chain Road Truck	04/05/2024	8:05	5.3	65	3.9	At Risk	Dairy	Udaipur	Ahmedabad	22.1	27.2	5.8	0	3	0	0
+TRK0437	Cold-Chain Road Truck	11/11/2025	11:55	6.4	50.8	7.9	At Risk	Flowers	Surat	Delhi	70.4	50.1	4	0	8	0	0
+SEA0559	Sea Freight	11/02/2026	19:50	4.9	89	1.4	Fresh	Vegetables	Mundra Port	Shanghai Port	374.1	9.6	9.6	0	0	30.5	0
+SEA0665	Sea Freight	01/01/2025	11:00	8.5	73.7	0.8	Fresh	Fruits	Vizag Port	Colombo Port	716.1	22.8	10.7	0	0	31.1	0
+TRK0665	Cold-Chain Road Truck	27/01/2026	19:40	6.6	85.4	5.2	Fresh	Vegetables	Jaipur	Nashik	28.8	23.8	8.5	0	4	0	0
+SEA0196	Sea Freight	07/02/2024	22:20	2.5	96.2	1.3	At Risk	Seafood	Cochin Port	Shanghai Port	513.7	27.9	3.2	0	0	34.2	0
+AIR0067	Air Freight	25/04/2024	7:55	1.9	25.5	1	Fresh	Pharmaceuticals	Hyderabad Airport	Dubai Airport	45.3	17.9	27	84.2	0	0	0
+TRK0140	Cold-Chain Road Truck	11/12/2024	22:25	9	89.3	3.3	At Risk	Vegetables	Bengaluru	Chennai	28.5	26	8.4	0	4	0	0
+AIR0802	Air Freight	15/05/2024	1:10	6.9	26.9	0.7	At Risk	Dairy	Kolkata Airport	Singapore Airport	46.2	29	5.8	80.5	0	0	0
+TRK0520	Cold-Chain Road Truck	05/01/2025	6:40	7.7	83	5.4	At Risk	Flowers	Ahmedabad	Delhi	44	42.2	3.7	0	5	0	0
+AIR0970	Air Freight	06/08/2026	11:20	2.6	12.2	4.2	Fresh	Vegetables	Kolkata Airport	Doha Airport	45.2	18.6	8.9	88.2	0	0	0
+SEA0044	Sea Freight	27/10/2025	1:15	17.3	91.1	0.9	At Risk	Fruits	Cochin Port	Felixstowe Port	594.9	30.1	10.1	0	0	35.2	0
+TRK0092	Cold-Chain Road Truck	01/06/2025	20:35	1.4	93.1	2.9	Fresh	Vegetables	Kolkata	Lucknow	7.9	21.5	7.9	0	1	0	0
+RAIL0183	Intermodal Rail	06/09/2024	18:45	-1	59.5	2.4	Fresh	Meat	Guwahati	Jammu	155.8	8.9	5.8	0	0	0	2.1
+RAIL0563	Intermodal Rail	10/12/2024	5:30	0.8	88.3	1.6	Fresh	Seafood	Mumbai	Bengaluru	133.8	22.5	3.2	0	0	0	5.1
+TRK0082	Cold-Chain Road Truck	01/09/2024	12:35	3.4	54.6	5.9	Fresh	Vegetables	Delhi	Mumbai	44.5	23.7	8.5	0	5	0	0
+AIR0637	Air Freight	21/01/2026	23:35	9.9	44.7	1	Fresh	Vegetables	Bengaluru Airport	Frankfurt Airport	25.9	15.6	8.6	90	0	0	0
+AIR0237	Air Freight	19/03/2026	17:05	3.6	35.5	3	Fresh	Meat	Mumbai Airport	Frankfurt Airport	37.3	22.9	4.5	87.7	0	0	0
+TRK0193	Cold-Chain Road Truck	30/05/2026	15:00	6.7	86.8	3.3	Fresh	Meat	Mumbai	Hyderabad	2.2	24.2	4.8	0	1	0	0
+TRK0798	Cold-Chain Road Truck	21/05/2024	7:25	-0.9	88.7	2.1	At Risk	Seafood	Surat	Hyderabad	15.5	27.7	3.2	0	2	0	0
+SEA0107	Sea Freight	21/04/2025	2:05	7.6	85.3	0.5	Fresh	Vegetables	Kandla Port	Hamburg Port	377.2	20.1	8.9	0	0	34	0
+SEA0519	Sea Freight	26/05/2025	0:15	11.3	88.3	1.8	Fresh	Fruits	Chennai Port	Rotterdam Port	669.2	24.9	10.2	0	0	29.6	0
+SEA0485	Sea Freight	21/05/2024	20:50	1.8	86.3	6.3	Fresh	Dairy	Kandla Port	Felixstowe Port	603.7	18.6	6.4	0	0	30.1	0
+RAIL0722	Intermodal Rail	12/02/2024	13:30	3	62.1	2.7	Fresh	Flowers	Chennai	Jammu	153.6	18.6	4.9	0	0	0	5.7
+TRK0053	Cold-Chain Road Truck	11/06/2024	11:45	3	62.2	5.2	At Risk	Dairy	Bengaluru	Pune	58.9	38.9	5.3	0	10	0	0
+SEA0943	Sea Freight	13/09/2024	8:30	9.9	93.7	2.2	Fresh	Fruits	Kolkata Port	Felixstowe Port	453.6	21.8	10	0	0	38.1	0
+TRK0043	Cold-Chain Road Truck	09/01/2025	22:20	10.9	92.3	5.9	At Risk	Fruits	Chennai	Ahmedabad	57.5	35.8	9.4	0	11	0	0
+SEA0002	Sea Freight	26/07/2024	21:55	2.7	87.6	2.8	Fresh	Flowers	Cochin Port	Felixstowe Port	542.3	23.5	3.9	0	0	31.1	0
+SEA0077	Sea Freight	14/02/2025	19:25	6.6	92.3	2.9	Fresh	Vegetables	Kandla Port	Singapore Port	378.2	20.3	8.7	0	0	34.7	0
+TRK0183	Cold-Chain Road Truck	07/09/2025	16:40	12.8	85.7	4.2	Fresh	Fruits	Surat	Jaipur	16.9	20.7	10.4	0	2	0	0
+AIR0989	Air Freight	06/06/2026	23:10	3.1	26.2	0.2	Fresh	Vegetables	Delhi Airport	Singapore Airport	47.5	15.9	8.7	89.5	0	0	0
+AIR0395	Air Freight	20/08/2024	3:35	-5.1	26.5	0.7	Fresh	Seafood	Kolkata Airport	Hong Kong Airport	35.8	17.2	3.7	94.7	0	0	0
+TRK0040	Cold-Chain Road Truck	04/03/2024	19:10	1.6	75.2	6.8	At Risk	Meat	Nashik	Kolkata	61.5	46.9	4.7	0	10	0	0
+SEA0456	Sea Freight	25/02/2026	10:00	2.5	89.1	5.1	Fresh	Seafood	Kandla Port	Singapore Port	472.3	17.8	3.4	0	0	30.6	0
+SEA0377	Sea Freight	16/07/2025	22:10	3.2	90.1	2.6	Fresh	Flowers	Mundra Port	Colombo Port	482.4	21.3	4.2	0	0	34.7	0
+RAIL0440	Intermodal Rail	18/05/2024	9:35	0.6	84.3	2.3	Fresh	Dairy	Guwahati	Kochi	120.2	18.5	6	0	0	0	7
+RAIL0502	Intermodal Rail	14/09/2024	0:55	10.2	44.9	1.5	Fresh	Fruits	Kolkata	Bengaluru	141.5	14.6	11	0	0	0	4.7
+SEA0836	Sea Freight	23/07/2025	1:25	16.2	82.8	1.8	At Risk	Fruits	Chennai Port	Los Angeles Port	658.9	30.8	9.6	0	0	33.2	0
+TRK0229	Cold-Chain Road Truck	14/01/2024	19:40	-0.2	82.5	6.4	Spoiled	Seafood	Nashik	Bhopal	68	55.4	3.2	0	8	0	0
+AIR0840	Air Freight	18/10/2025	20:30	3.2	18.9	0.9	Fresh	Meat	Bengaluru Airport	Amsterdam Airport	40.1	16.9	4.9	91.2	0	0	0
+TRK0666	Cold-Chain Road Truck	28/01/2025	2:50	3.3	54.4	4.9	Fresh	Pharmaceuticals	Bhopal	Mumbai	26.7	8.6	28.4	0	3	0	0
+TRK0283	Cold-Chain Road Truck	16/06/2025	7:40	7.8	49.5	5.6	At Risk	Vegetables	Chennai	Udaipur	38.6	28.8	8.2	0	7	0	0
+RAIL0842	Intermodal Rail	13/03/2026	8:40	1.8	69.1	2.6	Fresh	Seafood	Ahmedabad	Bengaluru	158.6	23.9	3	0	0	0	3.8
+RAIL0358	Intermodal Rail	06/03/2026	20:30	3.3	83.9	3	Fresh	Meat	Chennai	Nagpur	121.7	21.2	5.5	0	0	0	5.6
+TRK0524	Cold-Chain Road Truck	12/01/2025	17:20	10.5	88.7	2.7	At Risk	Vegetables	Kolkata	Hyderabad	23.8	31.6	8	0	3	0	0
+RAIL0743	Intermodal Rail	10/03/2024	3:00	10.1	81.1	4.3	Fresh	Vegetables	Delhi	Chennai	127.3	16	9.6	0	0	0	1.9
+AIR0547	Air Freight	26/06/2024	13:50	7	14.3	0.1	Fresh	Dairy	Hyderabad Airport	Dubai Airport	40.2	16	6.1	92.2	0	0	0
+TRK0495	Cold-Chain Road Truck	20/06/2024	13:30	7.7	50.2	7.4	At Risk	Pharmaceuticals	Indore	Bengaluru	67.9	29.6	24.5	0	13	0	0
+AIR0899	Air Freight	20/03/2024	19:15	7.2	28.3	4.5	Fresh	Fruits	Chennai Airport	Doha Airport	37.9	15.3	10.4	85.4	0	0	0
+TRK0345	Cold-Chain Road Truck	29/02/2024	19:45	4.6	36.3	4	Fresh	Pharmaceuticals	Kolkata	Chennai	38.3	14.4	27.3	0	6	0	0
+TRK0988	Cold-Chain Road Truck	19/02/2025	6:45	11.9	95.8	5.6	At Risk	Fruits	Lucknow	Hyderabad	44.4	34.1	9.5	0	7	0	0
+RAIL0004	Intermodal Rail	08/07/2025	2:20	3.4	85.1	0.9	Fresh	Dairy	Mumbai	Kochi	155.8	24.6	6.2	0	0	0	3.5
+AIR0878	Air Freight	07/06/2025	1:55	4.4	44	0.6	Fresh	Pharmaceuticals	Delhi Airport	Doha Airport	29.2	16	27.1	75.5	0	0	0
+TRK0681	Cold-Chain Road Truck	17/04/2024	21:25	8.7	93.9	2.9	At Risk	Seafood	Jaipur	Pune	3.5	30.2	2.8	0	1	0	0
+RAIL0086	Intermodal Rail	09/11/2024	1:05	3.1	35.8	0.4	Fresh	Meat	Kolkata	Bengaluru	141.9	18.7	5.2	0	0	0	3.2
+SEA0879	Sea Freight	02/09/2024	12:25	6.7	79.8	1.9	Fresh	Dairy	Kandla Port	Dubai Port	458.6	18.3	6.5	0	0	36.6	0
+TRK0962	Cold-Chain Road Truck	21/05/2024	15:20	7.9	96.2	4.2	At Risk	Vegetables	Kolkata	Mumbai	30.4	28.8	8.2	0	3	0	0
+AIR0172	Air Freight	07/10/2025	20:15	1.8	25.2	0.9	Fresh	Dairy	Chennai Airport	London Heathrow Airport	36	14.6	6.1	79.9	0	0	0
+RAIL0569	Intermodal Rail	12/01/2024	22:30	-0.2	95	1.6	Fresh	Seafood	Mumbai	Kochi	134.2	24.1	2.6	0	0	0	6.2
+TRK0956	Cold-Chain Road Truck	19/10/2024	14:15	4.3	80.1	2.7	At Risk	Seafood	Kolkata	Bengaluru	27.3	35.3	3.1	0	3	0	0
+RAIL0650	Intermodal Rail	13/05/2025	1:05	8.7	53.8	1.7	Fresh	Fruits	Chennai	Jaipur	126.8	7.7	11.7	0	0	0	2.3
+SEA0478	Sea Freight	04/12/2024	10:35	3.8	88.9	1.5	Fresh	Seafood	Mumbai Port	Singapore Port	446.7	23	3.5	0	0	37.6	0
+SEA0131	Sea Freight	15/05/2024	8:45	7.4	89.3	6.9	At Risk	Pharmaceuticals	Kolkata Port	Dubai Port	710.9	27	24.8	0	0	35.2	0
+TRK0060	Cold-Chain Road Truck	30/12/2025	7:50	9.1	84.9	4.8	At Risk	Fruits	Surat	Jaipur	49.2	36.3	9.3	0	6	0	0
+RAIL0884	Intermodal Rail	30/04/2025	5:10	4.5	67.8	2.3	Fresh	Pharmaceuticals	Ahmedabad	Guwahati	150.9	7.9	28.4	0	0	0	3.7
+SEA0801	Sea Freight	10/01/2024	6:10	6.9	99	1.7	At Risk	Dairy	Vizag Port	Colombo Port	471.1	26.1	5.9	0	0	33.4	0
+TRK0391	Cold-Chain Road Truck	16/12/2024	20:10	18.5	49.5	5.3	At Risk	Pharmaceuticals	Nashik	Delhi	67.5	34.3	23	0	9	0	0
+RAIL0405	Intermodal Rail	24/12/2025	20:05	-0.3	72.4	1.7	Fresh	Flowers	Mumbai	Bengaluru	150.3	8.1	4.2	0	0	0	0.2
+SEA0257	Sea Freight	22/02/2026	23:35	19	96.6	0.8	At Risk	Fruits	Vizag Port	Hamburg Port	623.1	31.2	9.5	0	0	28.1	0
+RAIL0515	Intermodal Rail	21/12/2025	22:20	1.2	35.3	2.3	Fresh	Pharmaceuticals	Chennai	Guwahati	144.9	5	29	0	0	0	6.7
+SEA0082	Sea Freight	18/08/2025	15:20	10.7	90.7	0.8	At Risk	Vegetables	Chennai Port	Rotterdam Port	441.1	25.1	9	0	0	36.3	0
+AIR0092	Air Freight	27/11/2024	0:35	9.2	29.4	1	At Risk	Fruits	Bengaluru Airport	Hong Kong Airport	37	27.3	10.2	73	0	0	0
+AIR0200	Air Freight	11/12/2025	21:40	1.1	43.9	1	Spoiled	Dairy	Chennai Airport	Amsterdam Airport	46.2	79.6	4.2	73.1	0	0	0
+SEA0334	Sea Freight	11/05/2024	22:20	4.8	80.6	2.6	At Risk	Dairy	Mundra Port	Rotterdam Port	464.9	27.4	5.9	0	0	40	0
+AIR0759	Air Freight	11/12/2025	19:00	-1.3	17.5	1.5	Fresh	Pharmaceuticals	Kolkata Airport	Dubai Airport	24.1	3.3	29.7	87.3	0	0	0
+TRK0127	Cold-Chain Road Truck	08/07/2024	7:45	4.3	64.9	5.5	At Risk	Dairy	Indore	Udaipur	56.1	35.3	5.5	0	9	0	0
+RAIL0559	Intermodal Rail	30/03/2025	21:30	2.9	60.2	2.9	Fresh	Flowers	Chennai	Bengaluru	156.5	18.4	4.6	0	0	0	5.8
+AIR0937	Air Freight	05/06/2024	13:40	-9.1	14.3	0.8	Fresh	Meat	Chennai Airport	Amsterdam Airport	45.3	24.7	5.7	82.8	0	0	0
+AIR0025	Air Freight	07/01/2026	22:40	0.8	28.3	0.9	Fresh	Fruits	Hyderabad Airport	Frankfurt Airport	27.3	12.5	11.1	74.7	0	0	0
+RAIL0146	Intermodal Rail	02/06/2026	18:10	3.2	68.4	2	Fresh	Dairy	Mumbai	Jammu	161.3	17.8	6.9	0	0	0	3
+RAIL0718	Intermodal Rail	15/05/2026	1:35	4.1	44.4	3.7	Fresh	Dairy	Chennai	Nagpur	137.8	12.4	6.6	0	0	0	4.1
+SEA0314	Sea Freight	22/08/2024	0:30	8.9	88.2	0.5	At Risk	Fruits	Kandla Port	Dubai Port	548.9	28.7	9.9	0	0	37.7	0
+SEA0312	Sea Freight	14/04/2025	4:45	8.9	89.3	1.2	Fresh	Pharmaceuticals	Kolkata Port	Shanghai Port	454.2	15.5	26.9	0	0	34.5	0
+TRK0705	Cold-Chain Road Truck	21/04/2024	19:00	3.1	81.8	4.6	At Risk	Meat	Kolkata	Chennai	16.5	26.9	5	0	2	0	0
+TRK0086	Cold-Chain Road Truck	06/09/2025	19:15	13	80.8	5	At Risk	Fruits	Bengaluru	Chennai	39.1	32.9	9.5	0	5	0	0
+AIR0891	Air Freight	26/02/2026	22:05	1.2	40.3	0.1	At Risk	Flowers	Bengaluru Airport	Singapore Airport	42.9	27.4	4.3	80.1	0	0	0
+RAIL0981	Intermodal Rail	07/11/2024	11:45	3.4	32.3	3.7	Fresh	Seafood	Kolkata	Jammu	132.7	2.3	3.9	0	0	0	5.6
+TRK0759	Cold-Chain Road Truck	10/11/2024	17:00	6.7	73.4	2.4	Fresh	Seafood	Chennai	Bhopal	9.2	24.4	3.2	0	1	0	0
+AIR0479	Air Freight	26/11/2024	16:05	5	33.6	5.1	Fresh	Pharmaceuticals	Mumbai Airport	Dubai Airport	31.3	16.4	27.1	81.3	0	0	0
+RAIL0635	Intermodal Rail	22/04/2024	9:05	3.1	78.4	2.5	At Risk	Flowers	Delhi	Chennai	159.6	25	4.2	0	0	0	6.3
+AIR0603	Air Freight	06/07/2025	16:00	4.4	49.5	0.7	At Risk	Dairy	Bengaluru Airport	Dubai Airport	41.4	25.1	6.2	79.1	0	0	0
+AIR0150	Air Freight	13/03/2024	0:25	-8.7	16.1	0.5	Fresh	Meat	Delhi Airport	Dubai Airport	39.2	20.1	5.2	86.2	0	0	0
+SEA0731	Sea Freight	20/05/2026	21:30	1	82.3	1.2	Fresh	Seafood	Chennai Port	Colombo Port	506.6	20.4	3.5	0	0	31.7	0
+TRK0328	Cold-Chain Road Truck	03/12/2024	18:35	6.8	40.2	5.9	Fresh	Pharmaceuticals	Kolkata	Bengaluru	50.3	22.1	25.9	0	10	0	0
+RAIL0473	Intermodal Rail	07/04/2025	21:00	2.4	41.9	3.5	Fresh	Flowers	Mumbai	Jaipur	138.9	9.6	4.4	0	0	0	2.2
+AIR0078	Air Freight	06/06/2025	19:10	-2.1	40.5	0.6	Fresh	Flowers	Delhi Airport	Amsterdam Airport	33.8	17.5	4.6	81.7	0	0	0
+TRK0249	Cold-Chain Road Truck	17/05/2026	8:30	2.7	92.9	2.4	At Risk	Meat	Jaipur	Lucknow	36.7	35	4.7	0	5	0	0
+TRK0200	Cold-Chain Road Truck	18/11/2024	13:10	1.8	62.7	3.8	Fresh	Meat	Chennai	Pune	23.3	22.4	5.1	0	3	0	0
+RAIL0525	Intermodal Rail	07/03/2025	13:00	0.5	55.3	1.9	Fresh	Meat	Ahmedabad	Guwahati	157.2	9	5.7	0	0	0	3
+SEA0071	Sea Freight	16/07/2024	3:20	8.6	92.9	5.2	At Risk	Dairy	Vizag Port	Colombo Port	535.7	25.2	5.9	0	0	33.1	0
+AIR0559	Air Freight	30/10/2024	23:20	-4.6	23.2	0.7	Fresh	Flowers	Delhi Airport	Doha Airport	33	17.5	4.5	80.6	0	0	0
+AIR0801	Air Freight	21/06/2024	13:25	3.9	37.8	0.7	Fresh	Meat	Chennai Airport	London Heathrow Airport	25.1	13.5	5.5	90.6	0	0	0
+SEA0887	Sea Freight	18/01/2024	5:20	1.3	70.1	1.8	Fresh	Meat	Cochin Port	Felixstowe Port	591.4	20.5	5.2	0	0	33.1	0
+SEA0035	Sea Freight	05/04/2026	20:15	8.7	99	1.7	Fresh	Pharmaceuticals	Chennai Port	Colombo Port	581.1	16.8	26.8	0	0	29.4	0
+AIR0358	Air Freight	12/07/2025	9:25	4.3	8.5	0.6	Fresh	Seafood	Kolkata Airport	Hong Kong Airport	26.3	16.2	3.8	82.2	0	0	0
+AIR0432	Air Freight	01/09/2024	7:40	2.5	15.7	0.3	Fresh	Dairy	Delhi Airport	Doha Airport	40.9	19.2	6	92.2	0	0	0
+TRK0716	Cold-Chain Road Truck	31/12/2024	5:20	12.2	77.9	2.4	Fresh	Fruits	Nashik	Jaipur	4.4	15.8	10.9	0	1	0	0
+RAIL0985	Intermodal Rail	16/01/2025	12:15	12.3	43.8	1.9	Fresh	Fruits	Chennai	Jammu	149.3	15.7	11	0	0	0	4.9
+TRK0818	Cold-Chain Road Truck	14/11/2025	16:10	1.9	45.4	5.5	Fresh	Pharmaceuticals	Ahmedabad	Kolkata	52.5	19.4	26.4	0	9	0	0
+RAIL0179	Intermodal Rail	09/07/2026	18:50	5.8	52.3	2.4	Fresh	Vegetables	Kolkata	Chennai	139.7	12.6	9.6	0	0	0	5.2
+AIR0201	Air Freight	10/10/2025	8:00	1.9	16.8	1.5	Fresh	Seafood	Mumbai Airport	Dubai Airport	32.1	11.7	3.5	86.2	0	0	0
+SEA0224	Sea Freight	13/06/2024	4:15	6.2	99	2.2	Fresh	Vegetables	Chennai Port	Shanghai Port	566.8	22.8	8.5	0	0	30.7	0
+RAIL0268	Intermodal Rail	28/09/2025	10:05	7.4	46.5	3	Fresh	Dairy	Ahmedabad	Bengaluru	156.7	12.3	6.9	0	0	0	1.3
+AIR0086	Air Freight	16/08/2026	3:35	-2.6	36.3	1.2	Fresh	Meat	Bengaluru Airport	Hong Kong Airport	33.3	20.4	4.9	79.2	0	0	0
+TRK0269	Cold-Chain Road Truck	28/06/2026	17:00	14.3	75.1	4.9	At Risk	Meat	Kolkata	Delhi	50	51.7	3.7	0	6	0	0
+RAIL0955	Intermodal Rail	26/03/2026	10:30	1	67.9	2.4	Fresh	Meat	Chennai	Jammu	155.4	13.5	5.9	0	0	0	4.8
+RAIL0651	Intermodal Rail	01/06/2024	5:55	8.3	58.5	1.9	Fresh	Flowers	Guwahati	Jaipur	130.9	23.9	4.5	0	0	0	6.6
+TRK0268	Cold-Chain Road Truck	26/01/2025	7:45	7.6	40.2	5.9	At Risk	Vegetables	Delhi	Mumbai	46.1	25.3	8.4	0	8	0	0
+AIR0131	Air Freight	04/11/2024	15:15	1.3	27.8	0.1	Fresh	Meat	Delhi Airport	Dubai Airport	26.7	22.6	5.5	70.2	0	0	0
+AIR0520	Air Freight	29/03/2026	17:15	10.4	32.4	0.9	Fresh	Fruits	Chennai Airport	Dubai Airport	29.5	16.1	10.5	76.5	0	0	0
+SEA0114	Sea Freight	15/03/2025	13:25	1.8	81.7	1.3	Fresh	Dairy	Vizag Port	Shanghai Port	598.6	15	6	0	0	22.9	0
+TRK0077	Cold-Chain Road Truck	30/10/2025	2:10	4.8	89.1	4	At Risk	Vegetables	Indore	Lucknow	31.9	28.9	8.2	0	5	0	0
+AIR0391	Air Freight	21/03/2026	21:15	3.9	40.9	0.9	At Risk	Seafood	Hyderabad Airport	Dubai Airport	34.9	25.1	3.3	78.8	0	0	0
+AIR0784	Air Freight	19/03/2024	9:40	-0.1	29.1	0.8	Fresh	Meat	Hyderabad Airport	Singapore Airport	45.3	24.9	5.4	85.2	0	0	0
+TRK0263	Cold-Chain Road Truck	14/08/2026	7:30	0.8	81.5	5.4	At Risk	Seafood	Mumbai	Nashik	38.8	42.5	3.5	0	6	0	0
+SEA0728	Sea Freight	07/07/2024	19:00	4	90.4	0.8	Fresh	Dairy	Chennai Port	Dubai Port	373.1	17	6.2	0	0	31.7	0
+RAIL0397	Intermodal Rail	17/07/2024	18:40	3.3	54.7	2.1	Fresh	Seafood	Mumbai	Jammu	129.5	11.8	3.5	0	0	0	4.9
+SEA0229	Sea Freight	18/01/2024	8:10	8.6	92	1.5	Fresh	Fruits	Cochin Port	Los Angeles Port	361.2	17.3	10.7	0	0	34.3	0
+AIR0997	Air Freight	05/01/2026	17:55	9.6	34	0.7	Fresh	Vegetables	Chennai Airport	Dubai Airport	40.5	18.3	9	91.4	0	0	0
+AIR0531	Air Freight	01/08/2025	7:50	1.4	8	1.5	Fresh	Vegetables	Delhi Airport	Frankfurt Airport	44.7	17.9	8.9	91.1	0	0	0
+RAIL0434	Intermodal Rail	09/08/2026	21:25	7	68	2.1	Fresh	Pharmaceuticals	Chennai	Jammu	133.7	9.6	28.3	0	0	0	2.5
+AIR0856	Air Freight	05/01/2025	11:05	5.3	30.1	0.5	Fresh	Vegetables	Hyderabad Airport	London Heathrow Airport	41.2	22.7	8.7	81	0	0	0
+RAIL0174	Intermodal Rail	10/11/2025	10:55	1.2	76.4	3.2	Fresh	Meat	Kolkata	Jammu	154.1	16.1	5	0	0	0	3.4
+RAIL0784	Intermodal Rail	03/05/2026	22:45	2.6	72.2	1.8	At Risk	Seafood	Kolkata	Jaipur	145.1	27	2.9	0	0	0	3.6
+RAIL0627	Intermodal Rail	07/06/2025	11:55	7.7	40.9	2.8	Fresh	Vegetables	Kolkata	Bengaluru	122.5	12.3	9.2	0	0	0	3.5
+AIR0274	Air Freight	04/01/2024	0:35	-6	19.7	0.6	Fresh	Vegetables	Hyderabad Airport	Doha Airport	45	21.2	8.5	87.4	0	0	0
+AIR0321	Air Freight	02/01/2024	16:50	11.6	18.3	0.8	Fresh	Fruits	Chennai Airport	Dubai Airport	29.2	15.6	10.9	84.8	0	0	0
+RAIL0962	Intermodal Rail	01/01/2026	0:50	2.4	60.9	2.5	Fresh	Flowers	Kolkata	Jammu	127.3	17.1	5	0	0	0	7
+TRK0728	Cold-Chain Road Truck	16/07/2025	7:00	8.5	80.8	4.4	At Risk	Meat	Pune	Ahmedabad	30.7	36.9	4.2	0	6	0	0
+SEA0510	Sea Freight	27/04/2025	16:50	1.4	94.8	1.5	Fresh	Meat	Mumbai Port	Shanghai Port	517.5	21.8	5.4	0	0	36.7	0
+RAIL0312	Intermodal Rail	13/02/2024	15:40	3.9	70.5	2	Fresh	Pharmaceuticals	Chennai	Jaipur	156.6	11.8	27.7	0	0	0	2.9
+AIR0525	Air Freight	06/04/2026	4:45	-0.8	20.9	1.3	Fresh	Meat	Chennai Airport	London Heathrow Airport	29.9	9.4	5.2	86.5	0	0	0
+SEA0795	Sea Freight	10/08/2025	20:50	4.8	87.7	2.2	Fresh	Dairy	Kandla Port	Jebel Ali Port	483.2	24.4	5.9	0	0	36.3	0
+RAIL0437	Intermodal Rail	22/04/2025	8:45	7.1	30.4	1.6	Fresh	Flowers	Ahmedabad	Jaipur	157.2	15.7	4.8	0	0	0	6.1
+RAIL0705	Intermodal Rail	18/11/2025	6:50	4.5	48.3	2.5	Fresh	Pharmaceuticals	Ahmedabad	Guwahati	167.6	11.5	27.2	0	0	0	3.5
+AIR0886	Air Freight	16/03/2025	1:00	8.6	41.2	1.3	Fresh	Pharmaceuticals	Bengaluru Airport	Hong Kong Airport	45.1	21.3	26.4	81.6	0	0	0
+SEA0413	Sea Freight	18/01/2025	4:05	4.9	94.8	3	At Risk	Seafood	Kolkata Port	Rotterdam Port	620.6	29.2	3.3	0	0	30.5	0
+TRK0311	Cold-Chain Road Truck	26/02/2025	7:50	13.2	72.4	3	At Risk	Meat	Nashik	Kolkata	14.8	27.7	4.1	0	2	0	0
+RAIL0958	Intermodal Rail	02/04/2024	9:10	5.7	49.3	2.2	Fresh	Fruits	Guwahati	Chennai	141.3	7.1	11.5	0	0	0	0.5
+TRK0937	Cold-Chain Road Truck	02/08/2025	22:25	3.4	64.8	5	At Risk	Dairy	Hyderabad	Delhi	54.5	39.1	5.3	0	8	0	0
+SEA0506	Sea Freight	22/02/2025	1:15	4.4	73.4	1.7	Fresh	Meat	Kandla Port	Dubai Port	623.1	20.1	5.3	0	0	29.3	0
+AIR0820	Air Freight	30/04/2025	22:35	2.2	11.2	5.3	Fresh	Dairy	Bengaluru Airport	Doha Airport	38.9	11.4	6.3	88.8	0	0	0
+TRK0793	Cold-Chain Road Truck	04/05/2025	20:35	3.8	65.6	5	At Risk	Dairy	Pune	Udaipur	41.5	30.3	5.7	0	7	0	0
+AIR0328	Air Freight	16/05/2025	14:45	-3.5	20.5	0.7	Fresh	Pharmaceuticals	Bengaluru Airport	Singapore Airport	46.8	11.8	27.9	90	0	0	0
+TRK0986	Cold-Chain Road Truck	07/05/2024	12:40	22.1	87.3	6.2	At Risk	Fruits	Lucknow	Delhi	58.6	54.9	7.4	0	7	0	0
+SEA0440	Sea Freight	21/03/2024	7:10	2.7	99	1.1	At Risk	Dairy	Mundra Port	Rotterdam Port	660.8	29.8	5.7	0	0	34.2	0
+SEA0150	Sea Freight	29/03/2025	20:10	7.9	81.2	1.8	Fresh	Pharmaceuticals	Kandla Port	Hamburg Port	422.2	14	26.9	0	0	33.3	0
+AIR0977	Air Freight	13/02/2024	22:45	1.4	37.5	1	Fresh	Flowers	Delhi Airport	Dubai Airport	41.1	16.7	4.5	97.8	0	0	0
+RAIL0013	Intermodal Rail	10/12/2025	4:45	1.9	76.6	2.8	Fresh	Dairy	Mumbai	Guwahati	149.7	15.9	6.3	0	0	0	1.6
+SEA0358	Sea Freight	26/01/2025	4:55	1.8	93.1	1.1	Fresh	Meat	Kolkata Port	Felixstowe Port	416.7	16.6	5.6	0	0	36.9	0
+TRK0731	Cold-Chain Road Truck	01/11/2025	4:25	15.8	87.6	3	At Risk	Fruits	Jaipur	Lucknow	26.8	29.7	9.6	0	5	0	0
+AIR0309	Air Freight	14/05/2026	19:40	4.9	25.3	0.9	Fresh	Pharmaceuticals	Kolkata Airport	Hong Kong Airport	33.1	11.3	28	76.8	0	0	0
+TRK0585	Cold-Chain Road Truck	01/07/2024	7:00	12.2	99	2.2	Fresh	Fruits	Hyderabad	Jaipur	4.4	18.6	10.6	0	1	0	0
+SEA0820	Sea Freight	15/02/2025	7:15	1	86.2	0.7	Fresh	Meat	Cochin Port	Hamburg Port	699	24.9	5	0	0	27.1	0
+AIR0440	Air Freight	06/07/2026	22:40	8	32.7	0.6	Fresh	Pharmaceuticals	Mumbai Airport	Doha Airport	28	8.6	28.7	88.2	0	0	0
+RAIL0145	Intermodal Rail	04/05/2024	21:10	2.9	31	1.9	Fresh	Dairy	Ahmedabad	Chennai	164.9	14.3	6.8	0	0	0	4.9
+AIR0583	Air Freight	14/01/2024	14:25	2.4	15.8	4.2	Fresh	Vegetables	Delhi Airport	Doha Airport	44	12.1	9	96.1	0	0	0
+AIR0686	Air Freight	08/11/2025	5:10	1.6	37.2	0.3	Fresh	Meat	Chennai Airport	London Heathrow Airport	43.6	24.3	4.7	90.1	0	0	0
+AIR0486	Air Freight	21/05/2024	7:40	8.9	39.3	0.9	Fresh	Vegetables	Delhi Airport	Singapore Airport	37.5	21.1	8.8	86.7	0	0	0
+TRK0603	Cold-Chain Road Truck	06/07/2025	15:05	2.9	75.1	3.4	Fresh	Fruits	Lucknow	Hyderabad	15	12.9	10.7	0	2	0	0
+AIR0563	Air Freight	13/07/2024	19:10	0.8	39.8	0.6	At Risk	Meat	Delhi Airport	Hong Kong Airport	42.1	25	4.9	82.6	0	0	0
+RAIL0836	Intermodal Rail	02/02/2024	9:45	4.8	35.5	3.5	Fresh	Meat	Kolkata	Chennai	150.7	17.4	5.7	0	0	0	6.3
+RAIL0479	Intermodal Rail	21/01/2025	16:00	13	59.7	0.8	Fresh	Fruits	Kolkata	Nagpur	164.2	21.7	10.5	0	0	0	5.8
+TRK0952	Cold-Chain Road Truck	23/09/2025	12:35	7	66.7	5.1	At Risk	Pharmaceuticals	Kolkata	Nashik	56.1	26.4	25.1	0	8	0	0
+AIR0685	Air Freight	22/07/2025	11:00	-0.7	24.5	0.5	Fresh	Meat	Kolkata Airport	Dubai Airport	24.3	3.2	5.8	98.4	0	0	0
+SEA0730	Sea Freight	10/04/2026	7:35	8.9	87.8	1.3	Fresh	Flowers	Cochin Port	Colombo Port	411.4	16.3	4.2	0	0	31.1	0
+AIR0822	Air Freight	03/01/2024	21:10	-3.6	31.1	0.7	Fresh	Vegetables	Hyderabad Airport	Hong Kong Airport	27	13.3	9.8	90.6	0	0	0
+RAIL0658	Intermodal Rail	19/08/2024	16:00	9	63.7	2.5	Fresh	Pharmaceuticals	Mumbai	Jaipur	126.1	12.5	27.7	0	0	0	7.1
+TRK0829	Cold-Chain Road Truck	05/07/2026	20:50	1.7	91.2	3.2	Fresh	Flowers	Ahmedabad	Nashik	10.4	20.8	4.3	0	2	0	0
+TRK0827	Cold-Chain Road Truck	02/03/2024	6:50	2.2	69.8	3.5	Fresh	Meat	Chennai	Kolkata	18.1	16.6	5.4	0	2	0	0
+TRK0484	Cold-Chain Road Truck	27/02/2026	14:00	0.9	97.1	6.6	At Risk	Vegetables	Pune	Hyderabad	63.8	44.4	6.4	0	7	0	0
+RAIL0040	Intermodal Rail	21/12/2024	10:05	7.4	57.1	4.2	Fresh	Pharmaceuticals	Chennai	Nagpur	148.9	17.8	26.9	0	0	0	6.8
+SEA0390	Sea Freight	03/08/2024	5:10	3.3	77.4	1.2	Fresh	Seafood	Kandla Port	Shanghai Port	578	21.2	3.5	0	0	28.6	0
+RAIL0150	Intermodal Rail	03/07/2026	11:35	5.2	73.9	2.7	Fresh	Meat	Delhi	Kochi	162.1	12.3	5.7	0	0	0	0.6
+RAIL0245	Intermodal Rail	19/10/2024	7:55	10.6	57.5	3.5	Fresh	Fruits	Mumbai	Kochi	159.3	16.9	10.3	0	0	0	4.4
+SEA0717	Sea Freight	03/09/2025	15:25	13	92.3	0.6	Fresh	Fruits	Vizag Port	Singapore Port	457.1	22.8	10.5	0	0	37.1	0
+TRK0088	Cold-Chain Road Truck	06/05/2025	2:30	7.8	62.6	2.9	Fresh	Dairy	Surat	Kolkata	5.9	16.2	6.1	0	1	0	0
+TRK0377	Cold-Chain Road Truck	14/06/2026	7:55	8.8	56.1	7.4	Fresh	Pharmaceuticals	Udaipur	Bengaluru	50.3	21.9	25.9	0	8	0	0
+SEA0269	Sea Freight	24/02/2026	8:45	3.8	88.8	1.6	Fresh	Pharmaceuticals	Kandla Port	Los Angeles Port	410.4	9.2	28.2	0	0	36.4	0
+AIR0183	Air Freight	18/10/2024	16:00	0.3	27.8	0.5	Fresh	Meat	Kolkata Airport	Hong Kong Airport	35.2	16.5	5.8	85.7	0	0	0
+TRK0309	Cold-Chain Road Truck	17/01/2024	9:30	16	63.6	1.9	At Risk	Dairy	Udaipur	Jaipur	2.6	26.9	5	0	1	0	0
+SEA0841	Sea Freight	04/06/2025	6:05	0.4	96.9	1.5	Fresh	Meat	Kandla Port	Rotterdam Port	665.5	23.2	5.4	0	0	37.8	0
+AIR0249	Air Freight	24/07/2025	20:00	3.2	22.3	0.4	Fresh	Dairy	Kolkata Airport	Doha Airport	25.4	4.7	6.8	88.5	0	0	0
+TRK0949	Cold-Chain Road Truck	14/01/2024	18:10	7.5	42.3	3.2	Fresh	Pharmaceuticals	Udaipur	Kolkata	16.9	12.7	27.6	0	2	0	0
+AIR0728	Air Freight	12/02/2024	5:40	2.3	29	0.8	Fresh	Pharmaceuticals	Delhi Airport	Hong Kong Airport	42.6	12	28.5	89.1	0	0	0
+SEA0724	Sea Freight	28/07/2024	20:50	12.2	85.6	5.2	At Risk	Fruits	Kandla Port	Jebel Ali Port	563.9	28.2	9.8	0	0	30	0
+TRK0801	Cold-Chain Road Truck	06/07/2024	22:30	5.9	56.4	6.1	Fresh	Pharmaceuticals	Bhopal	Indore	59.9	21.8	26	0	7	0	0
+RAIL0386	Intermodal Rail	04/08/2025	15:10	2	59.9	3.1	Fresh	Dairy	Chennai	Kochi	164.2	17.7	5.6	0	0	0	5.5
+AIR0035	Air Freight	12/10/2025	22:50	5.3	22.7	0.3	Fresh	Dairy	Chennai Airport	London Heathrow Airport	42	22.2	6.4	89	0	0	0
+SEA0367	Sea Freight	02/04/2025	0:00	7.8	84.7	1	Fresh	Vegetables	Cochin Port	Singapore Port	388.3	17.7	8.4	0	0	31	0
+AIR0495	Air Freight	02/08/2025	3:30	10.6	33.3	4	Fresh	Fruits	Mumbai Airport	Singapore Airport	31.9	8.8	11.5	96	0	0	0
+SEA0846	Sea Freight	07/02/2025	3:00	8.1	85.3	0.2	Fresh	Pharmaceuticals	Mumbai Port	Hamburg Port	465.5	14.6	27.4	0	0	22.6	0
+RAIL0484	Intermodal Rail	28/01/2024	8:00	2.3	55.2	4.5	Fresh	Meat	Ahmedabad	Jaipur	158.9	13.9	5.4	0	0	0	4.3
+TRK0745	Cold-Chain Road Truck	15/09/2024	16:50	7.2	95.5	6.5	At Risk	Pharmaceuticals	Bengaluru	Ahmedabad	68.5	31.4	24.2	0	12	0	0
+SEA0733	Sea Freight	26/06/2026	14:20	-0.1	83.8	6	Fresh	Seafood	Mundra Port	Jebel Ali Port	408.8	15.7	3	0	0	32.6	0
+RAIL0685	Intermodal Rail	17/04/2025	10:25	3.8	67.2	2.8	Fresh	Fruits	Kolkata	Guwahati	121.8	19.4	10.5	0	0	0	8.7
+RAIL0741	Intermodal Rail	22/01/2025	9:55	3.3	82	1.9	Fresh	Pharmaceuticals	Ahmedabad	Bengaluru	142.7	17.6	26.5	0	0	0	2.6
+AIR0842	Air Freight	17/11/2025	20:10	-3	21.5	1	Fresh	Vegetables	Bengaluru Airport	Amsterdam Airport	32.1	9.8	9.4	72.6	0	0	0
+SEA0573	Sea Freight	03/10/2025	18:30	11.7	86.8	1.6	At Risk	Seafood	Mundra Port	Los Angeles Port	376.9	29.2	3.3	0	0	34.9	0
+RAIL0542	Intermodal Rail	14/05/2025	7:55	3.9	53.5	2.4	Fresh	Pharmaceuticals	Chennai	Jammu	149.9	12.8	27.9	0	0	0	4.7
+RAIL0456	Intermodal Rail	05/02/2024	2:30	12.2	53.7	2.8	Fresh	Fruits	Mumbai	Kochi	133	11.4	10.6	0	0	0	3.2
+RAIL0283	Intermodal Rail	24/01/2024	14:25	8.3	52.5	2.9	Fresh	Vegetables	Kolkata	Nagpur	144.8	14.4	8.7	0	0	0	5.1
+SEA0985	Sea Freight	29/07/2026	3:40	1.2	85.2	1.6	Fresh	Meat	Chennai Port	Rotterdam Port	491.4	19.9	5.7	0	0	33.3	0
+RAIL0887	Intermodal Rail	28/09/2024	2:15	6.4	93.5	2.2	Fresh	Pharmaceuticals	Delhi	Nagpur	126.3	9.8	28.3	0	0	0	2.2
+TRK0841	Cold-Chain Road Truck	15/07/2024	4:45	2.8	79.6	6.1	At Risk	Dairy	Chennai	Indore	37.3	31.2	5.6	0	7	0	0
+TRK0317	Cold-Chain Road Truck	03/04/2024	6:50	12.1	88.7	6	Spoiled	Seafood	Pune	Nashik	70.7	96.9	1.4	0	10	0	0
+SEA0949	Sea Freight	08/10/2024	17:50	16.3	76.5	1.8	At Risk	Fruits	Mumbai Port	Rotterdam Port	531.3	31.5	9.5	0	0	35.4	0
+AIR0011	Air Freight	23/05/2024	21:20	1.5	40.8	1.4	Fresh	Seafood	Hyderabad Airport	Hong Kong Airport	36.3	20.7	4	90.8	0	0	0
+AIR0369	Air Freight	10/07/2026	13:35	3.1	27.8	6.1	Fresh	Pharmaceuticals	Hyderabad Airport	Singapore Airport	41.5	15	27.9	95.1	0	0	0
+TRK0359	Cold-Chain Road Truck	12/05/2026	10:30	2.2	75	3.7	At Risk	Dairy	Indore	Surat	26.8	28.8	5.8	0	5	0	0
+TRK0733	Cold-Chain Road Truck	04/07/2026	20:15	10.5	89.9	4.9	At Risk	Vegetables	Jaipur	Indore	47.5	36.7	7.7	0	7	0	0
+SEA0140	Sea Freight	02/03/2024	4:25	7.6	82.1	1.2	Spoiled	Flowers	Mundra Port	Hamburg Port	657.9	78.1	2.4	0	0	38	0
+AIR0515	Air Freight	28/08/2026	5:35	9.7	28	0.6	Fresh	Vegetables	Bengaluru Airport	Hong Kong Airport	41.9	17.3	8.9	86.6	0	0	0
+TRK0174	Cold-Chain Road Truck	08/05/2024	10:10	9.4	22.6	3.5	Fresh	Vegetables	Hyderabad	Bhopal	22.2	17	8.9	0	3	0	0
+AIR0988	Air Freight	02/08/2025	15:20	2.8	29.4	0.1	At Risk	Dairy	Kolkata Airport	Singapore Airport	47.5	28.6	6	79	0	0	0
+AIR0240	Air Freight	05/04/2025	7:05	7.5	24.8	1	Spoiled	Flowers	Chennai Airport	Doha Airport	34.4	83.1	2.7	63.2	0	0	0
+SEA0637	Sea Freight	27/08/2024	16:55	12.6	87.9	1.9	Fresh	Fruits	Chennai Port	Jebel Ali Port	429.8	22.3	9.9	0	0	34	0
+SEA0509	Sea Freight	12/02/2026	2:50	6.3	93	1.6	At Risk	Dairy	Kolkata Port	Rotterdam Port	600.7	31	5.7	0	0	40	0
+RAIL0555	Intermodal Rail	22/04/2024	9:35	0.3	63	3	Fresh	Meat	Chennai	Guwahati	122.1	14.2	5.6	0	0	0	5.9
+RAIL0325	Intermodal Rail	21/12/2024	2:00	0	78.9	3.6	Fresh	Seafood	Kolkata	Guwahati	129	16.2	3.7	0	0	0	6.3
+AIR0502	Air Freight	14/12/2024	14:25	-7	27.8	0.3	Fresh	Seafood	Bengaluru Airport	London Heathrow Airport	34.3	21.3	3	93.4	0	0	0
+AIR0884	Air Freight	09/08/2025	11:40	4.9	13.7	0.8	Fresh	Pharmaceuticals	Chennai Airport	Frankfurt Airport	44.9	14.4	27.1	89.8	0	0	0
+AIR0121	Air Freight	25/01/2026	4:50	6.4	32.8	1.2	Fresh	Vegetables	Chennai Airport	London Heathrow Airport	37.3	15.3	8.9	86.6	0	0	0
+TRK0510	Cold-Chain Road Truck	28/02/2025	13:25	7.7	78.8	5.2	At Risk	Flowers	Mumbai	Bhopal	43	41	3.8	0	6	0	0
+AIR0307	Air Freight	10/12/2024	0:50	3.8	10.5	1.1	Fresh	Pharmaceuticals	Chennai Airport	Doha Airport	31	8.8	28.3	81.9	0	0	0
+TRK0710	Cold-Chain Road Truck	05/03/2024	20:10	10.5	47.3	4.5	At Risk	Seafood	Jaipur	Udaipur	56.7	50	2.7	0	10	0	0
+SEA0547	Sea Freight	15/01/2024	2:15	4.7	81.2	2.2	At Risk	Meat	Mundra Port	Hamburg Port	640.3	27.2	5.2	0	0	35.7	0
+SEA0127	Sea Freight	16/09/2025	5:45	0	90.8	1.8	Fresh	Meat	Vizag Port	Dubai Port	433.5	8.9	5.8	0	0	34.6	0
+TRK0386	Cold-Chain Road Truck	30/06/2025	1:25	11.1	21.8	7.1	At Risk	Flowers	Delhi	Surat	48	38.3	4.1	0	7	0	0
+TRK0695	Cold-Chain Road Truck	23/01/2026	8:25	0.2	31.9	3.7	Fresh	Meat	Bhopal	Mumbai	38.4	17.2	5.4	0	5	0	0
+TRK0118	Cold-Chain Road Truck	04/09/2024	12:40	2.1	69.3	4.2	At Risk	Meat	Pune	Ahmedabad	37.4	35.7	4.7	0	6	0	0
+SEA0025	Sea Freight	26/03/2024	20:35	18.2	92.4	2	Fresh	Fruits	Chennai Port	Colombo Port	388.6	19.8	10.4	0	0	33.1	0
+RAIL0391	Intermodal Rail	21/11/2025	5:30	2.7	78.7	2.2	At Risk	Seafood	Mumbai	Jaipur	127.5	27.7	3.5	0	0	0	4.6
+RAIL0790	Intermodal Rail	18/07/2025	10:00	4.3	62.4	1.8	Fresh	Flowers	Mumbai	Kochi	159.2	20.3	4	0	0	0	4.5
+RAIL0196	Intermodal Rail	20/05/2025	22:10	8.6	58.5	3.3	Fresh	Vegetables	Delhi	Guwahati	166	21.7	8.5	0	0	0	5.2
+RAIL0906	Intermodal Rail	19/04/2026	3:20	3.4	62.5	2.7	Fresh	Dairy	Guwahati	Jaipur	124.6	9.4	6.3	0	0	0	3.3
+SEA0954	Sea Freight	01/05/2026	11:15	8.3	96.4	1.2	Fresh	Pharmaceuticals	Kandla Port	Shanghai Port	404.3	16.4	27.4	0	0	28.8	0
+TRK0967	Cold-Chain Road Truck	02/09/2024	14:15	17.4	85	7	Spoiled	Flowers	Pune	Udaipur	70.5	97.5	1.7	0	8	0	0
+AIR0952	Air Freight	09/02/2024	11:15	-2.1	23.4	1.4	Fresh	Seafood	Kolkata Airport	Doha Airport	30.6	18.4	4	78.7	0	0	0
+AIR0044	Air Freight	23/11/2025	21:45	1.7	29.1	0.2	Fresh	Dairy	Mumbai Airport	Amsterdam Airport	37.1	12.2	6	89.9	0	0	0
+RAIL0967	Intermodal Rail	07/04/2024	16:25	11.5	80.5	3.7	Spoiled	Vegetables	Delhi	Bengaluru	155.4	94.2	4.5	0	0	0	7.7
+RAIL0240	Intermodal Rail	29/12/2025	21:25	3.5	74.4	3.6	Fresh	Dairy	Chennai	Nagpur	149.5	20.6	6	0	0	0	3.6
+RAIL0997	Intermodal Rail	12/11/2025	11:30	6.2	67.7	3.4	Fresh	Vegetables	Chennai	Bengaluru	136.5	14.9	9.3	0	0	0	4.6
+TRK0685	Cold-Chain Road Truck	09/08/2025	20:35	10.7	93.6	7.5	At Risk	Vegetables	Indore	Delhi	69.1	48.1	6.9	0	13	0	0
+RAIL0800	Intermodal Rail	31/10/2025	19:45	4.1	66.6	2.3	Fresh	Vegetables	Guwahati	Jaipur	142.8	21.2	8.7	0	0	0	6.8
+TRK0836	Cold-Chain Road Truck	06/06/2026	9:20	7.4	93.5	3.8	At Risk	Seafood	Hyderabad	Bhopal	8.6	26.4	3	0	1	0	0
+AIR0397	Air Freight	09/01/2024	8:35	4	32.3	0.1	Fresh	Dairy	Mumbai Airport	Dubai Airport	37	20.3	6	91.2	0	0	0
+SEA0635	Sea Freight	08/12/2024	9:05	7.7	98.7	1.7	Fresh	Fruits	Vizag Port	Felixstowe Port	512.3	21.4	10.4	0	0	35.1	0
+AIR0179	Air Freight	25/03/2026	14:20	1.9	31.1	0.3	Fresh	Meat	Hyderabad Airport	Amsterdam Airport	28.7	17.5	5.4	90.8	0	0	0
+RAIL0155	Intermodal Rail	18/11/2025	22:05	-0.7	55.1	3.6	Fresh	Pharmaceuticals	Kolkata	Kochi	143	6.4	28.8	0	0	0	0.4
+TRK0561	Cold-Chain Road Truck	09/05/2024	7:05	4.5	64.6	4.1	Fresh	Meat	Bengaluru	Bhopal	20	21.4	5.2	0	3	0	0
+TRK0515	Cold-Chain Road Truck	29/12/2024	21:45	10.7	58.4	2.7	At Risk	Vegetables	Nashik	Indore	44.4	26.1	8.3	0	8	0	0
+SEA0502	Sea Freight	07/10/2025	21:25	4.7	77.4	0.2	Fresh	Seafood	Chennai Port	Dubai Port	417.5	15	3.7	0	0	34.2	0
+TRK0432	Cold-Chain Road Truck	08/03/2024	5:35	14.3	74.6	3.5	At Risk	Dairy	Hyderabad	Delhi	16.4	34.6	4.8	0	2	0	0
+RAIL0573	Intermodal Rail	30/12/2025	8:45	2.8	43.2	2.8	Fresh	Vegetables	Guwahati	Chennai	162.1	16.3	9	0	0	0	7.4
+AIR0107	Air Freight	13/02/2025	10:40	5.8	29	4.9	Fresh	Dairy	Bengaluru Airport	Frankfurt Airport	42.6	24.6	5.7	84.6	0	0	0
+TRK0658	Cold-Chain Road Truck	15/05/2025	20:05	3	80.1	4.5	At Risk	Vegetables	Lucknow	Chennai	40.1	35.4	7.7	0	5	0	0
+AIR0013	Air Freight	12/09/2025	6:05	10.5	35.8	0.9	Fresh	Vegetables	Kolkata Airport	London Heathrow Airport	29.6	16.3	9.1	87.6	0	0	0
+TRK0395	Cold-Chain Road Truck	30/01/2024	14:40	8.3	74.7	3.5	Fresh	Flowers	Indore	Jaipur	5.5	18.6	4.4	0	1	0	0
+AIR0985	Air Freight	13/08/2024	0:00	6.7	38.3	0.7	Fresh	Dairy	Bengaluru Airport	Hong Kong Airport	31.6	23.9	6.5	75.5	0	0	0
+SEA0078	Sea Freight	08/06/2026	19:45	10.1	87.1	1.9	Fresh	Pharmaceuticals	Kolkata Port	Shanghai Port	507.7	13.9	27.5	0	0	32.2	0
+AIR0887	Air Freight	06/05/2026	22:50	6.1	34.7	3	Fresh	Dairy	Mumbai Airport	Frankfurt Airport	38.3	19.7	6.3	95	0	0	0
+TRK0981	Cold-Chain Road Truck	14/12/2025	23:20	9.7	84.3	6.4	At Risk	Fruits	Hyderabad	Delhi	42.4	37.8	9.2	0	6	0	0
+RAIL0410	Intermodal Rail	19/08/2024	21:15	6.2	52.4	2.9	Fresh	Pharmaceuticals	Kolkata	Kochi	120.2	9	28.3	0	0	0	2.8
+RAIL0583	Intermodal Rail	12/09/2024	5:05	6.8	53.5	2.2	Fresh	Dairy	Kolkata	Nagpur	133.8	20.3	6.7	0	0	0	6.1
+TRK0627	Cold-Chain Road Truck	15/08/2024	17:10	1.3	83.6	5.1	At Risk	Meat	Lucknow	Jaipur	42.4	40.1	4.5	0	6	0	0
+SEA0542	Sea Freight	06/11/2024	4:00	9.7	90.4	1.5	Fresh	Pharmaceuticals	Chennai Port	Rotterdam Port	508.7	13.1	27.4	0	0	27.6	0
+SEA0710	Sea Freight	23/09/2024	4:50	3.7	73.8	2	Fresh	Seafood	Vizag Port	Rotterdam Port	363.5	15	3.9	0	0	30	0
+RAIL0695	Intermodal Rail	11/12/2025	11:15	2.5	47.3	2.2	Fresh	Seafood	Mumbai	Jammu	126.5	4.5	3.5	0	0	0	3.6
+SEA0123	Sea Freight	08/07/2026	21:25	7.3	93.3	1.5	Fresh	Meat	Cochin Port	Felixstowe Port	386.3	23.4	4.8	0	0	34	0
+SEA0787	Sea Freight	23/05/2025	19:50	5.5	88.5	0.4	At Risk	Dairy	Chennai Port	Felixstowe Port	574.6	25.6	6	0	0	32.4	0
+SEA0527	Sea Freight	26/07/2025	6:30	5.5	86.5	1.4	Fresh	Flowers	Mundra Port	Jebel Ali Port	548.8	24.1	4.2	0	0	35.1	0
+AIR0193	Air Freight	28/07/2025	10:10	-5.5	41.6	1.1	Fresh	Flowers	Chennai Airport	Dubai Airport	27	21.1	4.3	86.2	0	0	0
+SEA0333	Sea Freight	20/05/2025	11:25	-0.5	90.1	2.8	Fresh	Meat	Vizag Port	Colombo Port	636.9	23.5	5.6	0	0	28.7	0
+SEA0192	Sea Freight	04/09/2025	23:30	8.6	69.2	2	Fresh	Seafood	Mumbai Port	Colombo Port	420.4	18.9	3.7	0	0	35.3	0
+RAIL0986	Intermodal Rail	13/01/2026	11:20	2.6	31.3	3.7	Fresh	Seafood	Delhi	Jaipur	147.6	13.3	3.3	0	0	0	3.5
+TRK0192	Cold-Chain Road Truck	21/02/2025	12:15	-0.3	70.1	5.1	At Risk	Meat	Indore	Nashik	38.7	25.8	5	0	5	0	0
+TRK0614	Cold-Chain Road Truck	20/05/2026	11:10	4.4	81.5	7.5	At Risk	Meat	Indore	Udaipur	67.2	51.7	4.6	0	9	0	0
+SEA0032	Sea Freight	12/09/2025	18:00	6.8	95.4	2.4	At Risk	Dairy	Cochin Port	Singapore Port	398.6	25.4	6.2	0	0	36.4	0
+RAIL0043	Intermodal Rail	19/02/2026	9:50	-0.6	86.3	1.8	Fresh	Dairy	Delhi	Jaipur	129.2	10.8	6.4	0	0	0	0.2
+RAIL0795	Intermodal Rail	13/12/2024	19:00	-5	79.7	2.5	Fresh	Meat	Chennai	Kochi	125.4	21.4	5.4	0	0	0	8.7
+TRK0330	Cold-Chain Road Truck	18/04/2026	18:00	3	58.8	7.6	At Risk	Dairy	Chennai	Mumbai	71.8	49	5.1	0	10	0	0
+AIR0060	Air Freight	03/04/2025	19:10	3.3	18.3	0.3	Fresh	Pharmaceuticals	Bengaluru Airport	Amsterdam Airport	37.9	19.5	26.7	82.7	0	0	0
+TRK0004	Cold-Chain Road Truck	03/05/2024	22:50	6.2	66.3	3.2	Fresh	Dairy	Ahmedabad	Nashik	13.4	17.9	6.2	0	1	0	0
+SEA0842	Sea Freight	13/04/2024	4:30	5.1	94.9	1.5	Fresh	Vegetables	Cochin Port	Colombo Port	530.2	18.7	8.9	0	0	33.6	0
+AIR0519	Air Freight	07/05/2026	8:00	-3.4	27.2	1.1	Fresh	Pharmaceuticals	Mumbai Airport	Singapore Airport	42.3	7.5	28.4	84.2	0	0	0
+TRK0947	Cold-Chain Road Truck	26/02/2026	18:30	8.3	73	5.7	At Risk	Flowers	Pune	Hyderabad	41.9	41.1	3.6	0	6	0	0
+SEA0475	Sea Freight	15/02/2024	13:35	2.5	91.6	2	Fresh	Flowers	Mumbai Port	Shanghai Port	563.2	22.9	4.3	0	0	31	0
+AIR0311	Air Freight	14/12/2024	17:05	2.8	33.3	0.4	Fresh	Seafood	Mumbai Airport	Doha Airport	31	18.7	3.8	84.1	0	0	0
+RAIL0074	Intermodal Rail	09/02/2026	9:50	13.9	36.6	1.5	Fresh	Fruits	Delhi	Jammu	123.7	18.6	10.3	0	0	0	6.8
+AIR0943	Air Freight	07/01/2024	23:40	3.3	25	0.5	Fresh	Dairy	Kolkata Airport	Doha Airport	29.3	5.4	6.4	94.6	0	0	0
+TRK0257	Cold-Chain Road Truck	27/03/2025	9:35	4.5	75.4	3.2	Fresh	Seafood	Ahmedabad	Kolkata	14.4	22.9	3.4	0	2	0	0
+AIR0585	Air Freight	11/09/2025	19:35	2.3	44.5	0.1	Fresh	Meat	Chennai Airport	London Heathrow Airport	39.8	18.2	5.4	93.4	0	0	0
+SEA0909	Sea Freight	13/04/2026	9:35	3.9	90.7	1.6	At Risk	Meat	Mundra Port	Shanghai Port	562.4	30.1	4.6	0	0	34.6	0
+SEA0480	Sea Freight	30/08/2024	14:15	2.6	93.9	2.5	At Risk	Flowers	Vizag Port	Dubai Port	444.2	26	4	0	0	34.5	0
+RAIL0359	Intermodal Rail	14/01/2024	14:25	0.8	88.2	1.8	Fresh	Meat	Mumbai	Jammu	150.2	19.3	5.5	0	0	0	5.2
+TRK0842	Cold-Chain Road Truck	04/11/2024	15:10	9.8	78.8	5.1	At Risk	Fruits	Ahmedabad	Nashik	38.8	32.4	9.6	0	6	0	0
+RAIL0947	Intermodal Rail	02/01/2026	16:10	1.5	58.4	3.7	Fresh	Meat	Kolkata	Bengaluru	164.4	16.6	5.9	0	0	0	3.5
+SEA0060	Sea Freight	15/02/2024	0:35	4.4	98.2	1.6	Fresh	Dairy	Mumbai Port	Felixstowe Port	443	21.8	6.1	0	0	33.7	0
+AIR0695	Air Freight	23/12/2025	1:05	5.5	36.5	1.3	Fresh	Pharmaceuticals	Chennai Airport	London Heathrow Airport	35.8	11.3	28	99.1	0	0	0
+AIR0367	Air Freight	07/01/2025	19:40	3.1	27.5	0.5	Fresh	Flowers	Bengaluru Airport	Doha Airport	46.3	21.9	4.4	89.5	0	0	0
+TRK0997	Cold-Chain Road Truck	01/03/2024	3:10	5	64.9	4.5	Fresh	Dairy	Hyderabad	Udaipur	17.5	23.4	6	0	3	0	0
+TRK0456	Cold-Chain Road Truck	08/07/2024	14:25	2.4	55.2	7	At Risk	Dairy	Surat	Indore	66.9	44.6	5.1	0	13	0	0
+AIR0736	Air Freight	07/07/2025	4:05	-8.2	22.9	4.2	Fresh	Meat	Bengaluru Airport	Hong Kong Airport	37.5	19.1	5.9	98.3	0	0	0
+SEA0434	Sea Freight	26/04/2024	14:15	14.9	94.2	2.9	Fresh	Vegetables	Cochin Port	Los Angeles Port	398.1	21.4	8.3	0	0	27.4	0
+SEA0965	Sea Freight	15/09/2025	18:25	-0.1	75	1.9	Fresh	Seafood	Chennai Port	Rotterdam Port	365.5	4.7	4	0	0	33.5	0
+TRK0872	Cold-Chain Road Truck	18/03/2026	13:10	0.8	91.1	6.7	At Risk	Fruits	Lucknow	Kolkata	55.4	30.1	9.3	0	8	0	0
+AIR0798	Air Freight	12/04/2025	15:45	2.4	15	0.8	Fresh	Seafood	Delhi Airport	Frankfurt Airport	29.1	7.4	4	86.4	0	0	0
+RAIL0318	Intermodal Rail	01/05/2025	17:00	6.9	60.4	2.4	Fresh	Vegetables	Ahmedabad	Jammu	150.1	19.9	9.5	0	0	0	3.9
+AIR0359	Air Freight	20/05/2024	17:40	-0.6	44.3	1.1	Fresh	Meat	Kolkata Airport	Doha Airport	33.2	18.1	5.6	85.8	0	0	0
+AIR0040	Air Freight	02/11/2024	19:25	1	20.1	0.5	Fresh	Pharmaceuticals	Bengaluru Airport	London Heathrow Airport	35.6	5.5	29.6	89.4	0	0	0
+AIR0373	Air Freight	10/07/2026	14:35	1.1	40.7	5.1	At Risk	Meat	Delhi Airport	Frankfurt Airport	46.7	27.3	4.7	87.4	0	0	0
+AIR0410	Air Freight	05/05/2024	21:30	6.5	23.2	1.1	Fresh	Dairy	Hyderabad Airport	Frankfurt Airport	47.9	23.4	6.3	84.6	0	0	0
+RAIL0335	Intermodal Rail	09/06/2025	11:45	1.2	72.8	1.2	Fresh	Seafood	Delhi	Nagpur	135.6	20	3.4	0	0	0	3.5
+RAIL0840	Intermodal Rail	04/04/2026	8:20	8.8	70.7	2.2	Fresh	Vegetables	Kolkata	Bengaluru	137.3	15.6	9.2	0	0	0	2.8
+AIR0681	Air Freight	15/06/2025	13:25	3.8	16.4	0.1	Fresh	Pharmaceuticals	Kolkata Airport	Doha Airport	41.5	10	28	90.4	0	0	0
+RAIL0759	Intermodal Rail	17/12/2024	21:00	0	63.3	3.3	Fresh	Seafood	Ahmedabad	Jaipur	147.1	19.4	3.6	0	0	0	6.3
+TRK0887	Cold-Chain Road Truck	03/12/2025	15:20	4.1	78.2	4.3	At Risk	Flowers	Bhopal	Bengaluru	52.6	39.2	4.1	0	7	0	0
+TRK0074	Cold-Chain Road Truck	04/01/2025	14:40	-0.9	63.8	2.1	Fresh	Meat	Mumbai	Pune	10	6.2	5.7	0	1	0	0
+RAIL0184	Intermodal Rail	28/04/2025	2:05	10	68.3	2.8	Fresh	Fruits	Guwahati	Jaipur	140.9	11.6	11.1	0	0	0	2.9
+RAIL0802	Intermodal Rail	22/09/2024	3:20	1.7	58	0.7	Fresh	Flowers	Ahmedabad	Kochi	135	18.6	4.9	0	0	0	7.6
+AIR0716	Air Freight	23/04/2026	4:15	1.1	30.1	0.7	Fresh	Dairy	Mumbai Airport	Amsterdam Airport	30.2	17.8	6.5	85.9	0	0	0
+RAIL0841	Intermodal Rail	10/04/2026	17:35	7.2	64.4	0.9	Fresh	Vegetables	Kolkata	Chennai	151.2	18.3	8.5	0	0	0	4.2
+TRK0563	Cold-Chain Road Truck	27/09/2025	0:40	14.9	92.7	7.3	At Risk	Fruits	Surat	Kolkata	69	54.5	7.9	0	10	0	0
+TRK0686	Cold-Chain Road Truck	23/10/2024	1:00	12.7	70.3	5.5	At Risk	Dairy	Bengaluru	Udaipur	33.9	41.7	4.7	0	4	0	0
+TRK0133	Cold-Chain Road Truck	21/09/2025	21:45	2.1	72.2	3.3	Fresh	Seafood	Kolkata	Lucknow	11.8	15.8	3.6	0	1	0	0
+SEA0307	Sea Freight	25/09/2025	9:00	11.2	99	1.7	At Risk	Fruits	Chennai Port	Singapore Port	542.1	26.7	9.9	0	0	35.5	0
+RAIL0114	Intermodal Rail	19/03/2024	14:30	9.5	55.4	3.7	At Risk	Flowers	Chennai	Bengaluru	132	28	3.7	0	0	0	7.9
+TRK0367	Cold-Chain Road Truck	27/04/2025	4:10	6.7	75.8	4.6	At Risk	Flowers	Hyderabad	Delhi	62.3	50.7	4	0	10	0	0
+TRK0397	Cold-Chain Road Truck	11/03/2024	19:35	5.7	31	6	At Risk	Vegetables	Lucknow	Nashik	50.7	25.2	8.4	0	9	0	0
+TRK0784	Cold-Chain Road Truck	20/10/2025	18:15	6.1	83	4.6	At Risk	Vegetables	Delhi	Nashik	43.3	33.8	7.9	0	6	0	0
+SEA0856	Sea Freight	20/02/2025	5:40	10.6	78.2	1.6	At Risk	Meat	Kolkata Port	Jebel Ali Port	560.7	26.1	5	0	0	28.1	0
+SEA0525	Sea Freight	15/03/2024	17:40	11.6	82.6	1	At Risk	Fruits	Kandla Port	Los Angeles Port	469.4	26.4	10.1	0	0	32.6	0
+AIR0954	Air Freight	08/02/2024	4:20	4.2	48.8	0.4	Fresh	Vegetables	Chennai Airport	Dubai Airport	37.4	17.1	9.3	83.8	0	0	0
+TRK0196	Cold-Chain Road Truck	26/07/2025	2:10	4.9	74.9	5	At Risk	Flowers	Kolkata	Ahmedabad	55.2	41.1	4.3	0	7	0	0
+SEA0630	Sea Freight	30/03/2024	21:30	9.1	90	2.7	Spoiled	Seafood	Cochin Port	Felixstowe Port	658.2	86.2	1.4	0	0	30.8	0
+AIR0002	Air Freight	20/07/2024	13:25	3.8	33.4	0.9	Fresh	Flowers	Kolkata Airport	Frankfurt Airport	42.7	23.6	4.1	85.3	0	0	0
+TRK0307	Cold-Chain Road Truck	29/03/2026	6:20	3.2	97.2	8.2	At Risk	Vegetables	Surat	Jaipur	70.2	46.1	7.1	0	8	0	0
+SEA0798	Sea Freight	21/08/2026	20:40	11	89.9	2	Fresh	Fruits	Kandla Port	Shanghai Port	433.6	23.6	9.7	0	0	32	0
+TRK0717	Cold-Chain Road Truck	30/01/2024	6:40	4.1	36	2.8	Fresh	Flowers	Kolkata	Bengaluru	32.2	16.8	5	0	4	0	0
+AIR0269	Air Freight	05/09/2024	23:35	0.5	16.5	0.6	Fresh	Flowers	Kolkata Airport	Hong Kong Airport	30.4	18	4.4	73.6	0	0	0
+TRK0224	Cold-Chain Road Truck	21/02/2025	5:30	1.2	77.6	4.6	At Risk	Flowers	Mumbai	Indore	36.4	32.3	3.9	0	5	0	0
+AIR0717	Air Freight	28/06/2025	5:50	-7.8	41.7	1.3	At Risk	Flowers	Mumbai Airport	Hong Kong Airport	40.6	28.1	4.8	80.1	0	0	0
+AIR0345	Air Freight	02/05/2025	5:15	4.8	23.5	3.8	Fresh	Dairy	Delhi Airport	Hong Kong Airport	43.9	23.4	6.2	90	0	0	0
+RAIL0689	Intermodal Rail	04/10/2025	0:55	2.8	51.2	1.9	Fresh	Meat	Guwahati	Chennai	123.8	8.9	5.8	0	0	0	5
+AIR0741	Air Freight	04/06/2026	7:40	0.7	32.8	0.6	Fresh	Seafood	Kolkata Airport	Dubai Airport	31.6	20.4	3.8	85.6	0	0	0
+RAIL0073	Intermodal Rail	26/09/2024	0:35	12.4	31.6	4.6	Fresh	Fruits	Mumbai	Chennai	130.5	11	10.6	0	0	0	5.2
+SEA0902	Sea Freight	10/02/2025	21:30	13.3	89.2	0.3	At Risk	Fruits	Cochin Port	Dubai Port	594.2	25.1	10	0	0	35.8	0
+RAIL0083	Intermodal Rail	02/09/2024	2:55	7.6	60.7	4.9	Fresh	Pharmaceuticals	Delhi	Nagpur	136.7	7.4	28.7	0	0	0	1.7
+SEA0013	Sea Freight	08/08/2025	11:00	0	97.5	1.8	Fresh	Meat	Chennai Port	Shanghai Port	528.4	21.9	5	0	0	34.8	0
+RAIL0201	Intermodal Rail	02/04/2026	9:15	5.9	48	0.6	Fresh	Dairy	Guwahati	Jammu	132.1	10.8	6.7	0	0	0	2.1
+TRK0360	Cold-Chain Road Truck	29/07/2026	21:40	5.8	57.5	4.4	Fresh	Pharmaceuticals	Lucknow	Jaipur	24	9.8	28.2	0	3	0	0
+SEA0311	Sea Freight	12/06/2025	3:25	4.5	84.9	2	Fresh	Pharmaceuticals	Kandla Port	Colombo Port	656.3	17.1	26.8	0	0	33.5	0
+RAIL0731	Intermodal Rail	10/04/2026	11:15	4.7	67.4	3.2	Fresh	Vegetables	Mumbai	Kochi	120.1	5.1	9.6	0	0	0	2.4
+AIR0057	Air Freight	04/06/2026	6:00	5.7	34.5	0.9	At Risk	Vegetables	Hyderabad Airport	Amsterdam Airport	35.2	27.9	8.5	69.9	0	0	0
+RAIL0817	Intermodal Rail	14/06/2024	4:05	10.1	82.8	2.7	Fresh	Pharmaceuticals	Ahmedabad	Nagpur	163	14.2	27.1	0	0	0	0.2
+RAIL0891	Intermodal Rail	06/02/2026	7:25	1.6	44.9	4.4	Fresh	Meat	Ahmedabad	Guwahati	136.6	10.2	5.9	0	0	0	3.6
+TRK0318	Cold-Chain Road Truck	28/07/2024	7:10	7.4	69	3.8	At Risk	Dairy	Indore	Bengaluru	36.3	33.3	5.5	0	4	0	0
+RAIL0478	Intermodal Rail	12/10/2025	17:05	3.8	80.7	3.6	At Risk	Flowers	Ahmedabad	Jaipur	128.1	26.5	4.5	0	0	0	4.9
+TRK0977	Cold-Chain Road Truck	22/05/2026	9:35	5.3	60.6	6.7	At Risk	Seafood	Delhi	Jaipur	57.9	44.7	3.4	0	10	0	0
+SEA0531	Sea Freight	05/07/2024	2:10	11.6	80.9	1.7	Fresh	Meat	Cochin Port	Los Angeles Port	480.4	21.2	5.5	0	0	35.4	0
+RAIL0035	Intermodal Rail	10/05/2025	13:10	6.4	42	3.4	Fresh	Flowers	Ahmedabad	Guwahati	137.1	22.2	4.5	0	0	0	5.6
+AIR0414	Air Freight	16/01/2024	3:15	4.6	34.1	1.1	At Risk	Flowers	Hyderabad Airport	Singapore Airport	39.5	28.9	4.7	82.2	0	0	0
+RAIL0793	Intermodal Rail	30/11/2024	0:15	-1.8	79.3	2.5	Fresh	Seafood	Kolkata	Chennai	130.6	7.7	4	0	0	0	0.7
+AIR0986	Air Freight	08/09/2024	4:25	8.2	42.9	1.1	Fresh	Fruits	Bengaluru Airport	London Heathrow Airport	40.5	23.8	9.9	79.7	0	0	0
+AIR0542	Air Freight	10/02/2025	11:50	2.8	23.8	4.4	Fresh	Dairy	Bengaluru Airport	Amsterdam Airport	28.7	6.3	6.4	93.8	0	0	0
+RAIL0801	Intermodal Rail	23/06/2024	7:55	6.2	47.2	2.3	Fresh	Fruits	Mumbai	Nagpur	138.2	11.9	11.8	0	0	0	7.1
+SEA0053	Sea Freight	09/02/2025	16:15	1.8	85.7	1.3	Fresh	Meat	Kandla Port	Colombo Port	586.3	19.9	5.5	0	0	29.4	0
+SEA0681	Sea Freight	08/04/2024	15:25	8.7	97.9	1.4	At Risk	Vegetables	Mundra Port	Hamburg Port	676.2	30.1	7.6	0	0	27.6	0
+RAIL0666	Intermodal Rail	10/05/2024	8:10	1.1	77	2.9	Fresh	Meat	Mumbai	Jammu	166.3	18.5	5.7	0	0	0	4.6
+SEA0802	Sea Freight	01/07/2025	16:30	20.6	79.4	1.6	At Risk	Fruits	Kandla Port	Jebel Ali Port	700.8	27.4	10	0	0	27.8	0
+AIR0909	Air Freight	08/09/2025	9:25	5.7	21.9	1	Fresh	Pharmaceuticals	Chennai Airport	Hong Kong Airport	45.1	20.4	26.7	82.1	0	0	0
+SEA0995	Sea Freight	05/05/2025	18:25	7.4	94.8	2.4	Fresh	Vegetables	Cochin Port	Jebel Ali Port	499.6	20.9	8.6	0	0	31.1	0
+TRK0683	Cold-Chain Road Truck	01/02/2026	5:10	8.9	82.2	4.5	At Risk	Flowers	Indore	Pune	26.7	36.4	3.8	0	3	0	0
+SEA0410	Sea Freight	26/09/2024	16:15	4	74.2	7	Fresh	Pharmaceuticals	Vizag Port	Rotterdam Port	404.5	11.3	28	0	0	32.5	0
+SEA0318	Sea Freight	13/06/2026	4:40	8.7	77.8	1.5	Fresh	Pharmaceuticals	Mumbai Port	Singapore Port	593.7	16.8	27.2	0	0	34.3	0
+SEA0947	Sea Freight	07/02/2026	1:40	11	77.9	1.6	Fresh	Fruits	Chennai Port	Los Angeles Port	675.8	24	9.9	0	0	31.5	0
+AIR0981	Air Freight	09/08/2025	15:25	1.3	22.2	0.9	Fresh	Meat	Hyderabad Airport	London Heathrow Airport	41.9	20.4	5.7	83.5	0	0	0
+SEA0899	Sea Freight	11/06/2025	1:35	4.8	85.5	1.4	Fresh	Pharmaceuticals	Kolkata Port	Colombo Port	645	16.4	27.2	0	0	31	0
+RAIL0328	Intermodal Rail	14/09/2024	3:20	2.4	43.6	2.1	Fresh	Flowers	Guwahati	Jaipur	162.3	21.6	4.8	0	0	0	6.8
+AIR0793	Air Freight	20/11/2024	17:55	8.5	28.5	0.4	Fresh	Pharmaceuticals	Hyderabad Airport	Dubai Airport	42.9	14.2	27.9	88.6	0	0	0
+AIR0381	Air Freight	12/02/2024	14:00	-6	10.8	1.1	Fresh	Dairy	Delhi Airport	Hong Kong Airport	35.5	14.9	7	90	0	0	0
+AIR0630	Air Freight	01/06/2026	17:25	4	34.8	4.7	Fresh	Pharmaceuticals	Bengaluru Airport	Singapore Airport	33.6	19.6	27.2	90.1	0	0	0
+AIR0257	Air Freight	11/07/2026	20:40	3.9	36.6	0.5	Fresh	Seafood	Kolkata Airport	Dubai Airport	40.8	17	3.4	94.1	0	0	0
+RAIL0053	Intermodal Rail	24/02/2024	1:55	-2.1	66.5	3.1	Fresh	Seafood	Chennai	Bengaluru	161.6	11.5	3.7	0	0	0	0.2
+AIR0689	Air Freight	04/07/2025	13:25	1.3	34.7	1.2	Fresh	Dairy	Hyderabad Airport	Hong Kong Airport	36.1	14.8	6.6	82.8	0	0	0
+RAIL0413	Intermodal Rail	14/08/2026	10:55	-1	74.7	2.9	Fresh	Seafood	Delhi	Nagpur	144.9	19.3	3.4	0	0	0	6.1
+SEA0335	Sea Freight	10/04/2024	7:20	7.6	88.7	1.7	At Risk	Meat	Cochin Port	Jebel Ali Port	660.6	34.3	4.5	0	0	28.9	0
+RAIL0355	Intermodal Rail	30/12/2024	21:00	1.3	50.9	3.2	Fresh	Flowers	Guwahati	Jammu	137.7	5.1	5	0	0	0	1
+TRK0114	Cold-Chain Road Truck	08/07/2026	8:10	4.2	94.4	4.3	At Risk	Vegetables	Chennai	Surat	41.5	34.4	7.8	0	5	0	0
+AIR0983	Air Freight	01/03/2026	9:35	1.1	10.6	1	Fresh	Seafood	Hyderabad Airport	Hong Kong Airport	30.2	13	3.4	91.5	0	0	0
+RAIL0728	Intermodal Rail	08/12/2025	9:15	1.2	66.6	3.4	Fresh	Meat	Mumbai	Chennai	143.6	16.9	5.2	0	0	0	5
+RAIL0603	Intermodal Rail	20/01/2024	7:05	11.8	69	3.8	Fresh	Fruits	Delhi	Nagpur	126	19.5	10.5	0	0	0	4.9
+SEA0073	Sea Freight	31/08/2024	0:35	11	90.6	1.3	Fresh	Pharmaceuticals	Vizag Port	Los Angeles Port	552.9	18.2	26.6	0	0	31.4	0
+TRK0237	Cold-Chain Road Truck	20/07/2024	0:35	12.1	99	3	Fresh	Fruits	Nashik	Bhopal	16	24.7	10.2	0	3	0	0
+SEA0290	Sea Freight	02/08/2024	11:45	3.1	91.2	2.7	Fresh	Dairy	Vizag Port	Singapore Port	517.9	24	6.4	0	0	36.8	0
+RAIL0123	Intermodal Rail	09/02/2025	19:15	1.5	88.4	4.4	Fresh	Seafood	Kolkata	Jaipur	125.5	21.9	3.6	0	0	0	3.4
+RAIL0700	Intermodal Rail	20/09/2025	18:05	15.1	46.5	2.7	Fresh	Fruits	Delhi	Jaipur	150.1	21.6	10.5	0	0	0	6.9
+AIR0339	Air Freight	13/12/2025	5:50	3.9	28.7	0.6	Fresh	Flowers	Kolkata Airport	Amsterdam Airport	37.8	19.1	4.1	86.5	0	0	0
+RAIL0200	Intermodal Rail	26/01/2026	6:55	5.8	60.3	2.6	Fresh	Dairy	Delhi	Jaipur	122.1	16.1	6.4	0	0	0	1.9
+TRK0651	Cold-Chain Road Truck	29/07/2025	4:05	7.1	87.6	4	At Risk	Fruits	Surat	Kolkata	47.4	31.8	9.6	0	9	0	0
+AIR0724	Air Freight	17/05/2025	5:25	2.5	19.4	0.8	Fresh	Dairy	Mumbai Airport	Doha Airport	39.1	20	6.5	82.8	0	0	0
+AIR0826	Air Freight	07/09/2024	20:50	5.2	37.6	0.5	Fresh	Flowers	Hyderabad Airport	Doha Airport	36.3	16.5	4.8	89	0	0	0
+SEA0163	Sea Freight	03/07/2026	15:55	1.1	88.4	2	Fresh	Seafood	Vizag Port	Colombo Port	584.6	19.2	4	0	0	27.1	0
+RAIL0314	Intermodal Rail	24/04/2024	21:00	5.9	56.6	3.4	Fresh	Vegetables	Chennai	Kochi	136.8	17.3	8.3	0	0	0	4.7
+AIR0883	Air Freight	30/01/2024	22:05	-5.3	31.3	0.7	At Risk	Flowers	Kolkata Airport	Singapore Airport	30.6	25.2	4.4	73.4	0	0	0
+AIR0423	Air Freight	17/06/2024	16:30	10.8	15.2	0.8	Fresh	Vegetables	Chennai Airport	Dubai Airport	41.8	18.5	9.3	84.2	0	0	0
+RAIL0952	Intermodal Rail	15/05/2026	14:40	11.8	52.5	2.2	Fresh	Fruits	Chennai	Jaipur	157.8	16	10.8	0	0	0	5
+RAIL0983	Intermodal Rail	05/08/2026	21:10	3.1	67.3	3.1	Fresh	Seafood	Ahmedabad	Bengaluru	141.1	19.6	3.5	0	0	0	5.1
+SEA0319	Sea Freight	05/07/2025	1:35	5.9	79.6	2.4	Fresh	Pharmaceuticals	Mumbai Port	Colombo Port	527.1	14.5	27.7	0	0	28.1	0
+RAIL0333	Intermodal Rail	09/02/2024	6:55	11.2	57.4	2.1	Fresh	Vegetables	Mumbai	Bengaluru	132.9	20.2	8.6	0	0	0	9.2
+RAIL0798	Intermodal Rail	12/12/2025	21:45	2.6	48.6	3.1	Fresh	Pharmaceuticals	Delhi	Kochi	160.2	14	27.4	0	0	0	6.1
+TRK0741	Cold-Chain Road Truck	03/10/2024	16:35	1.3	84.7	6.9	At Risk	Vegetables	Chennai	Kolkata	68.8	47.7	6.3	0	11	0	0
+TRK0650	Cold-Chain Road Truck	29/11/2025	0:10	2.5	78.2	4	At Risk	Seafood	Lucknow	Jaipur	50.8	44.5	3.5	0	8	0	0
+SEA0818	Sea Freight	17/04/2025	20:20	10.5	91	1.5	Fresh	Fruits	Vizag Port	Shanghai Port	572.5	21.8	10.3	0	0	33.6	0
+SEA0878	Sea Freight	19/06/2025	3:25	12.1	76.1	1.5	Fresh	Fruits	Kandla Port	Los Angeles Port	441.1	19	10.4	0	0	37.3	0
+TRK0486	Cold-Chain Road Truck	09/02/2025	3:35	2	77.4	4.8	At Risk	Dairy	Mumbai	Bhopal	32.1	28.4	5.7	0	6	0	0
+TRK0790	Cold-Chain Road Truck	27/02/2025	14:10	9.3	71.4	4.4	At Risk	Dairy	Jaipur	Surat	34.4	37.1	5.1	0	4	0	0
+RAIL0121	Intermodal Rail	07/07/2026	6:40	2	30	2.1	Fresh	Meat	Ahmedabad	Jaipur	145.6	5.3	6	0	0	0	4
+TRK0820	Cold-Chain Road Truck	04/10/2025	18:40	4.2	82.2	4.6	At Risk	Seafood	Pune	Nashik	24.9	30.3	3.2	0	3	0	0
+TRK0163	Cold-Chain Road Truck	02/09/2025	9:40	6.6	97.8	2.3	At Risk	Dairy	Pune	Bengaluru	3.9	28.6	5.8	0	1	0	0
+SEA0274	Sea Freight	09/08/2025	20:55	2.3	99	1.8	Fresh	Meat	Chennai Port	Jebel Ali Port	460.7	22.1	5.2	0	0	30.9	0
+TRK0840	Cold-Chain Road Truck	09/12/2025	20:40	6.3	50.6	5	At Risk	Pharmaceuticals	Hyderabad	Nashik	47	26.5	25.1	0	5	0	0
+RAIL0309	Intermodal Rail	15/04/2025	2:45	4.4	93.8	2	Fresh	Pharmaceuticals	Guwahati	Kochi	162.1	14.5	27	0	0	0	4.6
+TRK0032	Cold-Chain Road Truck	09/08/2026	17:20	8.1	92.7	6.5	Spoiled	Flowers	Pune	Nashik	62.3	55.4	3.9	0	9	0	0
+SEA0793	Sea Freight	23/11/2025	17:50	4.8	99	1.2	At Risk	Dairy	Kandla Port	Colombo Port	486.4	31.9	5.8	0	0	37.8	0
+RAIL0909	Intermodal Rail	19/04/2024	23:25	5	57.9	0.8	Fresh	Meat	Ahmedabad	Jaipur	165.6	23.5	5	0	0	0	7.1
+SEA0146	Sea Freight	13/11/2025	10:45	0.5	82.1	1.9	At Risk	Meat	Chennai Port	Felixstowe Port	638	30.2	4.4	0	0	36.7	0
+RAIL0544	Intermodal Rail	13/04/2024	20:40	4.1	41.8	4	Fresh	Flowers	Guwahati	Jaipur	154.4	15.4	4.5	0	0	0	3
+AIR0004	Air Freight	03/12/2024	5:40	8.4	10.2	1.4	Fresh	Fruits	Delhi Airport	Frankfurt Airport	46.5	14.5	11.5	91.8	0	0	0
+RAIL0230	Intermodal Rail	16/01/2025	5:35	11.9	76.2	2.7	Fresh	Fruits	Guwahati	Bengaluru	161.4	22	10.6	0	0	0	4.9
+TRK0946	Cold-Chain Road Truck	29/10/2025	22:30	10.8	84	4	At Risk	Seafood	Pune	Nashik	21.5	38.9	3	0	3	0	0
+AIR0958	Air Freight	28/06/2025	0:15	12.9	44.6	1	Fresh	Fruits	Hyderabad Airport	Singapore Airport	34.9	20.5	10.3	88.9	0	0	0
+SEA0309	Sea Freight	19/12/2024	23:30	2	88.1	1.4	At Risk	Meat	Chennai Port	Colombo Port	654.5	30.3	4.9	0	0	35.6	0
+TRK0473	Cold-Chain Road Truck	19/11/2024	11:05	13.6	82.6	4.6	At Risk	Meat	Delhi	Mumbai	32.3	45.8	4	0	5	0	0
+SEA0174	Sea Freight	24/06/2026	23:25	2.8	87.5	1	Fresh	Seafood	Chennai Port	Shanghai Port	404.2	22.7	3.4	0	0	36.1	0
+TRK0938	Cold-Chain Road Truck	01/01/2024	22:10	10.8	89.9	3.9	At Risk	Vegetables	Indore	Nashik	23.5	30.7	8.1	0	3	0	0
+SEA0800	Sea Freight	04/11/2024	14:35	8.7	83.4	1.8	At Risk	Flowers	Mundra Port	Shanghai Port	637.5	30.5	4.2	0	0	32.1	0
+SEA0193	Sea Freight	09/06/2024	21:50	16.4	89.4	0.8	At Risk	Vegetables	Kandla Port	Rotterdam Port	670.1	31.4	8.2	0	0	32.5	0
+RAIL0257	Intermodal Rail	08/03/2025	19:15	6.2	43.2	1.8	Fresh	Flowers	Delhi	Nagpur	135.1	14.2	4.7	0	0	0	3.2
+TRK0104	Cold-Chain Road Truck	20/03/2025	10:55	9.2	86.6	5.9	At Risk	Vegetables	Nashik	Surat	64.3	48	7.1	0	8	0	0
+TRK0886	Cold-Chain Road Truck	25/07/2025	18:55	6.5	80.9	6.6	At Risk	Vegetables	Bengaluru	Udaipur	61.6	49.1	6.9	0	12	0	0
+AIR0827	Air Freight	16/09/2025	13:35	-0.7	24.3	4.5	Fresh	Meat	Kolkata Airport	London Heathrow Airport	36.9	16.4	5.3	90.4	0	0	0
+RAIL0321	Intermodal Rail	26/04/2025	10:50	6.8	85.4	4.8	Fresh	Flowers	Mumbai	Jammu	137.9	24.8	4.1	0	0	0	5.8
+RAIL0519	Intermodal Rail	06/05/2024	18:35	8	44.1	1.5	Fresh	Dairy	Mumbai	Chennai	150	24.2	6.3	0	0	0	8.3
+SEA0989	Sea Freight	24/05/2026	0:15	4.3	90.4	1.7	At Risk	Dairy	Chennai Port	Colombo Port	672.1	26.4	5.7	0	0	32.7	0
+AIR0705	Air Freight	14/03/2024	18:45	2.8	35.3	0.1	Fresh	Dairy	Chennai Airport	London Heathrow Airport	32.9	14.9	6.5	79.5	0	0	0
+SEA0074	Sea Freight	08/06/2025	22:50	7.3	82.2	1.6	Fresh	Pharmaceuticals	Cochin Port	Los Angeles Port	689.1	19.2	26.4	0	0	40	0
+RAIL0105	Intermodal Rail	02/06/2024	5:15	11.7	69.2	2.3	At Risk	Vegetables	Chennai	Kochi	130.6	27	8.2	0	0	0	7.7
+AIR0104	Air Freight	23/12/2025	9:00	8.1	35.9	0.5	Fresh	Vegetables	Hyderabad Airport	Frankfurt Airport	41.4	18.6	8.7	92.7	0	0	0
+RAIL0163	Intermodal Rail	25/08/2026	15:00	0.7	80	0.6	At Risk	Dairy	Guwahati	Jammu	157.5	26.2	6	0	0	0	7.4
+SEA0349	Sea Freight	09/02/2026	8:00	12.9	95.8	1.6	Spoiled	Flowers	Mumbai Port	Singapore Port	675.2	94.7	2.3	0	0	37.9	0
+TRK0891	Cold-Chain Road Truck	24/02/2024	20:05	3.7	20.7	3	Fresh	Seafood	Chennai	Indore	5.7	6.7	4	0	1	0	0
+RAIL0060	Intermodal Rail	27/06/2026	14:15	6.3	90.3	2.6	Fresh	Vegetables	Kolkata	Jaipur	126.1	23.9	8.5	0	0	0	4.8
+TRK0333	Cold-Chain Road Truck	07/02/2024	14:25	0	89.6	4	At Risk	Seafood	Pune	Kolkata	32.8	35.8	3.1	0	4	0	0
+TRK0358	Cold-Chain Road Truck	07/01/2026	2:35	6.2	85.7	4.6	At Risk	Flowers	Bhopal	Surat	25.5	34.3	3.9	0	4	0	0
+TRK0787	Cold-Chain Road Truck	24/03/2026	7:40	-0.8	66.1	6.1	At Risk	Seafood	Lucknow	Bhopal	52.7	39.3	3.5	0	7	0	0
+TRK0878	Cold-Chain Road Truck	28/01/2026	10:00	3.9	79.8	2	Fresh	Vegetables	Udaipur	Lucknow	6.9	10.7	9.4	0	1	0	0
+SEA0891	Sea Freight	11/10/2025	13:25	13.8	84.7	2.6	At Risk	Fruits	Mumbai Port	Rotterdam Port	613.7	27.7	10.1	0	0	32.8	0
+TRK0145	Cold-Chain Road Truck	12/01/2025	6:25	11.6	55.1	3.8	At Risk	Flowers	Chennai	Jaipur	39.5	40.8	4	0	6	0	0
+AIR0302	Air Freight	02/09/2025	5:30	-4.7	40.7	1.4	Fresh	Dairy	Mumbai Airport	Dubai Airport	29.8	21.2	5.8	83.3	0	0	0
+RAIL0636	Intermodal Rail	26/01/2025	12:30	3.7	35.3	1.9	Fresh	Meat	Chennai	Bengaluru	124.6	9.3	5.2	0	0	0	2.9
+SEA0183	Sea Freight	08/07/2026	19:35	4.9	98.8	2.1	Fresh	Flowers	Chennai Port	Los Angeles Port	506.7	20	4.2	0	0	29.9	0
+RAIL0733	Intermodal Rail	27/08/2025	0:30	2	47.2	2.7	Fresh	Seafood	Kolkata	Jaipur	161	15.7	3.7	0	0	0	4
+RAIL0032	Intermodal Rail	27/08/2024	20:35	11.3	56.8	1.6	Fresh	Fruits	Guwahati	Chennai	128.6	10.2	11.2	0	0	0	3.7
+RAIL0988	Intermodal Rail	26/08/2025	4:35	7.3	41.7	1.8	Fresh	Pharmaceuticals	Kolkata	Jammu	167.6	7.9	28.4	0	0	0	5.5
+AIR0561	Air Freight	25/12/2025	7:25	4.7	38.9	1.5	Fresh	Meat	Mumbai Airport	Hong Kong Airport	34.3	21.6	5	90.6	0	0	0
+TRK0970	Cold-Chain Road Truck	27/07/2025	2:40	2.2	42.4	7.1	Fresh	Pharmaceuticals	Nashik	Hyderabad	55.6	21.6	26	0	9	0	0
+SEA0330	Sea Freight	28/10/2025	23:15	2.4	87.4	1.6	Fresh	Flowers	Vizag Port	Shanghai Port	432.1	19.2	3.8	0	0	32.3	0
+SEA0524	Sea Freight	17/05/2025	10:45	10.1	94.9	1.6	At Risk	Fruits	Kolkata Port	Colombo Port	702	31.6	9.6	0	0	34	0
+TRK0035	Cold-Chain Road Truck	28/04/2026	9:15	8.2	43.2	3.2	Fresh	Pharmaceuticals	Lucknow	Bengaluru	29.2	17.4	26.8	0	5	0	0
+SEA0325	Sea Freight	20/06/2026	20:55	5.9	91	2.3	Fresh	Dairy	Cochin Port	Rotterdam Port	470.4	23.9	6	0	0	34.5	0
+SEA0423	Sea Freight	05/09/2024	10:25	7.7	99	2.1	Fresh	Pharmaceuticals	Mumbai Port	Colombo Port	595.3	21.2	26.2	0	0	27.6	0
+RAIL0524	Intermodal Rail	11/01/2025	15:55	1.9	42	1.9	Fresh	Dairy	Ahmedabad	Nagpur	159	9	6.9	0	0	0	2.3
+RAIL0965	Intermodal Rail	12/02/2025	9:45	7.5	45	1.6	Fresh	Fruits	Chennai	Bengaluru	125.4	13.7	11.1	0	0	0	6.7
+AIR0229	Air Freight	05/01/2025	16:00	-10.1	43.5	1	Spoiled	Meat	Delhi Airport	Frankfurt Airport	42.5	91.5	3.3	81.1	0	0	0
+RAIL0229	Intermodal Rail	14/07/2025	19:50	0.5	66.9	1.7	Spoiled	Flowers	Kolkata	Nagpur	138.2	80	2.8	0	0	0	8.8
+AIR0555	Air Freight	14/03/2025	22:55	-8.3	34.9	0.8	Spoiled	Meat	Kolkata Airport	Singapore Airport	42.7	82.4	3.5	87.4	0	0	0
+RAIL0846	Intermodal Rail	08/10/2024	9:30	12.2	83.2	1.1	Fresh	Fruits	Guwahati	Jaipur	128	17.9	11.2	0	0	0	2.7
+TRK0902	Cold-Chain Road Truck	03/05/2024	8:40	12	83.8	5.6	At Risk	Fruits	Ahmedabad	Bhopal	51.4	36.6	9.3	0	7	0	0
+TRK0485	Cold-Chain Road Truck	08/09/2024	16:45	3.3	86.7	4	At Risk	Flowers	Pune	Nashik	44.4	36.1	3.9	0	6	0	0
+RAIL0624	Intermodal Rail	25/06/2025	8:15	11.5	34.1	3	Fresh	Fruits	Mumbai	Nagpur	140.2	8.8	11	0	0	0	3.4
+TRK0817	Cold-Chain Road Truck	10/12/2025	18:00	3.2	84.2	3.3	Fresh	Vegetables	Surat	Nashik	28.1	21.1	8.7	0	4	0	0
+AIR0510	Air Freight	18/04/2026	17:05	1.6	35.3	1.2	Fresh	Seafood	Chennai Airport	Doha Airport	31.4	20	3.5	79.4	0	0	0
+AIR0976	Air Freight	20/01/2026	3:15	4.1	35.7	5.6	Fresh	Fruits	Chennai Airport	Dubai Airport	35	16.2	10.9	77.3	0	0	0
+RAIL0856	Intermodal Rail	26/01/2024	23:55	12.7	66.6	3.4	Fresh	Fruits	Ahmedabad	Nagpur	122.5	17.4	10.8	0	0	0	5.8
+SEA0263	Sea Freight	17/05/2024	2:55	2.1	92.8	0.7	Fresh	Pharmaceuticals	Cochin Port	Dubai Port	613.6	16.4	26.9	0	0	35.9	0
+RAIL0463	Intermodal Rail	16/06/2026	3:10	7.9	82.8	3.5	Fresh	Pharmaceuticals	Chennai	Kochi	147.4	11.6	28	0	0	0	0.7
+TRK0013	Cold-Chain Road Truck	06/06/2026	2:00	4.9	88.1	4.7	At Risk	Vegetables	Ahmedabad	Chennai	26.8	27.4	8.3	0	3	0	0
+TRK0150	Cold-Chain Road Truck	12/10/2024	21:45	5.3	71.5	7.6	At Risk	Flowers	Indore	Chennai	68.2	53.1	4	0	9	0	0
+RAIL0224	Intermodal Rail	28/04/2024	11:55	6.2	85	1	Fresh	Flowers	Mumbai	Bengaluru	126.2	22.9	3.9	0	0	0	4.9
+SEA0360	Sea Freight	17/01/2025	23:20	3.8	93.1	2.5	At Risk	Flowers	Vizag Port	Dubai Port	617	25.2	4.1	0	0	30.5	0
+AIR0949	Air Freight	02/03/2025	3:00	7.7	42.3	1.2	At Risk	Vegetables	Delhi Airport	London Heathrow Airport	42.6	28.6	8.3	67.2	0	0	0
+TRK0899	Cold-Chain Road Truck	10/02/2025	8:40	3.9	77.8	2.1	Fresh	Dairy	Pune	Jaipur	7.9	18.4	6.2	0	1	0	0
+TRK0090	Cold-Chain Road Truck	09/06/2024	18:45	7.7	72.1	1	Fresh	Flowers	Jaipur	Mumbai	4.7	20.7	4.3	0	1	0	0
+SEA0658	Sea Freight	17/11/2024	12:45	5.3	84.2	1	Fresh	Vegetables	Chennai Port	Rotterdam Port	421.2	14.3	9.5	0	0	30.4	0
+SEA0395	Sea Freight	22/11/2024	19:55	2.4	80.9	1.7	Fresh	Meat	Kolkata Port	Shanghai Port	619.7	20.5	5.2	0	0	34	0
+AIR0627	Air Freight	04/08/2024	12:30	-5.8	42.2	0.5	Fresh	Vegetables	Mumbai Airport	Singapore Airport	30.3	14.7	8.9	86.7	0	0	0
+TRK0334	Cold-Chain Road Truck	25/03/2024	17:15	11.8	84.9	5.1	Spoiled	Seafood	Delhi	Bhopal	58.3	87.3	1.7	0	11	0	0
+AIR0077	Air Freight	04/01/2025	20:45	9	23.2	0.8	Fresh	Vegetables	Kolkata Airport	Hong Kong Airport	33.7	17.3	9.2	85.8	0	0	0
+AIR0485	Air Freight	17/02/2026	15:15	2.1	32.5	0.6	Fresh	Pharmaceuticals	Delhi Airport	Dubai Airport	24.1	14.8	27.6	70	0	0	0
+TRK0184	Cold-Chain Road Truck	18/10/2025	1:00	10.8	27	2.4	Fresh	Fruits	Pune	Lucknow	9.2	8.5	11.3	0	1	0	0
+TRK0965	Cold-Chain Road Truck	09/08/2025	16:20	9.4	47.6	4.1	At Risk	Meat	Delhi	Kolkata	52	44.2	4.5	0	6	0	0
+RAIL0616	Intermodal Rail	19/10/2025	21:15	2.7	65.2	1.8	Fresh	Seafood	Guwahati	Jammu	146	13.6	3.2	0	0	0	3.5
+TRK0677	Cold-Chain Road Truck	08/01/2025	16:45	2.9	71.6	3.3	Fresh	Fruits	Delhi	Indore	20.6	20.2	10.1	0	4	0	0
+TRK0083	Cold-Chain Road Truck	25/01/2026	22:55	3.5	96.8	5.7	At Risk	Pharmaceuticals	Surat	Bhopal	68.2	37.1	23.1	0	11	0	0
+RAIL0677	Intermodal Rail	27/09/2024	6:10	3.1	51.1	3.1	Fresh	Meat	Ahmedabad	Bengaluru	128.3	11.8	5	0	0	0	2.9
+AIR0745	Air Freight	29/08/2026	14:15	5.8	32.6	0.2	At Risk	Dairy	Mumbai Airport	Hong Kong Airport	38.5	26.1	5.8	75.7	0	0	0
+SEA0515	Sea Freight	04/10/2024	1:55	7.9	81.4	0.7	Fresh	Pharmaceuticals	Vizag Port	Singapore Port	624.4	23.5	25.3	0	0	39.7	0
+TRK0312	Cold-Chain Road Truck	24/08/2024	8:30	19.9	82.1	2	Fresh	Fruits	Ahmedabad	Pune	2.6	21.9	10	0	1	0	0
+RAIL0025	Intermodal Rail	06/05/2025	11:40	6.3	71.9	3.6	Fresh	Vegetables	Chennai	Kochi	146.2	18.2	8.3	0	0	0	3.3
+AIR0569	Air Freight	11/10/2025	11:05	3.8	9	0.9	Fresh	Vegetables	Bengaluru Airport	Frankfurt Airport	32.9	9.3	9.2	85.4	0	0	0
+AIR0386	Air Freight	02/01/2025	11:35	5.5	8	0.3	Fresh	Pharmaceuticals	Delhi Airport	Dubai Airport	33.6	5.6	29.2	83.8	0	0	0
+RAIL0725	Intermodal Rail	29/12/2024	9:40	3.3	54.7	1.8	Fresh	Flowers	Chennai	Guwahati	147.1	16.4	4.5	0	0	0	5.4
+AIR0655	Air Freight	07/10/2024	16:05	6.3	31.2	0.8	Fresh	Pharmaceuticals	Hyderabad Airport	Hong Kong Airport	35.9	17	26.9	68.8	0	0	0
+SEA0437	Sea Freight	27/03/2024	6:50	8.5	98.4	1.3	Spoiled	Meat	Kandla Port	Jebel Ali Port	642.9	79.2	2.6	0	0	40	0
+AIR0995	Air Freight	07/05/2024	8:40	3.3	26.8	0.7	Fresh	Pharmaceuticals	Kolkata Airport	Singapore Airport	37.5	15.4	27.6	62	0	0	0
+TRK0826	Cold-Chain Road Truck	22/05/2025	9:10	2.9	84.1	5.8	At Risk	Meat	Kolkata	Surat	52	42.7	4.4	0	7	0	0
+AIR0967	Air Freight	28/06/2026	17:45	4.3	23.5	0.3	Fresh	Flowers	Mumbai Airport	Amsterdam Airport	34.2	20.9	4.2	85.5	0	0	0
+TRK0405	Cold-Chain Road Truck	08/05/2026	16:10	1.7	49.7	4.5	Fresh	Pharmaceuticals	Kolkata	Jaipur	43.4	20.5	26.2	0	5	0	0
+RAIL0127	Intermodal Rail	02/08/2026	17:40	3.2	59.5	0.5	Fresh	Pharmaceuticals	Guwahati	Kochi	155.7	7.8	28.3	0	0	0	2.8
+SEA0090	Sea Freight	02/01/2026	12:15	8.4	82.4	2.4	Fresh	Pharmaceuticals	Mumbai Port	Hamburg Port	392	9.4	28.7	0	0	32.7	0
+RAIL0531	Intermodal Rail	24/11/2024	0:15	2.1	60	2.1	Fresh	Dairy	Delhi	Nagpur	122.2	19.3	6.3	0	0	0	6.3
+SEA0118	Sea Freight	27/12/2025	23:30	7.1	80.5	1.8	Fresh	Vegetables	Kolkata Port	Los Angeles Port	571.3	24.7	8.4	0	0	33.2	0
+AIR0128	Air Freight	09/08/2024	16:30	3.7	18	6	Fresh	Dairy	Chennai Airport	Singapore Airport	44	19.8	6.3	80.1	0	0	0
+RAIL0989	Intermodal Rail	24/12/2025	10:10	4.2	67.3	3.5	Fresh	Seafood	Kolkata	Jammu	150	15.8	3.9	0	0	0	2.6
+TRK0463	Cold-Chain Road Truck	30/11/2024	20:50	3.3	47.5	3.2	Fresh	Pharmaceuticals	Lucknow	Ahmedabad	12.2	5.5	28.9	0	2	0	0
+TRK0822	Cold-Chain Road Truck	26/07/2026	16:25	1.1	52	4.3	Fresh	Dairy	Indore	Udaipur	36	18.1	6.2	0	6	0	0
+AIR0325	Air Freight	27/07/2025	18:40	-1.5	35.6	0.3	Fresh	Flowers	Kolkata Airport	Amsterdam Airport	28.2	12.7	4.6	83.9	0	0	0
+TRK0802	Cold-Chain Road Truck	14/11/2025	14:05	2	40.5	5.2	Fresh	Pharmaceuticals	Bengaluru	Indore	54.8	15.9	27.1	0	6	0	0
+RAIL0092	Intermodal Rail	20/03/2025	1:35	3.1	58.5	3.4	Fresh	Meat	Guwahati	Jaipur	128.3	17.6	5.2	0	0	0	5.4
+TRK0722	Cold-Chain Road Truck	15/11/2025	4:45	1.7	87.4	6.8	At Risk	Fruits	Chennai	Pune	63	41.3	8	0	9	0	0
+RAIL0290	Intermodal Rail	27/05/2025	0:00	1.6	89.2	2.3	At Risk	Seafood	Mumbai	Bengaluru	146.8	25.8	3.5	0	0	0	3.6
+AIR0664	Air Freight	23/02/2024	15:45	1.9	32.9	1.1	Spoiled	Meat	Hyderabad Airport	Frankfurt Airport	45	85.8	3.1	83.2	0	0	0
+RAIL0067	Intermodal Rail	07/08/2025	3:55	10.5	62.6	4.3	Fresh	Fruits	Delhi	Jammu	123.3	9.1	10.9	0	0	0	3.5
+TRK0724	Cold-Chain Road Truck	20/11/2025	10:30	8.9	64.5	5.4	Fresh	Pharmaceuticals	Delhi	Bhopal	49.7	21.6	25.9	0	9	0	0
