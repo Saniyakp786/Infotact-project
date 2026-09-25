@@ -1,5 +1,6 @@
 import random
 import time
+import json
 from datetime import datetime
 
 
@@ -30,6 +31,6 @@ if __name__ == "__main__":
 
         data = generate_sensor_data()
 
-        print(data)
+        print(json.dumps(data))
 
         time.sleep(2)
