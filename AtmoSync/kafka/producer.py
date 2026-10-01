@@ -4,7 +4,7 @@ import time
 from kafka import KafkaProducer
 
 # Dataset path
-CSV_PATH = "../data/Cleaned_Dataset_IntermodalRail.csv"
+CSV_PATH = "data/Cleaned_Dataset_IntermodalRail.csv"
 
 # Kafka Producer
 producer = KafkaProducer(
