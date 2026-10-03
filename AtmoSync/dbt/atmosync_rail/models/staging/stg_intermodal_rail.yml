@@ -1,0 +1,24 @@
+version: 2
+
+models:
+  - name: stg_intermodal_rail
+    description: "Staging model for Intermodal Rail shipment data"
+
+    columns:
+      - name: SHIPMENT_ID
+        description: "Unique shipment identifier"
+        data_tests:
+          - not_null
+          - unique
+
+      - name: TRANSPORT_MODE
+        data_tests:
+          - not_null
+
+      - name: RECORDED_DATE
+        data_tests:
+          - not_null
+
+      - name: SPOILAGE_RISK_PERCENT
+        data_tests:
+          - not_null
