@@ -1,0 +1,15 @@
+database_name: Snowflake
+sqlalchemy_uri: snowflake://SANIBHUVAD80:XXXXXXXXXX@PD61992.ap-southeast-7.aws/ATMOSYNC_DB?role=ACCOUNTADMIN&warehouse=ATMOSYNC_WH
+cache_timeout: null
+expose_in_sqllab: true
+allow_run_async: false
+allow_ctas: false
+allow_cvas: false
+allow_dml: false
+allow_file_upload: false
+extra:
+  allows_virtual_table_explore: true
+impersonate_user: false
+configuration_method: dynamic_form
+uuid: aeade2a0-4ff1-4f3d-8db9-ea74b494091a
+version: 1.0.0
